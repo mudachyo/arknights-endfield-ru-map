@@ -1,0 +1,43 @@
+name: Update Map Data
+
+on:
+  schedule:
+    # Запуск каждый день в 6:00 UTC (9:00 MSK)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Позволяет запускать вручную
+
+jobs:
+  update-map:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install cloudscraper
+      
+      - name: Run update script
+        run: python update_map.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add map.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🗺️ Auto-update map data [$(date +'%Y-%m-%d')]"
+            git push
+          fi

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arknights Endfield - Интерактивная карта</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗺️</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+    <!-- Боковая панель -->
+    <aside id="sidebar" class="sidebar">
+        <div class="sidebar-content">
+            <div class="sidebar-header">
+                <button id="close-sidebar-btn" class="close-sidebar-btn" title="Закрыть меню">✕</button>
+                <h1>🗺️ Arknights Endfield</h1>
+                <p class="subtitle">Интерактивная карта</p>
+            </div>
+
+            <!-- Выбор региона -->
+            <div class="control-group">
+                <label for="region-select">Регион</label>
+                <select id="region-select" class="select-control">
+                    <option value="">-- Выберите регион --</option>
+                </select>
+            </div>
+
+            <!-- Выбор области -->
+            <div class="control-group">
+                <label for="area-select">Область</label>
+                <select id="area-select" class="select-control" disabled>
+                    <option value="">-- Сначала выберите регион --</option>
+                </select>
+            </div>
+
+            <!-- Фильтр по типу -->
+            <div class="control-group">
+                <label>Фильтр по типу</label>
+                <div id="classification-filters" class="filter-list">
+                    <p class="placeholder-text">Выберите область для отображения фильтров</p>
+                </div>
+            </div>
+
+            <!-- Бэкап прогресса -->
+            <div class="control-group">
+                <label>Бэкап прогресса</label>
+                <div class="backup-actions">
+                    <button id="export-backup-btn" class="btn btn-secondary">💾 Экспорт</button>
+                    <button id="import-backup-btn" class="btn btn-secondary">📂 Импорт</button>
+                    <input type="file" id="import-file-input" accept=".json,.txt" style="display: none;">
+                </div>
+            </div>
+            
+            <!-- Кнопки управления -->
+            <div class="actions-panel">
+                <button id="uncollected-btn" class="btn btn-primary">📋 Не собрано</button>
+                <button id="reset-collected-btn" class="btn btn-danger">🗑️ Сбросить прогресс</button>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Кнопка toggle сайдбара -->
+    <button id="toggle-sidebar" class="toggle-btn" title="Свернуть/развернуть панель">
+        <span class="toggle-icon">☰</span>
+    </button>
+
+    <!-- Overlay для панели -->
+    <div id="panel-overlay" class="panel-overlay hidden"></div>
+
+    <!-- Панель "Не собрано" -->
+    <div id="uncollected-panel" class="uncollected-panel hidden">
+        <div class="uncollected-panel-header">
+            <h2>📋 Не собранные предметы</h2>
+            <button id="close-uncollected-btn" class="close-btn" title="Закрыть">✕</button>
+        </div>
+        <div id="uncollected-content" class="uncollected-content">
+            <p class="placeholder-text">Выберите область для отображения предметов</p>
+        </div>
+    </div>
+
+    <!-- Контейнер карты -->
+    <main id="map-container" class="map-container">
+        <div id="map" class="map">
+            <div class="map-placeholder">
+                <p>🗺️ Выберите регион и область для загрузки карты</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Lightbox для просмотра изображений -->
+    <div id="lightbox" class="lightbox hidden">
+        <div class="lightbox-overlay"></div>
+        <div class="lightbox-content">
+            <button class="lightbox-close" title="Закрыть">✕</button>
+            <img class="lightbox-image" src="" alt="Увеличенное изображение">
+        </div>
+    </div>
+
+    <!-- Шаблон popup -->
+    <template id="popup-template">
+        <div class="custom-popup">
+            <h3 class="popup-title"></h3>
+            <p class="popup-description"></p>
+            <div class="popup-image-container">
+                <img class="popup-image" src="" alt="Подсказка" loading="lazy">
+            </div>
+            <div class="popup-actions">
+                <button class="btn btn-primary open-image-btn">📷 Открыть изображение</button>
+                <button class="btn btn-success collect-btn">✓ Отметить собранным</button>
+            </div>
+        </div>
+    </template>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

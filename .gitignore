@@ -1,0 +1,25 @@
+# Локальные скрипты (не нужны на GitHub)
+export-descriptions.js
+parser.js
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Временные файлы
+*.tmp
+*.temp
+*.log

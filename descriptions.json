@@ -1,0 +1,4863 @@
+{
+  "info": "Заполните поле \"translated\" для каждого описания",
+  "total": 687,
+  "descriptions": [
+    {
+      "original": "5th floor of a building at Tianshi Bureau Academy. Moving around in the air.",
+      "translated": "5-й этаж здания в Академии Бюро Тяньши. Перемещается в воздухе.",
+      "ids": [
+        "1385249"
+      ]
+    },
+    {
+      "original": "A moving Aurylene that you must chase through a stairwell.",
+      "translated": "Движущийся аурилен, за которым нужно гнаться по лестничной клетке.",
+      "ids": [
+        "1382685"
+      ]
+    },
+    {
+      "original": "Above the platform at the center of the area. Use the explosive box to get to the Aurylene.",
+      "translated": "Над платформой в центре области. Используйте взрывной ящик, чтобы добраться до аурилена.",
+      "ids": [
+        "1382697"
+      ]
+    },
+    {
+      "original": "Activate the device to drain the water, then step on the panel to move the platform. Appears when you Scan. To activate the device, you need to progress through the story.",
+      "translated": "Активируйте устройство, чтобы слить воду, затем встаньте на панель, чтобы переместить платформу. Появляется при сканировании. Для активации устройства требуется прогресс в сюжете.",
+      "ids": [
+        "1385255",
+        "1385256"
+      ]
+    },
+    {
+      "original": "Along the cliff edge north of Bridge Approach.",
+      "translated": "Вдоль края утёса к северу от Подхода к мосту.",
+      "ids": [
+        "1374059"
+      ]
+    },
+    {
+      "original": "Along the destroyed road, west of Valley Transfer and north of Arsenal.",
+      "translated": "Вдоль разрушенной дороги, к западу от Долинного перехода и к северу от Арсенала.",
+      "ids": [
+        "1374087"
+      ]
+    },
+    {
+      "original": "Along the main path up on the Mountain Top. Unlocked with story progress.",
+      "translated": "Вдоль главной тропы на вершине горы. Открывается по мере прохождения сюжета.",
+      "ids": [
+        "1381465"
+      ]
+    },
+    {
+      "original": "Appears after clearing the Energy Alluvium at the Stockpile Area.",
+      "translated": "Появляется после очистки энергетического аллювия в зоне складирования.",
+      "ids": [
+        "1385051"
+      ]
+    },
+    {
+      "original": "Appears after clearing the Lvl. 60 Energy Alluvium in the area.",
+      "translated": "Появляется после очистки энергетического аллювия 60 ур. в этой области.",
+      "ids": [
+        "1382747"
+      ]
+    },
+    {
+      "original": "Appears during a Daily Task, Friend of Bots.",
+      "translated": "Появляется во время ежедневного задания «Друг роботов».",
+      "ids": [
+        "1382733"
+      ]
+    },
+    {
+      "original": "Appears when progressing through the mission \"Friend of Robots\".",
+      "translated": "Появляется при прохождении миссии «Друг роботов».",
+      "ids": [
+        "1386661"
+      ]
+    },
+    {
+      "original": "Appears when progressing through the mission Friend of Robots.",
+      "translated": "Появляется при прохождении миссии «Друг роботов».",
+      "ids": [
+        "1386829"
+      ]
+    },
+    {
+      "original": "Appears when scanned. Chase the Aurylene around the tree to get it.",
+      "translated": "Появляется при сканировании. Преследуйте аурилен вокруг дерева, чтобы получить его.",
+      "ids": [
+        "1382694"
+      ]
+    },
+    {
+      "original": "Appears when scanned. Located above the rock below the waterfall.",
+      "translated": "Появляется при сканировании. Находится над скалой под водопадом.",
+      "ids": [
+        "1382709"
+      ]
+    },
+    {
+      "original": "Appears when scanned. Located under the waterfall.",
+      "translated": "Появляется при сканировании. Находится под водопадом.",
+      "ids": [
+        "1382708"
+      ]
+    },
+    {
+      "original": "Around the fence, northwest of Mine Cable Car Station.",
+      "translated": "Возле забора, к северо-западу от станции шахтной канатной дороги.",
+      "ids": [
+        "1382430"
+      ]
+    },
+    {
+      "original": "At Hulu Cave. It will move when you approach. Attack to clear the mist of light and proceed forward.",
+      "translated": "В пещере Хулу. Перемещается при приближении. Атакуйте, чтобы рассеять световой туман и продвинуться вперёд.",
+      "ids": [
+        "1385270"
+      ]
+    },
+    {
+      "original": "At Stragglers Ford, by the water north of Straggers Grove.",
+      "translated": "На Броде отставших, у воды к северу от Рощи отставших.",
+      "ids": [
+        "1386842"
+      ]
+    },
+    {
+      "original": "At the back of the building in Staff Lounge.",
+      "translated": "Позади здания в Комнате отдыха персонала.",
+      "ids": [
+        "1381217"
+      ]
+    },
+    {
+      "original": "At the center of Abandoned Trail, where you also find a Protocol Datalogger.",
+      "translated": "В центре Заброшенной тропы, где также находится Регистратор протокола.",
+      "ids": [
+        "1381467"
+      ]
+    },
+    {
+      "original": "At the center of Abandoned Trail.",
+      "translated": "В центре Заброшенной тропы.",
+      "ids": [
+        "1374091"
+      ]
+    },
+    {
+      "original": "At the center of Transfer Area.",
+      "translated": "В центре Зоны перехода.",
+      "ids": [
+        "1381658"
+      ]
+    },
+    {
+      "original": "At the center of Valley Transfer. Go up the stairs and onto the steel beams.",
+      "translated": "В центре Долинного перехода. Поднимитесь по лестнице и на стальные балки.",
+      "ids": [
+        "1374086"
+      ]
+    },
+    {
+      "original": "At the Ecological Research Station, near the south part of the area.",
+      "translated": "На Экологической исследовательской станции, в южной части области.",
+      "ids": [
+        "1386843"
+      ]
+    },
+    {
+      "original": "At the end of the cliff, west of the Logistics Area.",
+      "translated": "На краю утёса, к западу от Логистической зоны.",
+      "ids": [
+        "1382435"
+      ]
+    },
+    {
+      "original": "At the entrance to Treasure Grotto, west of Sky King Flats.",
+      "translated": "У входа в Грот сокровищ, к западу от Равнины Небесного Короля.",
+      "ids": [
+        "1386846"
+      ]
+    },
+    {
+      "original": "At the Evacuation Zone, just north of the Recycling Station.",
+      "translated": "В Зоне эвакуации, к северу от Станции переработки.",
+      "ids": [
+        "1386837"
+      ]
+    },
+    {
+      "original": "At the northern part of the map, east of the Agricultural Test Site. Moves when approached.",
+      "translated": "В северной части карты, к востоку от Сельскохозяйственного испытательного участка. Перемещается при приближении.",
+      "ids": [
+        "1385259"
+      ]
+    },
+    {
+      "original": "At the northern tip of Old Factory, behind crates. Progress through the main quest to completely repair the Hub and Old Factory to make this Aurylene appear.",
+      "translated": "В северной части Старой фабрики, за ящиками. Пройдите основной квест, чтобы полностью починить Хаб и Старую фабрику, и аурилен появится.",
+      "ids": [
+        "1381134"
+      ]
+    },
+    {
+      "original": "At the Quarry Entrance next to the yellow cargo container.",
+      "translated": "У входа в карьер рядом с жёлтым грузовым контейнером.",
+      "ids": [
+        "1385055"
+      ]
+    },
+    {
+      "original": "At the south side of Monitoring Center. Moves when approached.",
+      "translated": "С южной стороны Центра мониторинга. Перемещается при приближении.",
+      "ids": [
+        "1385262"
+      ]
+    },
+    {
+      "original": "At the southeast part of Staff Lounge. Power supply required.",
+      "translated": "В юго-восточной части Комнаты отдыха персонала. Требуется электропитание.",
+      "ids": [
+        "1381660"
+      ]
+    },
+    {
+      "original": "At the southern part of the Old Mines, next to the TP Point.",
+      "translated": "В южной части Старых шахт, рядом с точкой телепортации.",
+      "ids": [
+        "1386821"
+      ]
+    },
+    {
+      "original": "At the southern tip of the hill at Southern Meadows.",
+      "translated": "На южной оконечности холма у Южных лугов.",
+      "ids": [
+        "1374065"
+      ]
+    },
+    {
+      "original": "At the start of the large bridge underneath the crane, southwest of Deep Management Post.",
+      "translated": "В начале большого моста под краном, к юго-западу от Поста глубинного управления.",
+      "ids": [
+        "1380793"
+      ]
+    },
+    {
+      "original": "At the tip of a hill south of Mining Area Clinic. Appears when you destroy a container with a bomb.",
+      "translated": "На вершине холма к югу от Клиники шахтёрского района. Появляется при уничтожении контейнера бомбой.",
+      "ids": [
+        "1382448"
+      ]
+    },
+    {
+      "original": "At the Top Floor of Originium Power Plant. As you progress during the quest Scaldings of Utjug, pass by some steam vents using crates as cover.",
+      "translated": "На верхнем этаже Оригиниумной электростанции. Во время квеста «Ожоги Утюга» пройдите мимо паровых вентиляций, используя ящики как укрытие.",
+      "ids": [
+        "1382573"
+      ]
+    },
+    {
+      "original": "Attack the illusory bamboo wall to reveal the chest.",
+      "translated": "Атакуйте иллюзорную бамбуковую стену, чтобы обнаружить сундук.",
+      "ids": [
+        "1382760"
+      ]
+    },
+    {
+      "original": "Attack the illusory rock to get to the chest.",
+      "translated": "Атакуйте иллюзорный камень, чтобы добраться до сундука.",
+      "ids": [
+        "1382775"
+      ]
+    },
+    {
+      "original": "Aurelyne that moves around near the Stock Distribution Terminal to the right of Sky King Flats. ",
+      "translated": "Аурилен, который перемещается возле терминала распределения запасов справа от Равнины Небесного Короля.",
+      "ids": [
+        "1382687"
+      ]
+    },
+    {
+      "original": "Aurylene positioned above the dam. You must fill the dam with water using a lever to gain access to the collectible.",
+      "translated": "Аурилен расположен над плотиной. Нужно заполнить плотину водой с помощью рычага, чтобы получить доступ к предмету.",
+      "ids": [
+        "1382688"
+      ]
+    },
+    {
+      "original": "Aurylene that appears after you scan it.",
+      "translated": "Аурилен, который появляется после сканирования.",
+      "ids": [
+        "1382689"
+      ]
+    },
+    {
+      "original": "Aurylene that moves around the Burdosnout Hill. Chase it quickly to get the item.",
+      "translated": "Аурилен, который перемещается по холму Бурдоснаут. Быстро преследуйте его, чтобы получить предмет.",
+      "ids": [
+        "1382690"
+      ]
+    },
+    {
+      "original": "Behind a building at the southeast part of the Evacuation Zone.",
+      "translated": "Позади здания в юго-восточной части Зоны эвакуации.",
+      "ids": [
+        "1382682"
+      ]
+    },
+    {
+      "original": "Behind a container northwest of Mining Camp.",
+      "translated": "За контейнером к северо-западу от Шахтёрского лагеря.",
+      "ids": [
+        "1387235"
+      ]
+    },
+    {
+      "original": "Behind a few cylindrical containers, north of Mines Cable Car Station, after repairing the door.",
+      "translated": "За несколькими цилиндрическими контейнерами, к северу от станции шахтной канатной дороги, после починки двери.",
+      "ids": [
+        "1382432"
+      ]
+    },
+    {
+      "original": "Behind a large rock.",
+      "translated": "За большим камнем.",
+      "ids": [
+        "1382754"
+      ]
+    },
+    {
+      "original": "Behind a shipping container, northeast of Mines Cable Car Station, after repairing the door.",
+      "translated": "За грузовым контейнером, к северо-востоку от станции шахтной канатной дороги, после починки двери.",
+      "ids": [
+        "1382433"
+      ]
+    },
+    {
+      "original": "Behind the electric fence at Cliffside Mining Area.",
+      "translated": "За электрическим забором в Прибрежной шахтёрской зоне.",
+      "ids": [
+        "1387263"
+      ]
+    },
+    {
+      "original": "Behind the gate of the power supply.",
+      "translated": "За воротами электроснабжения.",
+      "ids": [
+        "1382441"
+      ]
+    },
+    {
+      "original": "Behind the Hub Base, in a circular platform before the AIC Research Center. This Aurylene only appears after progressing through a main quest at Valley Pass.",
+      "translated": "Позади базы Хаба, на круглой платформе перед Исследовательским центром AIC. Этот аурилен появляется только после прохождения основного квеста в Долинном перевале.",
+      "ids": [
+        "1380794"
+      ]
+    },
+    {
+      "original": "Beisde a thick tree on the west side of Woodland Fringes.",
+      "translated": "Возле толстого дерева в западной части Лесной опушки.",
+      "ids": [
+        "1380437"
+      ]
+    },
+    {
+      "original": "Below ground, in the Cliffside Mining Area.",
+      "translated": "Под землёй, в Прибрежной шахтёрской зоне.",
+      "ids": [
+        "1386818"
+      ]
+    },
+    {
+      "original": "Beside a pillar in an area full of unfinished pillars far south of the Construction Site.",
+      "translated": "Возле столба в зоне с недостроенными столбами далеко к югу от Строительной площадки.",
+      "ids": [
+        "1374064"
+      ]
+    },
+    {
+      "original": "Beside the Sub-PAC you unlock during the quest Building an Outpost, at the northern area.",
+      "translated": "Возле Суб-ПАКа, который вы разблокируете во время квеста «Строительство аванпоста», в северной зоне.",
+      "ids": [
+        "1374093"
+      ]
+    },
+    {
+      "original": "Between Containment Zone intersection and Old Mines, in the middle of two saplings during the quest Lodespring Crossing.",
+      "translated": "Между перекрёстком Зоны сдерживания и Старыми шахтами, между двумя саженцами во время квеста «Переправа Лоудспринг».",
+      "ids": [
+        "1381668"
+      ]
+    },
+    {
+      "original": "Between Containment Zone intersection and Old Mines, near a sapling.",
+      "translated": "Между перекрёстком Зоны сдерживания и Старыми шахтами, возле саженца.",
+      "ids": [
+        "1381669"
+      ]
+    },
+    {
+      "original": "Between several shipping containers and next to a fence, near the center of Blightcliff Observation Post.",
+      "translated": "Между несколькими грузовыми контейнерами и возле забора, недалеко от центра Наблюдательного поста Блайтклиф.",
+      "ids": [
+        "1382454"
+      ]
+    },
+    {
+      "original": "Between some metal crates in Shorecove Camp, jump to the top of some boxes to get it.",
+      "translated": "Между металлическими ящиками в Лагере Шоркоув, запрыгните на ящики, чтобы получить его.",
+      "ids": [
+        "1381324"
+      ]
+    },
+    {
+      "original": "Between the containers northwest of Mining Camp.",
+      "translated": "Между контейнерами к северо-западу от Шахтёрского лагеря.",
+      "ids": [
+        "1387236"
+      ]
+    },
+    {
+      "original": "Both a chest and Aurylene, head towards Block C after entering Block A in the quest \"Deep Management Post Rescue\"",
+      "translated": "Сундук и аурилен: направляйтесь к Блоку C после входа в Блок A во время квеста «Спасение на Посту глубинного управления».",
+      "ids": [
+        "1381527"
+      ]
+    },
+    {
+      "original": "Bring power to the device and open the fence to find the chest in the area.",
+      "translated": "Подайте питание на устройство и откройте забор, чтобы найти сундук в этой зоне.",
+      "ids": [
+        "1387228"
+      ]
+    },
+    {
+      "original": "By the Chrysodendra gathering spot south of the Meteorological Station.",
+      "translated": "Возле места сбора хризодендры к югу от Метеорологической станции.",
+      "ids": [
+        "1381674"
+      ]
+    },
+    {
+      "original": "Can be found after behind one of the UWST crew members after saving them in the Valley Reboot quest.",
+      "translated": "Можно найти за одним из членов экипажа UWST после их спасения в квесте «Перезагрузка долины».",
+      "ids": [
+        "1381302"
+      ]
+    },
+    {
+      "original": "Can be found behind a house in the Old Water Plant area. You can access it by jumping on some platforms or by using a zipline behind the area.",
+      "translated": "Можно найти за домом в районе Старого водоочистного завода. Доступ через платформы или зиплайн за этой зоной.",
+      "ids": [
+        "1381532"
+      ]
+    },
+    {
+      "original": "Can be found directly east of the Core AIC Area, behind the electric fence area.",
+      "translated": "Можно найти прямо к востоку от Основной зоны AIC, за зоной с электрическим забором.",
+      "ids": [
+        "1381529"
+      ]
+    },
+    {
+      "original": "Can be found in front of the truck nearby the PAC.",
+      "translated": "Можно найти перед грузовиком рядом с ПАКом.",
+      "ids": [
+        "1381303"
+      ]
+    },
+    {
+      "original": "Can be found in the Hub Base Power Plant parking lot behind some enemies.",
+      "translated": "Можно найти на парковке электростанции базы Хаба за несколькими врагами.",
+      "ids": [
+        "1381323"
+      ]
+    },
+    {
+      "original": "Can be found inside a ring-like arena north of the Bridge Approach.",
+      "translated": "Можно найти внутри арены в форме кольца к северу от Подхода к мосту.",
+      "ids": [
+        "1381320",
+        "1381321"
+      ]
+    },
+    {
+      "original": "Can be found inside one of the large metal containers within the Old Water Plant.",
+      "translated": "Можно найти внутри одного из больших металлических контейнеров на Старом водоочистном заводе.",
+      "ids": [
+        "1381304"
+      ]
+    },
+    {
+      "original": "Can be found inside the Hub Base Power Plant after opening the electric gate inside.",
+      "translated": "Можно найти внутри электростанции базы Хаба после открытия электрических ворот.",
+      "ids": [
+        "1381322"
+      ]
+    },
+    {
+      "original": "Can be found south of the Bridge Approach, just before a level 30 enemy.",
+      "translated": "Можно найти к югу от Подхода к мосту, прямо перед врагом 30 уровня.",
+      "ids": [
+        "1374073"
+      ]
+    },
+    {
+      "original": "Can be found south of the Hub Base Power Plant, below a steep passageway near a crisis challenge.",
+      "translated": "Можно найти к югу от электростанции базы Хаба, под крутым проходом возле кризисного испытания.",
+      "ids": [
+        "1381534"
+      ]
+    },
+    {
+      "original": "Can be found south of the Old Water Plant. It can be seen with three enemies doing push-ups in front of it.",
+      "translated": "Можно найти к югу от Старого водоочистного завода. Перед ним три врага отжимаются.",
+      "ids": [
+        "1380435"
+      ]
+    },
+    {
+      "original": "Can be obtained after going through the belt conveyor.",
+      "translated": "Можно получить после прохождения по конвейерной ленте.",
+      "ids": [
+        "1387028"
+      ]
+    },
+    {
+      "original": "Chest located on top of the Lotus.",
+      "translated": "Сундук расположен на вершине Лотоса.",
+      "ids": [
+        "1382740"
+      ]
+    },
+    {
+      "original": "Circles around the tree. Head down to the stairwell to get it.",
+      "translated": "Кружит вокруг дерева. Спуститесь по лестничной клетке, чтобы получить его.",
+      "ids": [
+        "1382692"
+      ]
+    },
+    {
+      "original": "Circles the dead tree in the bamboo forest. Scan to reveal the Aurylene.",
+      "translated": "Кружит вокруг мёртвого дерева в бамбуковом лесу. Отсканируйте, чтобы показать аурилен.",
+      "ids": [
+        "1382701"
+      ]
+    },
+    {
+      "original": "Clear the Energy Alluvium in the area south of Infra-Station.",
+      "translated": "Очистите энергетический аллювий в зоне к югу от Инфра-станции.",
+      "ids": [
+        "1386696"
+      ]
+    },
+    {
+      "original": "Clear the Energy Alluvium in the area south of Listening Post near the Transfer Area.",
+      "translated": "Очистите энергетический аллювий в зоне к югу от Поста прослушивания возле Зоны перехода.",
+      "ids": [
+        "1385066"
+      ]
+    },
+    {
+      "original": "Clear the Energy Alluvium in the area west of Temporary Stockpile.",
+      "translated": "Очистите энергетический аллювий в зоне к западу от Временного склада.",
+      "ids": [
+        "1387265"
+      ]
+    },
+    {
+      "original": "Clear the Energy Alluvium inside the Research Center in the room northwest.",
+      "translated": "Очистите энергетический аллювий внутри Исследовательского центра в комнате на северо-западе.",
+      "ids": [
+        "1386683"
+      ]
+    },
+    {
+      "original": "Clear the Energy Alluvium north of Research Center.",
+      "translated": "Очистите энергетический аллювий к северу от Исследовательского центра.",
+      "ids": [
+        "1386682"
+      ]
+    },
+    {
+      "original": "Clear the Energy Alluvium on the cliff next to Route 5.",
+      "translated": "Очистите энергетический аллювий на утёсе рядом с Маршрутом 5.",
+      "ids": [
+        "1386669"
+      ]
+    },
+    {
+      "original": "Clear the Energy Alluvium on the southern path from the Mountain Passage.",
+      "translated": "Очистите энергетический аллювий на южной тропе от Горного перевала.",
+      "ids": [
+        "1387223"
+      ]
+    },
+    {
+      "original": "Climb the stairs north of Mining Camp and up some boxes to find the chest.",
+      "translated": "Поднимитесь по лестнице к северу от Шахтёрского лагеря и заберитесь на ящики, чтобы найти сундук.",
+      "ids": [
+        "1387241"
+      ]
+    },
+    {
+      "original": "Climb the stairs north of Mining Camp, get up on the boxes, and then climb the stairs again behind the right side of the elevator.",
+      "translated": "Поднимитесь по лестнице к северу от Шахтёрского лагеря, заберитесь на ящики, затем поднимитесь по лестнице за правой стороной лифта.",
+      "ids": [
+        "1387242"
+      ]
+    },
+    {
+      "original": "Close to Bridge Approach, a little to the southwest.",
+      "translated": "Рядом с Подходом к мосту, немного к юго-западу.",
+      "ids": [
+        "1374060"
+      ]
+    },
+    {
+      "original": "Collect the three glowing orbs in the area to unlock the chest.",
+      "translated": "Соберите три светящихся сферы в этой зоне, чтобы открыть сундук.",
+      "ids": [
+        "1382749",
+        "1382780"
+      ]
+    },
+    {
+      "original": "Complete the Energy Alluvium (Lvl. 60) challenge to reveal the chest reward.",
+      "translated": "Завершите испытание энергетического аллювия (60 ур.), чтобы получить награду из сундука.",
+      "ids": [
+        "1382764"
+      ]
+    },
+    {
+      "original": "Complete the mission \"Dusty Old Files\" then head inside the hollow near the mining spot in Refuse Stockpile.",
+      "translated": "Завершите миссию «Пыльные старые файлы», затем войдите в полость возле точки добычи в Складе отходов.",
+      "ids": [
+        "1385058",
+        "1385059",
+        "1385060"
+      ]
+    },
+    {
+      "original": "Complete the mission \"Dusty Old Files\" to reach this basement room and find the chest.",
+      "translated": "Завершите миссию «Пыльные старые файлы», чтобы добраться до этой подвальной комнаты и найти сундук.",
+      "ids": [
+        "1386679",
+        "1386680",
+        "1386681"
+      ]
+    },
+    {
+      "original": "Contains templates for Aethertech Gear and LYNX Aegis Injector, found up on a building east of Citizen Square around the central courtyard using the jump pads.",
+      "translated": "Содержит чертежи снаряжения Эфиртех и инъектора LYNX Aegis. Находится на здании к востоку от Гражданской площади вокруг центрального двора, используйте прыжковые платформы.",
+      "ids": [
+        "1386998"
+      ]
+    },
+    {
+      "original": "Contains templates for Bonekrusha Gear and Pulser Labs Gear, found northwest of Field Logistics Depot in the area next to the TP point.",
+      "translated": "Содержит чертежи снаряжения Костедробитель и Лаборатории Пульсер. Находится к северо-западу от Полевого логистического депо рядом с точкой телепортации.",
+      "ids": [
+        "1386994"
+      ]
+    },
+    {
+      "original": "Contains templates for Bonekrusha Gear, found in Riverbank Grotto.",
+      "translated": "Содержит чертежи снаряжения Костедробитель. Находится в Прибрежном гроте.",
+      "ids": [
+        "1386995"
+      ]
+    },
+    {
+      "original": "Contains templates for Eternal Xiranite Gear, found on the dock at Stragglers Ford.",
+      "translated": "Содержит чертежи снаряжения Вечный Ксиранит. Находится на причале у Брода отставших.",
+      "ids": [
+        "1386991"
+      ]
+    },
+    {
+      "original": "Contains templates for Frontier Gear, found on the building in the eastern side of the Bureau of Swordmancers.",
+      "translated": "Содержит чертежи снаряжения Фронтир. Находится на здании в восточной части Бюро Мечников.",
+      "ids": [
+        "1387000"
+      ]
+    },
+    {
+      "original": "Contains templates for Frontiers Gear and MI Security Gear, found on a roof east of the Residential Area square accessed by jumping on some boxes at the back of the building.",
+      "translated": "Содержит чертежи снаряжения Фронтир и MI Security. Находится на крыше к востоку от площади Жилого района, доступ через ящики за зданием.",
+      "ids": [
+        "1386997"
+      ]
+    },
+    {
+      "original": "Contains templates for Hot Work Gear, found on a cliff north of Chenshan Way.",
+      "translated": "Содержит чертежи снаряжения Горячая работа. Находится на утёсе к северу от Пути Ченьшань.",
+      "ids": [
+        "1387001"
+      ]
+    },
+    {
+      "original": "Contains templates for LYNX Gear, found in the upper levels of the Institute of Materials Science.",
+      "translated": "Содержит чертежи снаряжения LYNX. Находится на верхних уровнях Института материаловедения.",
+      "ids": [
+        "1386999"
+      ]
+    },
+    {
+      "original": "Contains templates for MI Security Gear, found at the entrance of Monitoring Center.",
+      "translated": "Содержит чертежи снаряжения MI Security. Находится у входа в Центр мониторинга.",
+      "ids": [
+        "1386996"
+      ]
+    },
+    {
+      "original": "Contains templates for Swordmancer Gear and LYNX Gauntlets, found northwest of Gloomvale in one of the passages.",
+      "translated": "Содержит чертежи снаряжения Мечника и перчаток LYNX. Находится к северо-западу от Мрачной долины в одном из проходов.",
+      "ids": [
+        "1386990"
+      ]
+    },
+    {
+      "original": "Contains templates for Tide Surge Gear and Eternal Xiranite Aux Arm, found on a cliff north of Sky King Flats.",
+      "translated": "Содержит чертежи снаряжения Прилив и вспомогательной руки Вечный Ксиранит. Находится на утёсе к северу от Равнины Небесного Короля.",
+      "ids": [
+        "1386992"
+      ]
+    },
+    {
+      "original": "Contains templates for Type 50 Yinglung Gear, found north of Ecological Research Station just before the entrance to the city.",
+      "translated": "Содержит чертежи снаряжения Тип 50 Инлун. Находится к северу от Экологической исследовательской станции перед входом в город.",
+      "ids": [
+        "1386993"
+      ]
+    },
+    {
+      "original": "Defeat the mini-boss in the area to unlock this chest.",
+      "translated": "Победите мини-босса в этой зоне, чтобы открыть сундук.",
+      "ids": [
+        "1382770"
+      ]
+    },
+    {
+      "original": "Defeat the mini-boss near the cliff to unlock the chest.",
+      "translated": "Победите мини-босса возле утёса, чтобы открыть сундук.",
+      "ids": [
+        "1382757"
+      ]
+    },
+    {
+      "original": "Defeat the surrounding enemies to get the chest.",
+      "translated": "Победите окружающих врагов, чтобы получить сундук.",
+      "ids": [
+        "1382773"
+      ]
+    },
+    {
+      "original": "Destroy the box found through an electric fence that leads to a slope.",
+      "translated": "Уничтожьте ящик за электрическим забором, ведущим к склону.",
+      "ids": [
+        "1387229"
+      ]
+    },
+    {
+      "original": "Destroy the box with bombs  in the cargo containers southwest of Temporary Stockpile.",
+      "translated": "Уничтожьте ящик бомбами в грузовых контейнерах к юго-западу от Временного склада.",
+      "ids": [
+        "1387250"
+      ]
+    },
+    {
+      "original": "Directly south of the Mining Area Clinic.",
+      "translated": "Прямо к югу от Клиники шахтёрского района.",
+      "ids": [
+        "1382466"
+      ]
+    },
+    {
+      "original": "Down by the cliffside north of the Construction Sit.",
+      "translated": "Внизу у обрыва к северу от Строительной площадки.",
+      "ids": [
+        "1381464"
+      ]
+    },
+    {
+      "original": "Down in the valley just north of the Aether Test Site, and southeast of the Bonekrusher Warcamp.",
+      "translated": "Внизу в долине к северу от Эфирного испытательного полигона и к юго-востоку от Военного лагеря костедробителей.",
+      "ids": [
+        "1386836"
+      ]
+    },
+    {
+      "original": "Drop down a hole in the ground under a container northwest of Temporary Stockpile.",
+      "translated": "Спрыгните в отверстие в земле под контейнером к северо-западу от Временного склада.",
+      "ids": [
+        "1387248"
+      ]
+    },
+    {
+      "original": "Drop down into the cracked surface in the area south of Mining Area Clinic.",
+      "translated": "Спрыгните в трещину на поверхности в зоне к югу от Клиники шахтёрского района.",
+      "ids": [
+        "1387226",
+        "1387227"
+      ]
+    },
+    {
+      "original": "During the mission \"Elevated Rescue\" then use the crane to make a bridge to the chest using two containers.",
+      "translated": "Во время миссии «Спасение на высоте» используйте кран, чтобы сделать мост к сундуку из двух контейнеров.",
+      "ids": [
+        "1387252"
+      ]
+    },
+    {
+      "original": "Easily found just outside the United Parking Lot, by the west wall.",
+      "translated": "Легко найти прямо за Объединённой парковкой, у западной стены.",
+      "ids": [
+        "1386830"
+      ]
+    },
+    {
+      "original": "East of Old Dorms and west of Originium Power Plant. Inside a fenced-off area.",
+      "translated": "К востоку от Старых общежитий и к западу от Оригиниумной электростанции. Внутри огороженной зоны.",
+      "ids": [
+        "1382578"
+      ]
+    },
+    {
+      "original": "East of the Ecological Research Station and south of the TP Point at Treadway, close to the water.",
+      "translated": "К востоку от Экологической исследовательской станции и к югу от точки телепортации у Тредвея, рядом с водой.",
+      "ids": [
+        "1386841"
+      ]
+    },
+    {
+      "original": "Floating around outside Wuling City, to the east of the Residential Area.",
+      "translated": "Парит снаружи города Улин, к востоку от Жилого района.",
+      "ids": [
+        "1385232"
+      ]
+    },
+    {
+      "original": "Floating in the mini boss area during the Lodespring Crossing quest, between Containment Zone and Logistics Area. This one will move so clear the nearby blightwall and follow where it goes.",
+      "translated": "Парит в зоне мини-босса во время квеста «Переправа Лоудспринг», между Зоной сдерживания и Логистической зоной. Этот будет двигаться, так что очистите ближайшую чумную стену и следуйте за ним.",
+      "ids": [
+        "1381672"
+      ]
+    },
+    {
+      "original": "Flying around outside and underneath the Monitoring Center, at the very south end.",
+      "translated": "Летает снаружи и под Центром мониторинга, в самой южной части.",
+      "ids": [
+        "1385263"
+      ]
+    },
+    {
+      "original": "Flying around the cliffside at Sanku Ridge.",
+      "translated": "Летает вокруг обрыва на хребте Санку.",
+      "ids": [
+        "1385269"
+      ]
+    },
+    {
+      "original": "Flying over the roof, on the northeast part of Monitoring Center.",
+      "translated": "Летает над крышей в северо-восточной части Центра мониторинга.",
+      "ids": [
+        "1385261"
+      ]
+    },
+    {
+      "original": "Follow along the cliff to the west of Mining Area Clinic.",
+      "translated": "Следуйте вдоль утёса к западу от Клиники шахтёрского района.",
+      "ids": [
+        "1387231"
+      ]
+    },
+    {
+      "original": "Follow the butterflies and bring them to the Chest location.",
+      "translated": "Следуйте за бабочками и приведите их к местоположению сундука.",
+      "ids": [
+        "1382742",
+        "1382771",
+        "1382776"
+      ]
+    },
+    {
+      "original": "Found across the gap south of Hub Base Power Plant. This Aurylene moves to the main entrance of Originium Byproduct Processing Center.",
+      "translated": "Находится за разрывом к югу от электростанции базы Хаба. Этот аурилен перемещается к главному входу Центра переработки побочных продуктов оригиниума.",
+      "ids": [
+        "1380432"
+      ]
+    },
+    {
+      "original": "Found after clearing the Energy Alluvium north of the Abandoned Trail.",
+      "translated": "Появляется после очистки энергетического аллювия к северу от Заброшенной тропы.",
+      "ids": [
+        "1382721"
+      ]
+    },
+    {
+      "original": "Found after clearing the Temporary Energy Alluvium.",
+      "translated": "Появляется после очистки временного энергетического аллювия.",
+      "ids": [
+        "1387027",
+        "1387054"
+      ]
+    },
+    {
+      "original": "Found after dealing with the Energy Alluvium in the chasm southeast of the Old Water Plant.",
+      "translated": "Появляется после уничтожения энергетического аллювия в расщелине к юго-востоку от Старого водоочистного завода.",
+      "ids": [
+        "1381556"
+      ]
+    },
+    {
+      "original": "Found after dealing with the Energy Alluvium under a UWST billboard on the road just south of the Old Water Plant.",
+      "translated": "Появляется после уничтожения энергетического аллювия под рекламным щитом UWST на дороге к югу от Старого водоочистного завода.",
+      "ids": [
+        "1381557"
+      ]
+    },
+    {
+      "original": "Found after heading south down the road.",
+      "translated": "Находится после спуска по дороге на юг.",
+      "ids": [
+        "1387052"
+      ]
+    },
+    {
+      "original": "Found after heading up the stairs at the east side.",
+      "translated": "Находится после подъёма по лестнице на восточной стороне.",
+      "ids": [
+        "1387050"
+      ]
+    },
+    {
+      "original": "Found after heading west down the road.",
+      "translated": "Находится после спуска по дороге на запад.",
+      "ids": [
+        "1387051"
+      ]
+    },
+    {
+      "original": "Found along the dead-end tunnel in between Containment Zone Intersection and Logistics Area..",
+      "translated": "Находится в тупиковом туннеле между перекрёстком Зоны сдерживания и Логистической зоной.",
+      "ids": [
+        "1386823"
+      ]
+    },
+    {
+      "original": "Found along the path you go through during theThrough the Haze quest.",
+      "translated": "Находится вдоль пути, по которому вы идёте во время квеста «Сквозь туман».",
+      "ids": [
+        "1381308"
+      ]
+    },
+    {
+      "original": "Found along the road going north west of Mining Camp and unlocked by gathering the nearby Sealing Aurylenes.",
+      "translated": "Находится вдоль дороги к северо-западу от Шахтёрского лагеря, открывается сбором ближайших запечатывающих аурилен.",
+      "ids": [
+        "1387267"
+      ]
+    },
+    {
+      "original": "Found along the road north of Temporary Stockpile.",
+      "translated": "Находится вдоль дороги к северу от Временного склада.",
+      "ids": [
+        "1382328"
+      ]
+    },
+    {
+      "original": "Found along the wall in the building to the west of Hub Base.",
+      "translated": "Находится вдоль стены в здании к западу от базы Хаба.",
+      "ids": [
+        "1381641"
+      ]
+    },
+    {
+      "original": "Found around southwest of Temporary Stockpile and guarded by an enemy.",
+      "translated": "Находится к юго-западу от Временного склада под охраной врага.",
+      "ids": [
+        "1382590"
+      ]
+    },
+    {
+      "original": "Found around southwest of Temporary Stockpile.",
+      "translated": "Находится к юго-западу от Временного склада.",
+      "ids": [
+        "1382589"
+      ]
+    },
+    {
+      "original": "Found around the grassy parts of Stockpile Area.",
+      "translated": "Находится в травянистой части Зоны складирования.",
+      "ids": [
+        "1382319"
+      ]
+    },
+    {
+      "original": "Found around the Power Plant Comm Station.",
+      "translated": "Находится возле Станции связи электростанции.",
+      "ids": [
+        "1382600",
+        "1382601",
+        "1382602"
+      ]
+    },
+    {
+      "original": "Found around the Refuse Stockpile area.",
+      "translated": "Находится в районе Склада отходов.",
+      "ids": [
+        "1382413"
+      ]
+    },
+    {
+      "original": "Found at 1F, northwest of the power plant.",
+      "translated": "Находится на 1 этаже, к северо-западу от электростанции.",
+      "ids": [
+        "1387029"
+      ]
+    },
+    {
+      "original": "Found at one end of the wooden bridge.",
+      "translated": "Находится на одном конце деревянного моста.",
+      "ids": [
+        "1382759"
+      ]
+    },
+    {
+      "original": "Found at Refuse Stockpile. Move the central crane to the northwest, toward Refuse Stockpile.",
+      "translated": "Находится на Складе отходов. Переместите центральный кран на северо-запад, к Складу отходов.",
+      "ids": [
+        "1381659"
+      ]
+    },
+    {
+      "original": "Found at Route 5. Bomb a boulder just south of the TP Point to reveal the Aurylene.",
+      "translated": "Находится на Маршруте 5. Взорвите валун к югу от точки телепортации, чтобы обнаружить аурилен.",
+      "ids": [
+        "1381501"
+      ]
+    },
+    {
+      "original": "Found at the Abandoned Trail just past the bridge.",
+      "translated": "Находится на Заброшенной тропе сразу за мостом.",
+      "ids": [
+        "1382318"
+      ]
+    },
+    {
+      "original": "Found at the AIC Research Center and reached by using the floating crate to get over the fence.",
+      "translated": "Находится в Исследовательском центре AIC, доступ через парящий ящик, чтобы перебраться через забор.",
+      "ids": [
+        "1381643"
+      ]
+    },
+    {
+      "original": "Found at the back of a container in the northern part of Staff Lounge.",
+      "translated": "Находится позади контейнера в северной части Комнаты отдыха персонала.",
+      "ids": [
+        "1385070"
+      ]
+    },
+    {
+      "original": "Found at the back of a truck parked on the main road near the Construction Site.",
+      "translated": "Находится в задней части грузовика, припаркованного на главной дороге возле Строительной площадки.",
+      "ids": [
+        "1380427"
+      ]
+    },
+    {
+      "original": "Found at the center of Kohl Plant.",
+      "translated": "Находится в центре Фабрики кохля.",
+      "ids": [
+        "1381653"
+      ]
+    },
+    {
+      "original": "Found at the center of Temporary Stockpile.",
+      "translated": "Находится в центре Временного склада.",
+      "ids": [
+        "1382422"
+      ]
+    },
+    {
+      "original": "Found at the Cliffside Trail past an obstacle you can destroy with a bomb.",
+      "translated": "Находится на Прибрежной тропе за препятствием, которое можно уничтожить бомбой.",
+      "ids": [
+        "1382417"
+      ]
+    },
+    {
+      "original": "Found at the Control Center and unlocked by gathering the Sealing Aurylenes nearby.",
+      "translated": "Находится в Центре управления, открывается сбором ближайших запечатывающих аурилен.",
+      "ids": [
+        "1386667"
+      ]
+    },
+    {
+      "original": "Found at the eastern wall of the Hub Base Power Plant, close to the Recycling Station.",
+      "translated": "Находится у восточной стены электростанции базы Хаба, рядом со Станцией переработки.",
+      "ids": [
+        "1374096"
+      ]
+    },
+    {
+      "original": "Found at the end of a dead end path in between Containment Zone Intersection and Logistics Area.",
+      "translated": "Находится в конце тупиковой тропы между перекрёстком Зоны сдерживания и Логистической зоной.",
+      "ids": [
+        "1382436"
+      ]
+    },
+    {
+      "original": "Found at the end of an underground passage accessed via a side quest.",
+      "translated": "Находится в конце подземного прохода, доступного через побочный квест.",
+      "ids": [
+        "1381456"
+      ]
+    },
+    {
+      "original": "Found at the end of the bridge that can be crossed during the mission, \"Elevated Rescue\".",
+      "translated": "Находится в конце моста, через который можно пройти во время миссии «Спасение на высоте».",
+      "ids": [
+        "1382591"
+      ]
+    },
+    {
+      "original": "Found at the Evacuation Zone, just south of the Ferrium mining spot.",
+      "translated": "Находится в Зоне эвакуации, к югу от точки добычи ферриума.",
+      "ids": [
+        "1386831"
+      ]
+    },
+    {
+      "original": "Found at the far eastern corner of the Mining Camp.",
+      "translated": "Находится в дальнем восточном углу Шахтёрского лагеря.",
+      "ids": [
+        "1382327"
+      ]
+    },
+    {
+      "original": "Found at the Loading Area, and northeast of Refuse Stockpile, beside a steel fence.",
+      "translated": "Находится в Зоне погрузки к северо-востоку от Склада отходов, рядом со стальным забором.",
+      "ids": [
+        "1381657"
+      ]
+    },
+    {
+      "original": "Found at the Logistics Area on the eastern side.",
+      "translated": "Находится в Логистической зоне на восточной стороне.",
+      "ids": [
+        "1382325"
+      ]
+    },
+    {
+      "original": "Found at the Logistics Platform and can be reached after repairing the scaffolding device.",
+      "translated": "Находится на Логистической платформе, доступ после починки строительных лесов.",
+      "ids": [
+        "1381599",
+        "1381600"
+      ]
+    },
+    {
+      "original": "Found at the Logistics Platform in the eastern area.",
+      "translated": "Находится на Логистической платформе в восточной зоне.",
+      "ids": [
+        "1381601"
+      ]
+    },
+    {
+      "original": "Found at the Logistics Platform next to a set of stairs.",
+      "translated": "Находится на Логистической платформе рядом с лестницей.",
+      "ids": [
+        "1381597"
+      ]
+    },
+    {
+      "original": "Found at the Logistics Platform on top of some boxes.",
+      "translated": "Находится на Логистической платформе на ящиках.",
+      "ids": [
+        "1381598"
+      ]
+    },
+    {
+      "original": "Found at the Mountain Side Trail right behind a toppled vehicle.",
+      "translated": "Находится на Горной боковой тропе прямо за перевёрнутым транспортом.",
+      "ids": [
+        "1381648"
+      ]
+    },
+    {
+      "original": "Found at the Mountain Top after blowing up some debris with a bomb.",
+      "translated": "Находится на Вершине горы после взрыва обломков бомбой.",
+      "ids": [
+        "1381571",
+        "1381572"
+      ]
+    },
+    {
+      "original": "Found at the Mountain Top and opened after gathering 3 Sealing Aurylenes nearby.",
+      "translated": "Находится на Вершине горы, открывается после сбора 3 запечатывающих аурилен поблизости.",
+      "ids": [
+        "1381574"
+      ]
+    },
+    {
+      "original": "Found at the Mountain Top on top of some boxes at the southern edge.",
+      "translated": "Находится на Вершине горы на ящиках у южного края.",
+      "ids": [
+        "1381573"
+      ]
+    },
+    {
+      "original": "Found at the Mountain Top which can be accessed by using bombs and power supplies.",
+      "translated": "Находится на Вершине горы, доступ через использование бомб и источников питания.",
+      "ids": [
+        "1381569",
+        "1381570"
+      ]
+    },
+    {
+      "original": "Found at the north side of the Infra-Station AIC area.",
+      "translated": "Находится на северной стороне зоны Инфра-станции AIC.",
+      "ids": [
+        "1386663"
+      ]
+    },
+    {
+      "original": "Found at the Old Dorms.",
+      "translated": "Находится в Старых общежитиях.",
+      "ids": [
+        "1386826"
+      ]
+    },
+    {
+      "original": "Found at the south end of Logistics area.",
+      "translated": "Находится на южном краю Логистической зоны.",
+      "ids": [
+        "1386824"
+      ]
+    },
+    {
+      "original": "Found at the southern edge of The Depression guarded by enemies.",
+      "translated": "Находится на южном краю Впадины под охраной врагов.",
+      "ids": [
+        "1386670"
+      ]
+    },
+    {
+      "original": "Found at the southern side of Transport Nexus.",
+      "translated": "Находится на южной стороне Транспортного узла.",
+      "ids": [
+        "1381651"
+      ]
+    },
+    {
+      "original": "Found at the wrecked northwest part of Transport Nexus, on a high platform next to the main road.",
+      "translated": "Находится в разрушенной северо-западной части Транспортного узла, на высокой платформе рядом с главной дорогой.",
+      "ids": [
+        "1381503"
+      ]
+    },
+    {
+      "original": "Found at Tianjing Courtyard. Complete the Treasure Beneath the Pond quest.",
+      "translated": "Находится во дворе Тяньцзин. Завершите квест «Сокровище под прудом».",
+      "ids": [
+        "1385266"
+      ]
+    },
+    {
+      "original": "Found at United Parking Lot. Use the forklift to get up to where the Aurylene is.",
+      "translated": "Находится на Объединённой парковке. Используйте погрузчик, чтобы добраться до аурилена.",
+      "ids": [
+        "1382669"
+      ]
+    },
+    {
+      "original": "Found behind an electric fence in a structure north of the Construction Site.",
+      "translated": "Находится за электрическим забором в строении к северу от Строительной площадки.",
+      "ids": [
+        "1381591"
+      ]
+    },
+    {
+      "original": "Found behind an electric fence in the Originium Byproduct Processing Center after powering up the Electric Nexus and using the nearby Floating Crates to reach the blocked area.",
+      "translated": "Находится за электрическим забором в Центре переработки побочных продуктов оригиниума после включения электрического узла и использования парящих ящиков для доступа к заблокированной зоне.",
+      "ids": [
+        "1381561"
+      ]
+    },
+    {
+      "original": "Found behind an electric fence in the Originium Byproduct Processing Center after powering up the Electric Nexus nearby.",
+      "translated": "Находится за электрическим забором в Центре переработки побочных продуктов оригиниума после включения ближайшего электрического узла.",
+      "ids": [
+        "1381560"
+      ]
+    },
+    {
+      "original": "Found behind an electric fence under the bridge at the Construction Site which can be bypassed by jumping from the top.",
+      "translated": "Находится за электрическим забором под мостом на Строительной площадке, можно обойти, спрыгнув сверху.",
+      "ids": [
+        "1381588"
+      ]
+    },
+    {
+      "original": "Found behind Kohl Plant during the mission \"Explosive Rescue\".",
+      "translated": "Находится за Фабрикой кохля во время миссии «Взрывное спасение».",
+      "ids": [
+        "1382322"
+      ]
+    },
+    {
+      "original": "Found behind large generators at the Hub Base Power Plant.",
+      "translated": "Находится за большими генераторами на электростанции базы Хаба.",
+      "ids": [
+        "1374095"
+      ]
+    },
+    {
+      "original": "Found behind some flammable crates at Kohl Plant.",
+      "translated": "Находится за горючими ящиками на Фабрике кохля.",
+      "ids": [
+        "1386690"
+      ]
+    },
+    {
+      "original": "Found behind the counter desk on the 2nd floor of the building west of Hub Base.",
+      "translated": "Находится за стойкой на 2 этаже здания к западу от базы Хаба.",
+      "ids": [
+        "1381642"
+      ]
+    },
+    {
+      "original": "Found behind the wall of the outdoor tea set.",
+      "translated": "Находится за стеной уличного чайного набора.",
+      "ids": [
+        "1382778"
+      ]
+    },
+    {
+      "original": "Found beside a truck northeast of Rockhill Passage towards Logistics Platform.",
+      "translated": "Находится рядом с грузовиком к северо-востоку от Прохода Рокхилл в сторону Логистической платформы.",
+      "ids": [
+        "1381595"
+      ]
+    },
+    {
+      "original": "Found between some data servers inside the room you open after the number puzzle, during the Fix the Super Crane quest.",
+      "translated": "Находится между серверами данных в комнате, которую вы открываете после числовой головоломки во время квеста «Починка супер-крана».",
+      "ids": [
+        "1381520",
+        "1381521"
+      ]
+    },
+    {
+      "original": "Found between some generators in the Hub Base Power Plant.",
+      "translated": "Находится между генераторами на электростанции базы Хаба.",
+      "ids": [
+        "1381533"
+      ]
+    },
+    {
+      "original": "Found by clearing the Energy Alluvium northwest of the Construction Site.",
+      "translated": "Появляется после очистки энергетического аллювия к северо-западу от Строительной площадки.",
+      "ids": [
+        "1381590"
+      ]
+    },
+    {
+      "original": "Found by clearing the Energy Alluvium west of the Construction Site.",
+      "translated": "Появляется после очистки энергетического аллювия к западу от Строительной площадки.",
+      "ids": [
+        "1381589"
+      ]
+    },
+    {
+      "original": "Found by climbing the watchtower at Shorecove Camp.",
+      "translated": "Находится на вершине сторожевой башни в Лагере Шоркоув.",
+      "ids": [
+        "1380415"
+      ]
+    },
+    {
+      "original": "Found by jumping into the hole on the ground north of the Hub Base.",
+      "translated": "Находится, если прыгнуть в отверстие в земле к северу от базы Хаба.",
+      "ids": [
+        "1381639"
+      ]
+    },
+    {
+      "original": "Found by platforming up to the roof, above the main road in Bridge Approach.",
+      "translated": "Находится на крыше над главной дорогой в Подходе к мосту, доступ через платформы.",
+      "ids": [
+        "1373432"
+      ]
+    },
+    {
+      "original": "Found by taking the the lift to the left of the warehouse at the Mines Cable Car Station.",
+      "translated": "Находится, если подняться на лифте слева от склада на станции шахтной канатной дороги.",
+      "ids": [
+        "1382717"
+      ]
+    },
+    {
+      "original": "Found by the cliffside, at the south part of Woodland Fringes.",
+      "translated": "Находится у обрыва в южной части Лесной опушки.",
+      "ids": [
+        "1380422"
+      ]
+    },
+    {
+      "original": "Found directly south of the Construction Site.",
+      "translated": "Находится прямо к югу от Строительной площадки.",
+      "ids": [
+        "1381530"
+      ]
+    },
+    {
+      "original": "Found directly south of the Protocol Space: T-Creds.",
+      "translated": "Находится прямо к югу от Пространства протокола: T-Creds.",
+      "ids": [
+        "1381315"
+      ]
+    },
+    {
+      "original": "Found directly west of the TP Point in Orginium Byproduct Processing Center.",
+      "translated": "Находится прямо к западу от точки телепортации в Центре переработки побочных продуктов оригиниума.",
+      "ids": [
+        "1381523",
+        "1381524"
+      ]
+    },
+    {
+      "original": "Found down by the grassy area at Stockpile Area. West of the TP Point.",
+      "translated": "Находится внизу на травянистом участке в Зоне складирования, к западу от точки телепортации.",
+      "ids": [
+        "1381471"
+      ]
+    },
+    {
+      "original": "Found east from the TP Point in the Southern Meadows in The Hub.",
+      "translated": "Находится к востоку от точки телепортации на Южных лугах в Хабе.",
+      "ids": [
+        "1381518"
+      ]
+    },
+    {
+      "original": "Found east of Rockhill Passage after clearing the Energy Alluvium in the area.",
+      "translated": "Находится к востоку от Прохода Рокхилл после очистки энергетического аллювия в этой зоне.",
+      "ids": [
+        "1381594"
+      ]
+    },
+    {
+      "original": "Found east of Shorecove Camp along with another chest.",
+      "translated": "Находится к востоку от Лагеря Шоркоув вместе с другим сундуком.",
+      "ids": [
+        "1381615",
+        "1381616"
+      ]
+    },
+    {
+      "original": "Found east of Shorecove Camp on a structure near the cliffside.",
+      "translated": "Находится к востоку от Лагеря Шоркоув на строении возле обрыва.",
+      "ids": [
+        "1381617"
+      ]
+    },
+    {
+      "original": "Found east of The Hub's TP point after powering the relay tower.",
+      "translated": "Находится к востоку от точки телепортации Хаба после включения ретрансляционной башни.",
+      "ids": [
+        "1381587"
+      ]
+    },
+    {
+      "original": "Found east of the Mining Camp and Mining Area Clinic.",
+      "translated": "Находится к востоку от Шахтёрского лагеря и Клиники шахтёрского района.",
+      "ids": [
+        "1382587"
+      ]
+    },
+    {
+      "original": "Found east of the Mountain Top after destroying some rocks with bombs.",
+      "translated": "Находится к востоку от Вершины горы после уничтожения камней бомбами.",
+      "ids": [
+        "1381579"
+      ]
+    },
+    {
+      "original": "Found east of the Mountain Top after getting through an electric fence to get to the top of a building.",
+      "translated": "Находится к востоку от Вершины горы после прохождения через электрический забор на крышу здания.",
+      "ids": [
+        "1381578"
+      ]
+    },
+    {
+      "original": "Found east of the Mountain Top along with two other chests guarded by some enemies.",
+      "translated": "Находится к востоку от Вершины горы вместе с двумя другими сундуками под охраной врагов.",
+      "ids": [
+        "1381575",
+        "1381576",
+        "1381577"
+      ]
+    },
+    {
+      "original": "Found east of the Mountain Top near a large crystal and surrounded by enemies.",
+      "translated": "Находится к востоку от Вершины горы возле большого кристалла в окружении врагов.",
+      "ids": [
+        "1381580"
+      ]
+    },
+    {
+      "original": "Found east of the Southern Meadows TP Point.",
+      "translated": "Находится к востоку от точки телепортации Южных лугов.",
+      "ids": [
+        "1381535"
+      ]
+    },
+    {
+      "original": "Found floating around a small garden in between Originium Science Park and Kohl Plant.",
+      "translated": "Парит вокруг небольшого сада между Научным парком оригиниума и Фабрикой кохля.",
+      "ids": [
+        "1381508"
+      ]
+    },
+    {
+      "original": "Found floating on the stairs heading southward from Hub Base Power Plant. If you chase after it, it will go up into the air across a gap. Power the Bounce Device to jump into the air to reach it.",
+      "translated": "Парит на лестнице, идущей на юг от электростанции базы Хаба. Если преследовать его, он взлетит через пропасть. Включите трамплин, чтобы допрыгнуть до него.",
+      "ids": [
+        "1380431"
+      ]
+    },
+    {
+      "original": "Found hidden in the grass beside cut-off bamboo stalks.",
+      "translated": "Спрятан в траве рядом со срезанными бамбуковыми стеблями.",
+      "ids": [
+        "1382739"
+      ]
+    },
+    {
+      "original": "Found high up on a rocky ledge at the south end of the Containment Zone Intersection.",
+      "translated": "Находится высоко на скалистом выступе в южной части перекрёстка Зоны сдерживания.",
+      "ids": [
+        "1382437"
+      ]
+    },
+    {
+      "original": "Found in a camp south of the Construction Site, just before the numbered pillars.",
+      "translated": "Находится в лагере к югу от Строительной площадки, прямо перед пронумерованными столбами.",
+      "ids": [
+        "1381531"
+      ]
+    },
+    {
+      "original": "Found in a cave  in the western part of Cliffside Trail hidden behind three wooden boxes.",
+      "translated": "Находится в пещере в западной части Прибрежной тропы, спрятан за тремя деревянными ящиками.",
+      "ids": [
+        "1386694"
+      ]
+    },
+    {
+      "original": "Found in a corner between white rocks at Refuse Stockpile.",
+      "translated": "Находится в углу между белыми камнями на Складе отходов.",
+      "ids": [
+        "1385062"
+      ]
+    },
+    {
+      "original": "Found in a corner of the Originium Byproduct Processing Center surrounded by some boxes.",
+      "translated": "Находится в углу Центра переработки побочных продуктов оригиниума в окружении ящиков.",
+      "ids": [
+        "1381559"
+      ]
+    },
+    {
+      "original": "Found in a hidden passage at the bottom part of the Originium Byproduct Processing Center.",
+      "translated": "Находится в скрытом проходе в нижней части Центра переработки побочных продуктов оригиниума.",
+      "ids": [
+        "1380418"
+      ]
+    },
+    {
+      "original": "Found in a shipping container at Shorecove Camp.",
+      "translated": "Находится в грузовом контейнере в Лагере Шоркоув.",
+      "ids": [
+        "1380416"
+      ]
+    },
+    {
+      "original": "Found in a shipping container just southwest of Bridge Approach.",
+      "translated": "Находится в грузовом контейнере к юго-западу от Подхода к мосту.",
+      "ids": [
+        "1373433"
+      ]
+    },
+    {
+      "original": "Found in an overlooking area on a wooden platform.",
+      "translated": "Находится на смотровой площадке на деревянной платформе.",
+      "ids": [
+        "1382751"
+      ]
+    },
+    {
+      "original": "Found in between cylinders at the southwest part of Hub Base.",
+      "translated": "Находится между цилиндрами в юго-западной части базы Хаба.",
+      "ids": [
+        "1374074"
+      ]
+    },
+    {
+      "original": "Found in Cliffside Trail guarded by some enemies.",
+      "translated": "Находится на Прибрежной тропе под охраной врагов.",
+      "ids": [
+        "1386695"
+      ]
+    },
+    {
+      "original": "Found in front of the big UWST logo. Can be found during the Valley Reboot quest.",
+      "translated": "Находится перед большим логотипом UWST. Можно найти во время квеста «Перезагрузка долины».",
+      "ids": [
+        "1381301"
+      ]
+    },
+    {
+      "original": "Found in Refuse Stockpile. Repair the door switch and proceed forward.",
+      "translated": "Находится на Складе отходов. Почините переключатель двери и пройдите вперёд.",
+      "ids": [
+        "1381224"
+      ]
+    },
+    {
+      "original": "Found in some destructible rocks to the east of the small building in Hub West. Use the explosives on the roof of the small building to destroy the rocks.",
+      "translated": "Находится в разрушаемых камнях к востоку от маленького здания в Западном Хабе. Используйте взрывчатку на крыше маленького здания, чтобы разрушить камни.",
+      "ids": [
+        "1380413"
+      ]
+    },
+    {
+      "original": "Found in the 1st basement level at Kohl Plant, requires multiple bombs to reach.",
+      "translated": "Находится на 1-м подвальном уровне Фабрики кохля, требуется несколько бомб для доступа.",
+      "ids": [
+        "1386692",
+        "1386693"
+      ]
+    },
+    {
+      "original": "Found in the 3rd basement level at Kohl Plant, requires multiple bombs to reach.",
+      "translated": "Находится на 3-м подвальном уровне Фабрики кохля, требуется несколько бомб для доступа.",
+      "ids": [
+        "1386691"
+      ]
+    },
+    {
+      "original": "Found in the area before the Logistics Area.",
+      "translated": "Находится в зоне перед Логистической зоной.",
+      "ids": [
+        "1382326"
+      ]
+    },
+    {
+      "original": "Found in the area between the AIC Research Center and Eastern Passageway.",
+      "translated": "Находится в зоне между Исследовательским центром AIC и Восточным проходом.",
+      "ids": [
+        "1381644",
+        "1381645"
+      ]
+    },
+    {
+      "original": "Found in the area east of Landbreaker Camp.",
+      "translated": "Находится в зоне к востоку от Лагеря землекопов.",
+      "ids": [
+        "1382420"
+      ]
+    },
+    {
+      "original": "Found in the area on the path south of Mountain Passage guarded by some enemies.",
+      "translated": "Находится на тропе к югу от Горного перевала под охраной врагов.",
+      "ids": [
+        "1387224"
+      ]
+    },
+    {
+      "original": "Found in the center of the conveyor belt, jump to the box to reach the upper floor.",
+      "translated": "Находится в центре конвейерной ленты, прыгните на ящик, чтобы попасть на верхний этаж.",
+      "ids": [
+        "1387031"
+      ]
+    },
+    {
+      "original": "Found in the central room of the Research Center. Use a bomb to remove the Blight and release the trapped Aurylene. You can get the Aurylene from a higher level by going up the nearby ascender.",
+      "translated": "Находится в центральной комнате Исследовательского центра. Используйте бомбу, чтобы убрать скверну и освободить застрявший аурилен. Можно достать аурилен с верхнего уровня через ближайший подъёмник.",
+      "ids": [
+        "1381512"
+      ]
+    },
+    {
+      "original": "Found in the chasm between the Old Water Plant and the Hub Base Power Plant after breaking one of the blocks covering the sewage pipes.",
+      "translated": "Находится в расщелине между Старым водоочистным заводом и электростанцией базы Хаба после разрушения одного из блоков, закрывающих канализационные трубы.",
+      "ids": [
+        "1381554"
+      ]
+    },
+    {
+      "original": "Found in the chasm northwest of the Old Water Plant along with two other chests and guarded by some enemies.",
+      "translated": "Находится в расщелине к северо-западу от Старого водоочистного завода вместе с двумя другими сундуками под охраной врагов.",
+      "ids": [
+        "1381603",
+        "1381604",
+        "1381605"
+      ]
+    },
+    {
+      "original": "Found in the chasm south of Meteorological Station.",
+      "translated": "Находится в расщелине к югу от Метеорологической станции.",
+      "ids": [
+        "1382421"
+      ]
+    },
+    {
+      "original": "Found in the circular reactor room of the Kohl Plant. The Aurylene is on a moving platform you can reach by first destroying the rocks around it, then jumping on crates to get to a higher level.",
+      "translated": "Находится в круглой реакторной комнате Фабрики кохля. Аурилен на движущейся платформе, доступ через уничтожение камней вокруг и прыжки по ящикам на верхний уровень.",
+      "ids": [
+        "1381511"
+      ]
+    },
+    {
+      "original": "Found in the eastern part of Temporary Stockpile.",
+      "translated": "Находится в восточной части Временного склада.",
+      "ids": [
+        "1382329"
+      ]
+    },
+    {
+      "original": "Found in the gap through the wall at the northern part of Kohl Plant.",
+      "translated": "Находится в щели в стене в северной части Фабрики кохля.",
+      "ids": [
+        "1381509"
+      ]
+    },
+    {
+      "original": "Found in the grassy areas near the Quarry Entrance.",
+      "translated": "Находится в травянистых зонах возле Входа в карьер.",
+      "ids": [
+        "1382412"
+      ]
+    },
+    {
+      "original": "Found in the hidden passage at Valley Fort accessed through the mission \"Cost of Hope I\".",
+      "translated": "Находится в скрытом проходе в Долинном форте, доступном через миссию «Цена надежды I».",
+      "ids": [
+        "1382317"
+      ]
+    },
+    {
+      "original": "Found in the Hub Base and reached by using the floating crates nearby as platforms.",
+      "translated": "Находится на базе Хаба, доступ через парящие ящики поблизости в качестве платформ.",
+      "ids": [
+        "1381637"
+      ]
+    },
+    {
+      "original": "Found in the Hub Base and reached by using the floating crates nearby to get to the seesaw ramps and onto the roof with the chest.",
+      "translated": "Находится на базе Хаба, доступ через парящие ящики к качелям-пандусам и далее на крышу с сундуком.",
+      "ids": [
+        "1381638"
+      ]
+    },
+    {
+      "original": "Found in the middle of Originium Science Park, guarded by enemies and between some blight walls.",
+      "translated": "Находится в центре Научного парка оригиниума, под охраной врагов и между чумными стенами.",
+      "ids": [
+        "1381540"
+      ]
+    },
+    {
+      "original": "Found in the middle of Shorecove Camp.",
+      "translated": "Находится в центре Лагеря Шоркоув.",
+      "ids": [
+        "1381618"
+      ]
+    },
+    {
+      "original": "Found in the northeast corner of Transport Nexus, floating around the air.",
+      "translated": "Находится в северо-восточном углу Транспортного узла, парит в воздухе.",
+      "ids": [
+        "1381505"
+      ]
+    },
+    {
+      "original": "Found in the northern area. Northeast of the sub-PAC unlocked during Building an Oupost.",
+      "translated": "Находится в северной зоне. К северо-востоку от суб-ПАКа, открываемого во время квеста «Строительство аванпоста».",
+      "ids": [
+        "1374078"
+      ]
+    },
+    {
+      "original": "Found in the northern building at Mines Cable Car Station accessed during the mission, \"Repair Story\".",
+      "translated": "Находится в северном здании станции шахтной канатной дороги, доступном во время миссии «История ремонта».",
+      "ids": [
+        "1382596",
+        "1382597",
+        "1382598"
+      ]
+    },
+    {
+      "original": "Found in the northern building at Mines Cable Car Station.",
+      "translated": "Находится в северном здании станции шахтной канатной дороги.",
+      "ids": [
+        "1382593",
+        "1382594",
+        "1382595"
+      ]
+    },
+    {
+      "original": "Found in the northern cave in Cliffside Trail. Use your bombs to blst your way into this section of the map.",
+      "translated": "Находится в северной пещере на Прибрежной тропе. Используйте бомбы, чтобы пробить путь в эту часть карты.",
+      "ids": [
+        "1381490"
+      ]
+    },
+    {
+      "original": "Found in the northern part of Arsenal, just south of Protocol Space: T-Creds. ",
+      "translated": "Находится в северной части Арсенала, к югу от Пространства протокола: T-Creds.",
+      "ids": [
+        "1374090"
+      ]
+    },
+    {
+      "original": "Found in the northern part of Transport Nexus reached by using the nearby buildings and seesaw ramps, use the nearby floating crates.",
+      "translated": "Находится в северной части Транспортного узла, доступ через близлежащие здания и качели-пандусы, используйте парящие ящики.",
+      "ids": [
+        "1386675",
+        "1386676"
+      ]
+    },
+    {
+      "original": "Found in the northwest corner of Hub Base, and west of Old Factory, in an area full of crates. The Aurylene is on top of some tall crates. You can climb on top by pulling nearby crates and jumping on top of them.",
+      "translated": "Находится в северо-западном углу базы Хаба, к западу от Старой фабрики, в зоне с ящиками. Аурилен на высоких ящиках. Можно забраться, притянув ближайшие ящики и прыгнув на них.",
+      "ids": [
+        "1380429"
+      ]
+    },
+    {
+      "original": "Found in the Originium Byproduct Processing Center by jumping on top of some platforms in the western side of the center to reach a hidden passage blocked by a breakable wooden object.",
+      "translated": "Находится в Центре переработки побочных продуктов оригиниума, прыгните на платформы в западной части центра, чтобы добраться до скрытого прохода за разбиваемым деревянным объектом.",
+      "ids": [
+        "1381564",
+        "1381565",
+        "1381566"
+      ]
+    },
+    {
+      "original": "Found in the Research Center on the 2nd floor of the lab.",
+      "translated": "Находится в Исследовательском центре на 2 этаже лаборатории.",
+      "ids": [
+        "1386684"
+      ]
+    },
+    {
+      "original": "Found in the rocky tunnel passage underneath. The Aurylene zips around in the air. Wait for it at a spot where you can easily jump and reach it.",
+      "translated": "Находится в скалистом туннельном проходе внизу. Аурилен быстро перемещается в воздухе. Подождите его в месте, откуда легко прыгнуть и достать.",
+      "ids": [
+        "1380425"
+      ]
+    },
+    {
+      "original": "Found in the rotating carge at the center of Control Center. To get into the Control Center, you must first get to Outpost Lv. 3",
+      "translated": "Находится во вращающемся грузе в центре Центра управления. Для доступа в Центр управления требуется Аванпост 3 ур.",
+      "ids": [
+        "1381500"
+      ]
+    },
+    {
+      "original": "Found in the server room at the north side of the Research Center.",
+      "translated": "Находится в серверной комнате на северной стороне Исследовательского центра.",
+      "ids": [
+        "1381375"
+      ]
+    },
+    {
+      "original": "Found in the southeastern room of the Research Center.",
+      "translated": "Находится в юго-восточной комнате Исследовательского центра.",
+      "ids": [
+        "1381654"
+      ]
+    },
+    {
+      "original": "Found in the southern building at Originium Science Park.",
+      "translated": "Находится в южном здании Научного парка оригиниума.",
+      "ids": [
+        "1386677",
+        "1386678"
+      ]
+    },
+    {
+      "original": "Found in the Staff Lounge, requires power to reach.",
+      "translated": "Находится в Комнате отдыха персонала, требуется электропитание для доступа.",
+      "ids": [
+        "1382320"
+      ]
+    },
+    {
+      "original": "Found in the Treasure Grotto, west of Sky King Flats.",
+      "translated": "Находится в Гроте сокровищ, к западу от Равнины Небесного Короля.",
+      "ids": [
+        "1386838"
+      ]
+    },
+    {
+      "original": "Found in the tunnel that leads to the southern junkyard at the bottom part of Infra-Station.",
+      "translated": "Находится в туннеле, ведущем к южной свалке в нижней части Инфра-станции.",
+      "ids": [
+        "1381516"
+      ]
+    },
+    {
+      "original": "Found in the underground area of the circular building in Originium Science Park.",
+      "translated": "Находится в подземной зоне круглого здания в Научном парке оригиниума.",
+      "ids": [
+        "1381538"
+      ]
+    },
+    {
+      "original": "Found in the underground area of the Originium Science Park, between some moving lasers. You can pass by this chest during the Walk in the park quest.",
+      "translated": "Находится в подземной зоне Научного парка оригиниума, между движущимися лазерами. Можно пройти мимо этого сундука во время квеста «Прогулка в парке».",
+      "ids": [
+        "1381539"
+      ]
+    },
+    {
+      "original": "Found in the western section of the Logistics Area.",
+      "translated": "Находится в западной части Логистической зоны.",
+      "ids": [
+        "1382418"
+      ]
+    },
+    {
+      "original": "Found indoors, in the smaller room of the southern building of the Originium Science Park area.",
+      "translated": "Находится внутри, в маленькой комнате южного здания зоны Научного парка оригиниума.",
+      "ids": [
+        "1381507"
+      ]
+    },
+    {
+      "original": "Found inside a cargo container east of Shorecove Camp.",
+      "translated": "Находится внутри грузового контейнера к востоку от Лагеря Шоркоув.",
+      "ids": [
+        "1381612",
+        "1381613"
+      ]
+    },
+    {
+      "original": "Found inside a hidden cave which you can access by jumping down from a cliff east of Shorecove Camp and using a bomb to open the way. Complete The Invisible Glyphs side mission to unlock.",
+      "translated": "Находится в скрытой пещере, доступ через прыжок с утёса к востоку от Лагеря Шоркоув и использование бомбы. Завершите побочную миссию «Невидимые глифы» для разблокировки.",
+      "ids": [
+        "1381611"
+      ]
+    },
+    {
+      "original": "Found inside a Metal Container crate in Transport Nexus.",
+      "translated": "Находится внутри металлического контейнера в Транспортном узле.",
+      "ids": [
+        "1381537"
+      ]
+    },
+    {
+      "original": "Found inside a room underneath the second small denstack in the Through the Haze quest.",
+      "translated": "Находится в комнате под вторым маленьким дэнстаком во время квеста «Сквозь туман».",
+      "ids": [
+        "1381312"
+      ]
+    },
+    {
+      "original": "Found inside a small cave west of the waypoint in the Quarry Site.",
+      "translated": "Находится в маленькой пещере к западу от точки навигации на Карьерном участке.",
+      "ids": [
+        "1381522"
+      ]
+    },
+    {
+      "original": "Found inside an electric fence puzzle in the stockpile area.",
+      "translated": "Находится внутри головоломки с электрическим забором в зоне складирования.",
+      "ids": [
+        "1381327"
+      ]
+    },
+    {
+      "original": "Found inside some explosive crates on the roof of the tiny building south of Hub West.",
+      "translated": "Находится внутри взрывных ящиков на крыше маленького здания к югу от Западного Хаба.",
+      "ids": [
+        "1380412"
+      ]
+    },
+    {
+      "original": "Found inside the building at the Originium Byproduct Processing Center after powering up the Electric Nexus.",
+      "translated": "Находится внутри здания в Центре переработки побочных продуктов оригиниума после включения электрического узла.",
+      "ids": [
+        "1381562",
+        "1381563"
+      ]
+    },
+    {
+      "original": "Found inside the cave past the Stone Gate during the mission, \"Invisible Glyphs - Revelation\".",
+      "translated": "Находится в пещере за Каменными вратами во время миссии «Невидимые глифы — Откровение».",
+      "ids": [
+        "1382720"
+      ]
+    },
+    {
+      "original": "Found inside the Control Center in the eastern part of the map. To get into the Control Center, you must first get to Outpost Lv. 3",
+      "translated": "Находится внутри Центра управления в восточной части карты. Для доступа в Центр управления требуется Аванпост 3 ур.",
+      "ids": [
+        "1382324"
+      ]
+    },
+    {
+      "original": "Found inside the Hub Base past the rubble to the right.",
+      "translated": "Находится внутри базы Хаба за обломками справа.",
+      "ids": [
+        "1382316"
+      ]
+    },
+    {
+      "original": "Found inside the Hub Base Power Plant right next to the Protocol Resonance Tower.",
+      "translated": "Находится внутри электростанции базы Хаба рядом с Башней резонанса протокола.",
+      "ids": [
+        "1382314"
+      ]
+    },
+    {
+      "original": "Found inside the old house east of Valley Transfer.",
+      "translated": "Находится внутри старого дома к востоку от Долинного перехода.",
+      "ids": [
+        "1382719"
+      ]
+    },
+    {
+      "original": "Found inside the Originium Byproduct Processing Center next to the area with the electric fence.",
+      "translated": "Находится внутри Центра переработки побочных продуктов оригиниума рядом с зоной электрического забора.",
+      "ids": [
+        "1382315"
+      ]
+    },
+    {
+      "original": "Found inside the Originium Byproduct Processing Center. Jump on the crates to get to the chest.",
+      "translated": "Находится внутри Центра переработки побочных продуктов оригиниума. Прыгните на ящики, чтобы добраться до сундука.",
+      "ids": [
+        "1381306"
+      ]
+    },
+    {
+      "original": "Found inside the Research Center, behind some contained Originium in an orange room.",
+      "translated": "Находится внутри Исследовательского центра, за контейнерами с оригиниумом в оранжевой комнате.",
+      "ids": [
+        "1381541"
+      ]
+    },
+    {
+      "original": "Found inside the Research Center, near some exploding crates.",
+      "translated": "Находится внутри Исследовательского центра, рядом со взрывающимися ящиками.",
+      "ids": [
+        "1381542"
+      ]
+    },
+    {
+      "original": "Found inside the room you pass by after destroying the first small denstack during the Through the Haze quest.",
+      "translated": "Находится в комнате, мимо которой вы проходите после уничтожения первого маленького дэнстака во время квеста «Сквозь туман».",
+      "ids": [
+        "1381311"
+      ]
+    },
+    {
+      "original": "Found inside the Worker Dorms south of the Hub Base.",
+      "translated": "Находится внутри Рабочих общежитий к югу от базы Хаба.",
+      "ids": [
+        "1381582"
+      ]
+    },
+    {
+      "original": "Found just before the large bridge underneath the crane in Deep Management Post.",
+      "translated": "Находится прямо перед большим мостом под краном на Посту глубинного управления.",
+      "ids": [
+        "1381528"
+      ]
+    },
+    {
+      "original": "Found just north of Sky King Flats. It is located beside large covered structures.",
+      "translated": "Находится к северу от Равнины Небесного Короля, рядом с большими крытыми строениями.",
+      "ids": [
+        "1382727"
+      ]
+    },
+    {
+      "original": "Found just outside the entrace of the Worker Dorms south of the Hub Base.",
+      "translated": "Находится у входа в Рабочие общежития к югу от базы Хаба.",
+      "ids": [
+        "1381581"
+      ]
+    },
+    {
+      "original": "Found just outside the Meteorological Station.",
+      "translated": "Находится прямо у Метеорологической станции.",
+      "ids": [
+        "1387266"
+      ]
+    },
+    {
+      "original": "Found just outside the Mining Area Clinic.",
+      "translated": "Находится прямо у Клиники шахтёрского района.",
+      "ids": [
+        "1382584"
+      ]
+    },
+    {
+      "original": "Found just outside the Originium Byproduct Processing Center.",
+      "translated": "Находится прямо у Центра переработки побочных продуктов оригиниума.",
+      "ids": [
+        "1382313"
+      ]
+    },
+    {
+      "original": "Found just south of the Southern Meadows TP point.",
+      "translated": "Находится к югу от точки телепортации Южных лугов.",
+      "ids": [
+        "1382407"
+      ]
+    },
+    {
+      "original": "Found just to the west of the Origin Lodespring entrance from Originium Science Park, stand on an air vent to propel yourself to the platform with the chest.",
+      "translated": "Находится к западу от входа в Исходный Лоудспринг из Научного парка оригиниума. Встаньте на воздушный вентиль, чтобы подняться на платформу с сундуком.",
+      "ids": [
+        "1387222"
+      ]
+    },
+    {
+      "original": "Found near a big tree in the area. On top of one of the rock platforms.",
+      "translated": "Находится возле большого дерева в зоне, на одной из скальных платформ.",
+      "ids": [
+        "1382768"
+      ]
+    },
+    {
+      "original": "Found near a cliffside at The Depression.",
+      "translated": "Находится возле обрыва во Впадине.",
+      "ids": [
+        "1382416"
+      ]
+    },
+    {
+      "original": "Found near some junk in Shorecove Camp.",
+      "translated": "Находится возле мусора в Лагере Шоркоув.",
+      "ids": [
+        "1381619",
+        "1381620"
+      ]
+    },
+    {
+      "original": "Found near the center of Transport Nexus, beside a truck turned on its side.",
+      "translated": "Находится возле центра Транспортного узла, рядом с перевёрнутым грузовиком.",
+      "ids": [
+        "1381650"
+      ]
+    },
+    {
+      "original": "Found near the conveyor belt.",
+      "translated": "Находится возле конвейерной ленты.",
+      "ids": [
+        "1387039"
+      ]
+    },
+    {
+      "original": "Found near the Giant Lotus dock.",
+      "translated": "Находится возле причала Гигантского лотоса.",
+      "ids": [
+        "1382730"
+      ]
+    },
+    {
+      "original": "Found near the southwest cliff edge of Rockhill Passage.",
+      "translated": "Находится возле юго-западного края утёса Прохода Рокхилл.",
+      "ids": [
+        "1381142"
+      ]
+    },
+    {
+      "original": "Found near the TP point of the Southern Meadows and appears after gathering all the nearby glowing rabbits.",
+      "translated": "Находится возле точки телепортации Южных лугов, появляется после сбора всех светящихся кроликов поблизости.",
+      "ids": [
+        "1381583"
+      ]
+    },
+    {
+      "original": "Found near the western edge of Hub West, guarded by an Axehorn enemy.",
+      "translated": "Находится возле западного края Западного Хаба под охраной врага Топоророга.",
+      "ids": [
+        "1381325"
+      ]
+    },
+    {
+      "original": "Found next to a car in the area between the AIC Research Center and Eastern Passageway.",
+      "translated": "Находится рядом с машиной в зоне между Исследовательским центром AIC и Восточным проходом.",
+      "ids": [
+        "1381647"
+      ]
+    },
+    {
+      "original": "Found next to a wooden platform with tires on it, on the largest island of Cliffside Trail.",
+      "translated": "Находится рядом с деревянной платформой с шинами на крупнейшем острове Прибрежной тропы.",
+      "ids": [
+        "1381656"
+      ]
+    },
+    {
+      "original": "Found next to the building southwest of the Research Center.",
+      "translated": "Находится рядом со зданием к юго-западу от Исследовательского центра.",
+      "ids": [
+        "1382323"
+      ]
+    },
+    {
+      "original": "Found north of Originium Science Park, beside the stairs going down to Logistics on a lower floor.",
+      "translated": "Находится к северу от Научного парка оригиниума, рядом с лестницей, ведущей вниз к Логистике на нижнем этаже.",
+      "ids": [
+        "1381652"
+      ]
+    },
+    {
+      "original": "Found north of the Ecological Research Station, in front of an isolated house.",
+      "translated": "Находится к северу от Экологической исследовательской станции, перед отдельным домом.",
+      "ids": [
+        "1382725"
+      ]
+    },
+    {
+      "original": "Found north of the Hub Base Power Plant and unlocked by gathering all 3 Sealing Aurylenes nearby.",
+      "translated": "Находится к северу от электростанции базы Хаба, открывается после сбора всех 3 запечатывающих аурилен поблизости.",
+      "ids": [
+        "1381592"
+      ]
+    },
+    {
+      "original": "Found north of the Old Dorms in the rocky area.",
+      "translated": "Находится к северу от Старых общежитий в скалистой зоне.",
+      "ids": [
+        "1382603"
+      ]
+    },
+    {
+      "original": "Found north of the Refuse Stockpile area.",
+      "translated": "Находится к северу от зоны Склада отходов.",
+      "ids": [
+        "1382414"
+      ]
+    },
+    {
+      "original": "Found northeast from the Core AIC Area guarded by some enemies.",
+      "translated": "Находится к северо-востоку от Основной зоны AIC под охраной врагов.",
+      "ids": [
+        "1381602"
+      ]
+    },
+    {
+      "original": "Found on 2F of the central room of the Research Center. Easily found as you progress the quest Mystery in the Building.",
+      "translated": "Находится на 2 этаже центральной комнаты Исследовательского центра. Легко найти при прохождении квеста «Тайна в здании».",
+      "ids": [
+        "1381376"
+      ]
+    },
+    {
+      "original": "Found on a building north of the Bridge Approach. Jump on some crates to reach the chest on top.",
+      "translated": "Находится на здании к северу от Подхода к мосту. Запрыгните на ящики, чтобы добраться до сундука наверху.",
+      "ids": [
+        "1381319"
+      ]
+    },
+    {
+      "original": "Found on a cliff in the Arsenal area.",
+      "translated": "Находится на утёсе в зоне Арсенала.",
+      "ids": [
+        "1382411"
+      ]
+    },
+    {
+      "original": "Found on a cliff just after the narrow passage to the west of Mountain Passage.",
+      "translated": "Находится на утёсе сразу после узкого прохода к западу от Горного перевала.",
+      "ids": [
+        "1387225"
+      ]
+    },
+    {
+      "original": "Found on a cliff near Bridge Approach northwest of Hub Base Power Plant.",
+      "translated": "Находится на утёсе возле Подхода к мосту к северо-западу от электростанции базы Хаба.",
+      "ids": [
+        "1382406"
+      ]
+    },
+    {
+      "original": "Found on a cliff outside the Originium Science Park and near the road leading to the Kohl Plant.",
+      "translated": "Находится на утёсе за Научным парком оригиниума, возле дороги, ведущей к Фабрике кохля.",
+      "ids": [
+        "1382415"
+      ]
+    },
+    {
+      "original": "Found on a cliff south of Rockhill Passage.",
+      "translated": "Находится на утёсе к югу от Прохода Рокхилл.",
+      "ids": [
+        "1382312"
+      ]
+    },
+    {
+      "original": "Found on a cliff south of the Old Water Plant.",
+      "translated": "Находится на утёсе к югу от Старого водоочистного завода.",
+      "ids": [
+        "1382409"
+      ]
+    },
+    {
+      "original": "Found on a cliff southwest of Temporary Stockpile.",
+      "translated": "Находится на утёсе к юго-западу от Временного склада.",
+      "ids": [
+        "1382592"
+      ]
+    },
+    {
+      "original": "Found on a cliff that leads to the Woodland Fringes.",
+      "translated": "Находится на утёсе, ведущем к Лесной опушке.",
+      "ids": [
+        "1382410"
+      ]
+    },
+    {
+      "original": "Found on a cliff up at Rockhill Passage.",
+      "translated": "Находится на утёсе в Проходе Рокхилл.",
+      "ids": [
+        "1382405",
+        "1382408"
+      ]
+    },
+    {
+      "original": "Found on a cliff up the slope west of the Old Water Plant.",
+      "translated": "Находится на утёсе на склоне к западу от Старого водоочистного завода.",
+      "ids": [
+        "1381609"
+      ]
+    },
+    {
+      "original": "Found on a grassy area west of the entrance to Transport Nexus.",
+      "translated": "Находится на травянистом участке к западу от входа в Транспортный узел.",
+      "ids": [
+        "1386664"
+      ]
+    },
+    {
+      "original": "Found on a lower level, east of Mines Cable Car Station.",
+      "translated": "Находится на нижнем уровне, к востоку от станции шахтной канатной дороги.",
+      "ids": [
+        "1382434"
+      ]
+    },
+    {
+      "original": "Found on a pathway in the bamboo forest. Located at the foot of the stairway.",
+      "translated": "Находится на тропинке в бамбуковом лесу, у подножия лестницы.",
+      "ids": [
+        "1382763"
+      ]
+    },
+    {
+      "original": "Found on a platform northwest of Refuse Stockpile.",
+      "translated": "Находится на платформе к северо-западу от Склада отходов.",
+      "ids": [
+        "1381225"
+      ]
+    },
+    {
+      "original": "Found on a sewage pipe outside, on the south side of Originium Science Park.",
+      "translated": "Находится на канализационной трубе снаружи, на южной стороне Научного парка оригиниума.",
+      "ids": [
+        "1381459"
+      ]
+    },
+    {
+      "original": "Found on a structure north of Rockhill Passage at the northern edge.",
+      "translated": "Находится на строении к северу от Прохода Рокхилл на северном краю.",
+      "ids": [
+        "1381596"
+      ]
+    },
+    {
+      "original": "Found on a wall of crates at the northeast part of Originium Byproduct Processing Center. Send power to the electric fence switch to open it. Pull a short crate and a tall crate together and jump on them to reach this Aurylene.",
+      "translated": "Находится на стене из ящиков в северо-восточной части Центра переработки побочных продуктов оригиниума. Подайте питание на переключатель электрического забора. Притяните короткий и высокий ящики и прыгните на них, чтобы достать аурилен.",
+      "ids": [
+        "1380419"
+      ]
+    },
+    {
+      "original": "Found on a wooden and streel structure, east of Shorecove Camp. Get on top of the sloping hill to easily find this.",
+      "translated": "Находится на деревянно-стальной конструкции к востоку от Лагеря Шоркоув. Поднимитесь на склон холма, чтобы легко найти.",
+      "ids": [
+        "1380417"
+      ]
+    },
+    {
+      "original": "Found on north side from the Old Dorms.",
+      "translated": "Находится на северной стороне от Старых общежитий.",
+      "ids": [
+        "1387042"
+      ]
+    },
+    {
+      "original": "Found on some crates on a steel platform overlooking the cliffside, south of Bridge Approach",
+      "translated": "Находится на ящиках на стальной платформе с видом на обрыв, к югу от Подхода к мосту.",
+      "ids": [
+        "1374057"
+      ]
+    },
+    {
+      "original": "Found on the 2nd floor of the building in Deep Management Post.",
+      "translated": "Находится на 2 этаже здания на Посту глубинного управления.",
+      "ids": [
+        "1385054"
+      ]
+    },
+    {
+      "original": "Found on the back of a truck in the area between the AIC Research Center and Eastern Passageway.",
+      "translated": "Находится в кузове грузовика в зоне между Исследовательским центром AIC и Восточным проходом.",
+      "ids": [
+        "1381646"
+      ]
+    },
+    {
+      "original": "Found on the back of a truck just outside the Originium Byproduct Processing Center.",
+      "translated": "Находится в кузове грузовика у Центра переработки побочных продуктов оригиниума.",
+      "ids": [
+        "1381558"
+      ]
+    },
+    {
+      "original": "Found on the back of one of the trucks impaled by a spike.",
+      "translated": "Находится в кузове одного из грузовиков, пронзённых шипом.",
+      "ids": [
+        "1386674"
+      ]
+    },
+    {
+      "original": "Found on the cliff north of the Research Center.",
+      "translated": "Находится на утёсе к северу от Исследовательского центра.",
+      "ids": [
+        "1382321"
+      ]
+    },
+    {
+      "original": "Found on the large brown spike. Chase it and follow it south.",
+      "translated": "Находится на большом коричневом шипе. Преследуйте и следуйте на юг.",
+      "ids": [
+        "1381513"
+      ]
+    },
+    {
+      "original": "Found on the metal platform, northeast from the TP Point.",
+      "translated": "Находится на металлической платформе к северо-востоку от точки телепортации.",
+      "ids": [
+        "1387022"
+      ]
+    },
+    {
+      "original": "Found on the mountain slope in the area south of the Research Center.",
+      "translated": "Находится на горном склоне в зоне к югу от Исследовательского центра.",
+      "ids": [
+        "1386688"
+      ]
+    },
+    {
+      "original": "Found on the north side of the Control Center. To get into the Control Center, you must first get to Outpost Lv. 3",
+      "translated": "Находится на северной стороне Центра управления. Для доступа в Центр управления требуется Аванпост 3 ур.",
+      "ids": [
+        "1381649"
+      ]
+    },
+    {
+      "original": "Found on the pathway going up the hill. Use the rope to reach the chest.",
+      "translated": "Находится на тропинке, ведущей в гору. Используйте верёвку, чтобы добраться до сундука.",
+      "ids": [
+        "1382748"
+      ]
+    },
+    {
+      "original": "Found on the roof of a building northwest of Mining Camp.",
+      "translated": "Находится на крыше здания к северо-западу от Шахтёрского лагеря.",
+      "ids": [
+        "1387234"
+      ]
+    },
+    {
+      "original": "Found on the roof of one of the structures at the Old Water Plant.",
+      "translated": "",
+      "ids": [
+        "1381555"
+      ]
+    },
+    {
+      "original": "Found on the side of the path that connects the Evacuation Zone and the Planned Construction Area.",
+      "translated": "",
+      "ids": [
+        "1382683"
+      ]
+    },
+    {
+      "original": "Found on the south of the 1F Power Plant.",
+      "translated": "",
+      "ids": [
+        "1387034"
+      ]
+    },
+    {
+      "original": "Found on the southwest from the Power Plant Comm Station. Use explosive a boulder to reach the metal platform and head up the stairs.",
+      "translated": "Находится к юго-западу от Станции связи электростанции. Взорвите валун, чтобы добраться до металлической платформы, и поднимитесь по лестнице.",
+      "ids": [
+        "1387023"
+      ]
+    },
+    {
+      "original": "Found on the stairway going up the Ecological Research Station.",
+      "translated": "Находится на лестнице, ведущей к Экологической исследовательской станции.",
+      "ids": [
+        "1382732"
+      ]
+    },
+    {
+      "original": "Found on the structure at the road to Rockhill Passage.",
+      "translated": "Находится на конструкции у дороги к Проходу Рокхилл.",
+      "ids": [
+        "1381593"
+      ]
+    },
+    {
+      "original": "Found on the tip of a large spike. Jump onto the spike from the Mountain Top area.",
+      "translated": "Находится на кончике большого шипа. Прыгните на шип из зоны Вершины горы.",
+      "ids": [
+        "1380421"
+      ]
+    },
+    {
+      "original": "Found on the Upper Level of the power plant, just ahead of the steam conveyor belt.",
+      "translated": "Находится на верхнем уровне электростанции, перед паровым конвейером.",
+      "ids": [
+        "1387030"
+      ]
+    },
+    {
+      "original": "Found on the western part of the Woodland Fringes up above a cliff and guarded by a level 30 beast.",
+      "translated": "Находится в западной части Лесной опушки на утёсе и охраняется зверем 30 уровня.",
+      "ids": [
+        "1381567"
+      ]
+    },
+    {
+      "original": "Found on the western side of the Hub Base Power Plant, by the cliffside overlooking the Old Water Plant.",
+      "translated": "Находится на западной стороне Электростанции базы Хаба, у обрыва с видом на Старую водоочистную станцию.",
+      "ids": [
+        "1380411"
+      ]
+    },
+    {
+      "original": "Found on the wooden platform with a view of the lake.",
+      "translated": "Находится на деревянной платформе с видом на озеро.",
+      "ids": [
+        "1382734"
+      ]
+    },
+    {
+      "original": "Found on top of a cliff east of Shorecove Camp and unlocked by gathering all 3 Sealing Aurylenes nearby.",
+      "translated": "Находится на вершине утёса к востоку от Лагеря Шоркоув и открывается сбором всех 3 запечатывающих аурилен поблизости.",
+      "ids": [
+        "1381614"
+      ]
+    },
+    {
+      "original": "Found on top of a cliff in the chasm northwest of the Old Water Plant.",
+      "translated": "Находится на вершине утёса в ущелье к северо-западу от Старой водоочистной станции.",
+      "ids": [
+        "1381608"
+      ]
+    },
+    {
+      "original": "Found on top of an armored car along the main road intersection next to Transport Nexus.",
+      "translated": "Находится на бронированной машине на перекрёстке главной дороги рядом с Транспортным узлом.",
+      "ids": [
+        "1381457"
+      ]
+    },
+    {
+      "original": "Found on top of beige-colored canopies. You can get on top by heading outside the wall of the Research Center and jumping on obstacles.",
+      "translated": "Находится на бежевых навесах. Поднимитесь, выйдя за стену Исследовательского центра и прыгая по препятствиям.",
+      "ids": [
+        "1381378"
+      ]
+    },
+    {
+      "original": "Found on top of one of the posts at this location. You can get up here by jumping from the white rooftop in between Old Factory and Hub Base.",
+      "translated": "Находится на одном из столбов в этом месте. Поднимитесь, прыгнув с белой крыши между Старой фабрикой и базой Хаба.",
+      "ids": [
+        "1380430"
+      ]
+    },
+    {
+      "original": "Found on top of some crates just south of Bridge Approach",
+      "translated": "Находится на ящиках к югу от Подхода к мосту.",
+      "ids": [
+        "1381316"
+      ]
+    },
+    {
+      "original": "Found on top of the cliff at the Woodland Fringes.",
+      "translated": "Находится на вершине утёса на Лесной опушке.",
+      "ids": [
+        "1382311"
+      ]
+    },
+    {
+      "original": "Found on top of the lone building at the Woodland Fringes.",
+      "translated": "Находится на крыше одинокого здания на Лесной опушке.",
+      "ids": [
+        "1381568"
+      ]
+    },
+    {
+      "original": "Found on top of the third small Denstack during the Through the Haze quest.",
+      "translated": "Находится на вершине третьего малого Денстека во время квеста «Сквозь туман».",
+      "ids": [
+        "1381313"
+      ]
+    },
+    {
+      "original": "Found on Zhailing Islet. just northwest of the TP Point.",
+      "translated": "Находится на острове Чжайлин, к северо-западу от точки телепортации.",
+      "ids": [
+        "1386839"
+      ]
+    },
+    {
+      "original": "Found outside Kohl Plant, in the southern grassy area.",
+      "translated": "Находится снаружи завода Коль, в южной травянистой зоне.",
+      "ids": [
+        "1386662"
+      ]
+    },
+    {
+      "original": "Found outside the Aether Test Site to the north, on a patch of grass and flowers.",
+      "translated": "Находится снаружи Испытательного полигона Эфира к северу, на участке травы и цветов.",
+      "ids": [
+        "1386828"
+      ]
+    },
+    {
+      "original": "Found outside the Research Center on the south side.",
+      "translated": "Находится снаружи Исследовательского центра с южной стороны.",
+      "ids": [
+        "1386686"
+      ]
+    },
+    {
+      "original": "Found outside the Research Center, to the southeast, along a long row of bushes.",
+      "translated": "Находится снаружи Исследовательского центра, к юго-востоку, вдоль длинного ряда кустов.",
+      "ids": [
+        "1381655"
+      ]
+    },
+    {
+      "original": "Found outside the southerwest corner of Originium Science Park, in a small grassy nook.",
+      "translated": "Находится за юго-западным углом Научного парка оригиниума, в небольшом травянистом уголке.",
+      "ids": [
+        "1381506"
+      ]
+    },
+    {
+      "original": "Found outside the western wall of Originium Byproduct Processing Center.",
+      "translated": "Находится за западной стеной Центра переработки побочных продуктов оригиниума.",
+      "ids": [
+        "1380436"
+      ]
+    },
+    {
+      "original": "Found south of Temporary Stockpile.",
+      "translated": "Находится к югу от Временного склада.",
+      "ids": [
+        "1382588"
+      ]
+    },
+    {
+      "original": "Found south of the Mining Area Clinic on a cliffside.",
+      "translated": "Находится к югу от Клиники горнодобывающего района на утёсе.",
+      "ids": [
+        "1382585"
+      ]
+    },
+    {
+      "original": "Found south of the Southern Meadows near the large crystals after clearing the Energy Alluvium in the area.",
+      "translated": "Находится к югу от Южных лугов возле больших кристаллов после очистки энергетического аллювия в этой зоне.",
+      "ids": [
+        "1381584"
+      ]
+    },
+    {
+      "original": "Found south of the Worker Dorms waypoint, by some crates.",
+      "translated": "Находится к югу от точки Рабочих общежитий, у ящиков.",
+      "ids": [
+        "1381326"
+      ]
+    },
+    {
+      "original": "Found southeast from Mining Area Clinic on the other path next to the Mountain Passage.",
+      "translated": "Находится к юго-востоку от Клиники горнодобывающего района на другой тропе рядом с Горным проходом.",
+      "ids": [
+        "1382583"
+      ]
+    },
+    {
+      "original": "Found southwest of Temporary Stockpile and unlocked by gathering the nearby Sealing Aurylenes.",
+      "translated": "Находится к юго-западу от Временного склада и открывается сбором ближайших запечатывающих аурилен.",
+      "ids": [
+        "1387261"
+      ]
+    },
+    {
+      "original": "Found southwest of the Mining Area Clinic on the other side of the chasm.",
+      "translated": "Находится к юго-западу от Клиники горнодобывающего района на другой стороне ущелья.",
+      "ids": [
+        "1382586"
+      ]
+    },
+    {
+      "original": "Found through the broken fence in Deep Management Post.",
+      "translated": "Находится за сломанным забором на Посту глубинного управления.",
+      "ids": [
+        "1385053"
+      ]
+    },
+    {
+      "original": "Found to the left of a large cylinder exhausts at the north part of the Eco-Farm.",
+      "translated": "Находится слева от больших цилиндрических выхлопов в северной части Эко-фермы.",
+      "ids": [
+        "1381379"
+      ]
+    },
+    {
+      "original": "Found to the left of Stragglers Ford close to bamboo. ",
+      "translated": "Находится слева от Брода отставших, рядом с бамбуком.",
+      "ids": [
+        "1382728"
+      ]
+    },
+    {
+      "original": "Found to the left of the TP Point of the Treadway. It will be behind some rocks.",
+      "translated": "Находится слева от точки телепортации Путепровода. Будет за камнями.",
+      "ids": [
+        "1382726"
+      ]
+    },
+    {
+      "original": "Found to the northeast of Bridge Approach Camp.",
+      "translated": "Находится к северо-востоку от Лагеря подхода к мосту.",
+      "ids": [
+        "1386832"
+      ]
+    },
+    {
+      "original": "Found to the northwest of Rockhill Passage.",
+      "translated": "Находится к северо-западу от Прохода Рокхилл.",
+      "ids": [
+        "1381141"
+      ]
+    },
+    {
+      "original": "Found to the right of the two objects you can investigate during the Through the Haze quest.",
+      "translated": "Находится справа от двух объектов для исследования во время квеста «Сквозь туман».",
+      "ids": [
+        "1381309"
+      ]
+    },
+    {
+      "original": "Found to the west of Plateau Trunkway, to the side of the main road.",
+      "translated": "Находится к западу от Магистрали плато, сбоку от главной дороги.",
+      "ids": [
+        "1386833"
+      ]
+    },
+    {
+      "original": "Found under a waterfall. Scan to make it appear.",
+      "translated": "Находится под водопадом. Просканируйте, чтобы проявить.",
+      "ids": [
+        "1382684"
+      ]
+    },
+    {
+      "original": "Found under the bridge near the Old Mines TP Point.",
+      "translated": "Находится под мостом рядом с точкой телепортации Старых шахт.",
+      "ids": [
+        "1382599"
+      ]
+    },
+    {
+      "original": "Found under the bridge, west of United Parking Lot.",
+      "translated": "Находится под мостом к западу от Объединённой парковки.",
+      "ids": [
+        "1386827"
+      ]
+    },
+    {
+      "original": "Found under the tiny bridge east of Southern Meadows.",
+      "translated": "Находится под маленьким мостом к востоку от Южных лугов.",
+      "ids": [
+        "1380426"
+      ]
+    },
+    {
+      "original": "Found underground at the Refuse Stockpile.",
+      "translated": "Находится под землёй на Складе отходов.",
+      "ids": [
+        "1381469"
+      ]
+    },
+    {
+      "original": "Found Underground. Complete The Invisible Glyphs side mission to unlock.",
+      "translated": "Находится под землёй. Выполните побочное задание «Невидимые глифы» для разблокировки.",
+      "ids": [
+        "1381610"
+      ]
+    },
+    {
+      "original": "Found up a cliff southeast of Temporary Stockpile guarded by some enemies.",
+      "translated": "Находится на утёсе к юго-востоку от Временного склада и охраняется врагами.",
+      "ids": [
+        "1387257"
+      ]
+    },
+    {
+      "original": "Found west of Blightcliff Observation Post.",
+      "translated": "Находится к западу от Наблюдательного поста Блайтклифф.",
+      "ids": [
+        "1382419"
+      ]
+    },
+    {
+      "original": "Found west of the Hub Base Power Plant.",
+      "translated": "Находится к западу от Электростанции базы Хаба.",
+      "ids": [
+        "1381525",
+        "1381606",
+        "1381607"
+      ]
+    },
+    {
+      "original": "Found west of the Southern Meadows after clearing the Energy Alluvium in the area.",
+      "translated": "Находится к западу от Южных лугов после очистки энергетического аллювия в этой зоне.",
+      "ids": [
+        "1381585"
+      ]
+    },
+    {
+      "original": "Found west of the Southern Meadows in front of a truck.",
+      "translated": "Находится к западу от Южных лугов перед грузовиком.",
+      "ids": [
+        "1381586"
+      ]
+    },
+    {
+      "original": "Found west outside of Temporary Stockpile and unlocked by gathering the nearby Sealing Aurylenes.",
+      "translated": "Находится к западу от Временного склада и открывается сбором ближайших запечатывающих аурилен.",
+      "ids": [
+        "1387264"
+      ]
+    },
+    {
+      "original": "Found when you enter Kohl Plant. It moves away when you get close and lands on a tall crate in the succeeding room.",
+      "translated": "Находится при входе на завод Коль. Убегает при приближении и приземляется на высокий ящик в следующей комнате.",
+      "ids": [
+        "1381510"
+      ]
+    },
+    {
+      "original": "From the Deep Management Post TP Point, head south and jump down the cliffside to get to this Aurylene.",
+      "translated": "От точки телепортации Поста глубинного управления идите на юг и спрыгните с обрыва, чтобы добраться до этого аурилена.",
+      "ids": [
+        "1381216"
+      ]
+    },
+    {
+      "original": "Further South of the PAC, in front of the Hub Base Power Plant.",
+      "translated": "Дальше к югу от PAC, перед Электростанцией базы Хаба.",
+      "ids": [
+        "1374071"
+      ]
+    },
+    {
+      "original": "Go down the broken glass window at the center of the 2nd floor of the Research Center and then use the zip.",
+      "translated": "Спуститесь через разбитое окно в центре 2 этажа Исследовательского центра и воспользуйтесь зиплайном.",
+      "ids": [
+        "1386685"
+      ]
+    },
+    {
+      "original": "Go through the container and climb to the top north of Temporary Stockpile.",
+      "translated": "Пройдите через контейнер и заберитесь наверх к северу от Временного склада.",
+      "ids": [
+        "1387246"
+      ]
+    },
+    {
+      "original": "Head a little northwest of the Old Water Plant, towards a mesh wire surface. There will be an invisible Aurylene here you can reveal by scanning the area.",
+      "translated": "Идите немного к северо-западу от Старой водоочистной станции к сетчатой поверхности. Там будет невидимый аурилен, который можно проявить сканированием.",
+      "ids": [
+        "1380410"
+      ]
+    },
+    {
+      "original": "Head down the rope from the Stockpile Area TP point.",
+      "translated": "Спуститесь по верёвке от точки телепортации Зоны склада.",
+      "ids": [
+        "1381368"
+      ]
+    },
+    {
+      "original": "Head down this rope after completing the rotating platform puzzle during the Fix the Super Crane quest.",
+      "translated": "Спуститесь по этой верёвке после решения головоломки с вращающейся платформой в квесте «Почините супер-кран».",
+      "ids": [
+        "1381519"
+      ]
+    },
+    {
+      "original": "Head downstairs on the south side of the power plant.",
+      "translated": "Спуститесь вниз по лестнице на южной стороне электростанции.",
+      "ids": [
+        "1387033"
+      ]
+    },
+    {
+      "original": "Head towards Block C after entering Block A in the quest Deep Management Post Rescue. In a back area in Deep Management Post. Reach this area by passing through B1.",
+      "translated": "Направляйтесь к Блоку C после входа в Блок A в квесте «Спасение на Посту глубинного управления». В задней части Поста глубинного управления. Доберитесь через B1.",
+      "ids": [
+        "1380792"
+      ]
+    },
+    {
+      "original": "Hidden Aurylene near the lake. Located beside a few common reeds by the bridge.",
+      "translated": "Скрытый аурилен возле озера. Находится рядом с камышами у моста.",
+      "ids": [
+        "1382686"
+      ]
+    },
+    {
+      "original": "Hidden behind a large illusory rock. Attack it to reveal the Repair Logic spot near the waterfalls.",
+      "translated": "Скрыт за большим иллюзорным камнем. Атакуйте его, чтобы открыть точку ремонтной логики возле водопадов.",
+      "ids": [
+        "1382724"
+      ]
+    },
+    {
+      "original": "Hidden behind an illusory bamboo wall. Attack it to reveal the Aurylene.",
+      "translated": "Скрыт за иллюзорной бамбуковой стеной. Атакуйте её, чтобы открыть аурилен.",
+      "ids": [
+        "1382700"
+      ]
+    },
+    {
+      "original": "Hidden in a flower bed.",
+      "translated": "Скрыт в цветочной клумбе.",
+      "ids": [
+        "1382767"
+      ]
+    },
+    {
+      "original": "Hidden underneath a large rock that requires an explosive to be destroyed.",
+      "translated": "Скрыт под большим камнем, который нужно взорвать.",
+      "ids": [
+        "1382753"
+      ]
+    },
+    {
+      "original": "High up on an elevated pipe way. You can get up here by finding the bounce pad behind a shipping container to the southwest of this spot.",
+      "translated": "Высоко на приподнятом трубопроводе. Поднимитесь, найдя прыжковую площадку за контейнером к юго-западу от этого места.",
+      "ids": [
+        "1382445"
+      ]
+    },
+    {
+      "original": "Immediately to the left of the Core AIC Area.",
+      "translated": "Сразу слева от Центральной зоны AIC.",
+      "ids": [
+        "1380434"
+      ]
+    },
+    {
+      "original": "In a building southwest of the Power Plant Comm Station. Destroy the blight with a bomb.",
+      "translated": "В здании к юго-западу от Станции связи электростанции. Уничтожьте порчу бомбой.",
+      "ids": [
+        "1382677"
+      ]
+    },
+    {
+      "original": "In a cave at the south side of Transfer Area.",
+      "translated": "В пещере на южной стороне Зоны перехода.",
+      "ids": [
+        "1381661"
+      ]
+    },
+    {
+      "original": "In a fenced area behind a building at the southeast corner of the Mining Camp.",
+      "translated": "В огороженной зоне за зданием в юго-восточном углу Шахтёрского лагеря.",
+      "ids": [
+        "1386820"
+      ]
+    },
+    {
+      "original": "In a junkyard down the cliffside on a lower level, southwest of Bridge Approach.",
+      "translated": "На свалке внизу обрыва на нижнем уровне, к юго-западу от Подхода к мосту.",
+      "ids": [
+        "1374061"
+      ]
+    },
+    {
+      "original": "In a narrow space in between two buildings west of the Mining Camp.",
+      "translated": "В узком пространстве между двумя зданиями к западу от Шахтёрского лагеря.",
+      "ids": [
+        "1382444"
+      ]
+    },
+    {
+      "original": "In a parking lot south of Originium Science Park. Lower the crane, the jump on some nearby boxes, then the box on the lowered crane, to reach it. ",
+      "translated": "На парковке к югу от Научного парка оригиниума. Опустите кран, прыгните на ближайшие ящики, затем на ящик на опущенном кране, чтобы добраться.",
+      "ids": [
+        "1381374"
+      ]
+    },
+    {
+      "original": "In a slightly grassy area far southwest of the Containment Zone Intersection, and also northeast of the Meteorological Station.",
+      "translated": "В слегка травянистой зоне далеко к юго-западу от Перекрёстка зоны сдерживания и к северо-востоку от Метеостанции.",
+      "ids": [
+        "1382465"
+      ]
+    },
+    {
+      "original": "in Abandoned Cave No. 3, at the Old Dorms. Scan to reveal.",
+      "translated": "В Заброшенной пещере №3 у Старых общежитий. Просканируйте для обнаружения.",
+      "ids": [
+        "1382672"
+      ]
+    },
+    {
+      "original": "In Abandoned Trail, near the bridge that leads back to Passage Entrance.",
+      "translated": "На Заброшенной тропе, рядом с мостом, ведущим ко Входу в проход.",
+      "ids": [
+        "1374094"
+      ]
+    },
+    {
+      "original": "In an alley to the east of Southern Meadows.",
+      "translated": "В переулке к востоку от Южных лугов.",
+      "ids": [
+        "1374067"
+      ]
+    },
+    {
+      "original": "In an area with lots of cargo west of Mining Camp.",
+      "translated": "В зоне с множеством грузов к западу от Шахтёрского лагеря.",
+      "ids": [
+        "1387233"
+      ]
+    },
+    {
+      "original": "In front of the shed under the broken bridge south of Temporary Stockpile.",
+      "translated": "Перед сараем под разрушенным мостом к югу от Временного склада.",
+      "ids": [
+        "1387254"
+      ]
+    },
+    {
+      "original": "In the area to the east of Temporary Stockpile.",
+      "translated": "В зоне к востоку от Временного склада.",
+      "ids": [
+        "1386819"
+      ]
+    },
+    {
+      "original": "In the building eastt of Mining Camp behind a counter.",
+      "translated": "В здании к востоку от Шахтёрского лагеря, за прилавком.",
+      "ids": [
+        "1387243"
+      ]
+    },
+    {
+      "original": "In the garage at Staff Lounge.",
+      "translated": "В гараже Комнаты отдыха персонала.",
+      "ids": [
+        "1385072"
+      ]
+    },
+    {
+      "original": "In the middle of Transport Nexus next to some breakable debris.",
+      "translated": "В центре Транспортного узла рядом с разрушаемыми обломками.",
+      "ids": [
+        "1386672"
+      ]
+    },
+    {
+      "original": "In the northwest part of Valley Transfer. Found underneath the Teleport waypoint unlocked during the quest Through the Haze.",
+      "translated": "В северо-западной части Долинного перехода. Находится под точкой телепортации, открываемой в квесте «Сквозь туман».",
+      "ids": [
+        "1374079"
+      ]
+    },
+    {
+      "original": "In the outdoor area of the 2nd floor of Mining Area Clinic.",
+      "translated": "На открытой площадке 2 этажа Клиники горнодобывающего района.",
+      "ids": [
+        "1387238"
+      ]
+    },
+    {
+      "original": "In the pipes at the Top Floor of Originium Power Plant. At the end of the conveyor belt.",
+      "translated": "В трубах на верхнем этаже Электростанции оригиниума. В конце конвейерной ленты.",
+      "ids": [
+        "1382674"
+      ]
+    },
+    {
+      "original": "In the Quarry Site, on a small platform behind the fence, overlooking the lower level of the Quarry Site.",
+      "translated": "На Карьере, на маленькой платформе за забором с видом на нижний уровень Карьера.",
+      "ids": [
+        "1381221"
+      ]
+    },
+    {
+      "original": "In the Stockpile Area, nearby a crate and electric fence puzzle.",
+      "translated": "В Зоне склада, рядом с головоломкой с ящиком и электрическим забором.",
+      "ids": [
+        "1380440"
+      ]
+    },
+    {
+      "original": "Inside a shipping container along the road, in between Plateau Trunkway and United Parking Lot.",
+      "translated": "Внутри контейнера вдоль дороги между Магистралью плато и Объединённой парковкой.",
+      "ids": [
+        "1382670"
+      ]
+    },
+    {
+      "original": "Inside a shipping container east of Bridge Approach Camp, and west of United Parking Lot.",
+      "translated": "Внутри контейнера к востоку от Лагеря подхода к мосту и к западу от Объединённой парковки.",
+      "ids": [
+        "1382668"
+      ]
+    },
+    {
+      "original": "Inside a shipping container southest of the Containment Zone Intersection.",
+      "translated": "Внутри контейнера к юго-востоку от Перекрёстка зоны сдерживания.",
+      "ids": [
+        "1382439"
+      ]
+    },
+    {
+      "original": "Inside some metal container crates slightly southwest of the Old Mines waypoint.",
+      "translated": "Внутри металлических контейнеров немного к юго-западу от точки Старых шахт.",
+      "ids": [
+        "1381671"
+      ]
+    },
+    {
+      "original": "Inside the Arsenal Location, guarded by some enemies and hidden behind some destructible boxes.",
+      "translated": "Внутри Арсенала, охраняется врагами и спрятан за разрушаемыми ящиками.",
+      "ids": [
+        "1381314"
+      ]
+    },
+    {
+      "original": "Inside the fence at the north side of Temporary Stockpile.",
+      "translated": "Внутри ограждения на северной стороне Временного склада.",
+      "ids": [
+        "1382443"
+      ]
+    },
+    {
+      "original": "Inside the gazebo, north of the Residential Area. Appears when scanned.",
+      "translated": "Внутри беседки к северу от Жилого района. Появляется при сканировании.",
+      "ids": [
+        "1385227"
+      ]
+    },
+    {
+      "original": "Inside the old house north of the Abandoned Trail.",
+      "translated": "Внутри старого дома к северу от Заброшенной тропы.",
+      "ids": [
+        "1374083"
+      ]
+    },
+    {
+      "original": "Inside the Originium Byproduct Processing Center. Pull the short and tall crates together to climb up and obtain the Aurylene at the top of a higher stack of crates.",
+      "translated": "Внутри Центра переработки побочных продуктов оригиниума. Сдвиньте низкие и высокие ящики вместе, чтобы забраться наверх и получить аурилен на вершине высокой стопки ящиков.",
+      "ids": [
+        "1374058"
+      ]
+    },
+    {
+      "original": "Inside the shed at Staff Lounge.",
+      "translated": "Внутри сарая в Комнате отдыха персонала.",
+      "ids": [
+        "1385071"
+      ]
+    },
+    {
+      "original": "It moves around in the air, outside Wuling City, to the east of Citizen Square.",
+      "translated": "Перемещается в воздухе за пределами города Улин, к востоку от Гражданской площади.",
+      "ids": [
+        "1385245"
+      ]
+    },
+    {
+      "original": "It moves around on the water at the central pond at Bureau of Swordmancers.",
+      "translated": "Перемещается по воде в центральном пруду Бюро мечников.",
+      "ids": [
+        "1385226"
+      ]
+    },
+    {
+      "original": "It runs away when you get close, but comes back if you wait.",
+      "translated": "Убегает при приближении, но возвращается, если подождать.",
+      "ids": [
+        "1382452"
+      ]
+    },
+    {
+      "original": "It's suspended in mid-air, a little west of Tianshi Bureau Academy. Go up the stairs and pick it up from the second floor.",
+      "translated": "Висит в воздухе немного к западу от Академии Бюро Тяньши. Поднимитесь по лестнице и возьмите со второго этажа.",
+      "ids": [
+        "1385252"
+      ]
+    },
+    {
+      "original": "Jump down from the Research Center lab into a fenced area.",
+      "translated": "Спрыгните из лаборатории Исследовательского центра в огороженную зону.",
+      "ids": [
+        "1386687"
+      ]
+    },
+    {
+      "original": "Jump on the crates on the left side of the Bridge Approach entrance and find the chest on top.",
+      "translated": "Запрыгните на ящики слева от входа в Подход к мосту и найдите сундук наверху.",
+      "ids": [
+        "1381317"
+      ]
+    },
+    {
+      "original": "Just by the ledge within Abandoned Trail. Jump over the ledge to reach it.",
+      "translated": "У выступа на Заброшенной тропе. Перепрыгните через выступ, чтобы добраться.",
+      "ids": [
+        "1374077"
+      ]
+    },
+    {
+      "original": "Just outside the Sky King Flats AIC area, south of the island, next to the TP Point.",
+      "translated": "Сразу за зоной AIC Квартир Небесного короля, к югу от острова, рядом с точкой телепортации.",
+      "ids": [
+        "1386844"
+      ]
+    },
+    {
+      "original": "Just outside the Sky King Flats AIC area, to the northwest.",
+      "translated": "Сразу за зоной AIC Квартир Небесного короля, к северо-западу.",
+      "ids": [
+        "1386847"
+      ]
+    },
+    {
+      "original": "Just outside the Sky King Flats AIC area, to the southeast, next to the Recycling Station and TP Point.",
+      "translated": "Сразу за зоной AIC Квартир Небесного короля, к юго-востоку, рядом со Станцией переработки и точкой телепортации.",
+      "ids": [
+        "1386849"
+      ]
+    },
+    {
+      "original": "Just outside the Sky King Flats AIC area, to the southwest.",
+      "translated": "Сразу за зоной AIC Квартир Небесного короля, к юго-западу.",
+      "ids": [
+        "1386848"
+      ]
+    },
+    {
+      "original": "Just south of the TP Point outside Aether Test Site.",
+      "translated": "К югу от точки телепортации за Испытательным полигоном Эфира.",
+      "ids": [
+        "1382680"
+      ]
+    },
+    {
+      "original": "Just within the Abandoned Trail during Secure Sanctuary. It can be found nearby after beating the enemies and meeting Karja.",
+      "translated": "На Заброшенной тропе во время «Безопасное убежище». Можно найти поблизости после победы над врагами и встречи с Карьей.",
+      "ids": [
+        "1381307"
+      ]
+    },
+    {
+      "original": "Located at the big open space west from the road.",
+      "translated": "Находится на большом открытом пространстве к западу от дороги.",
+      "ids": [
+        "1387053"
+      ]
+    },
+    {
+      "original": "Located at the Control Center past an obstacle you can destroy with a bomb.",
+      "translated": "Находится в Центре управления за препятствием, которое можно взорвать бомбой.",
+      "ids": [
+        "1386668"
+      ]
+    },
+    {
+      "original": "Located at the east side of the camp.",
+      "translated": "Находится на восточной стороне лагеря.",
+      "ids": [
+        "1387049"
+      ]
+    },
+    {
+      "original": "Located at the east side of the evacuation zone.",
+      "translated": "Находится на восточной стороне зоны эвакуации.",
+      "ids": [
+        "1387055"
+      ]
+    },
+    {
+      "original": "Located at the edge of the cliff.",
+      "translated": "Находится на краю утёса.",
+      "ids": [
+        "1382755"
+      ]
+    },
+    {
+      "original": "Located at the edge of the platform.",
+      "translated": "Находится на краю платформы.",
+      "ids": [
+        "1382765"
+      ]
+    },
+    {
+      "original": "Located behind the right side of the dam wall.",
+      "translated": "Находится за правой стороной стены плотины.",
+      "ids": [
+        "1382779"
+      ]
+    },
+    {
+      "original": "Located behind the wall in the Old Dorms.",
+      "translated": "Находится за стеной в Старых общежитиях.",
+      "ids": [
+        "1387041"
+      ]
+    },
+    {
+      "original": "Located by the edge of the cliff.",
+      "translated": "Находится у края утёса.",
+      "ids": [
+        "1382735"
+      ]
+    },
+    {
+      "original": "Located in the room after hacking the Security Device and entering the Archive during the mission, \"Fix the Super Crane\".",
+      "translated": "Находится в комнате после взлома устройства безопасности и входа в Архив во время миссии «Почините супер-кран».",
+      "ids": [
+        "1382715"
+      ]
+    },
+    {
+      "original": "Located in the tunnel passage underground southwest of Temporary Stockpile.",
+      "translated": "Находится в туннельном проходе под землёй к юго-западу от Временного склада.",
+      "ids": [
+        "1387262"
+      ]
+    },
+    {
+      "original": "Located just beside the flower pots outside the house.",
+      "translated": "Находится рядом с цветочными горшками снаружи дома.",
+      "ids": [
+        "1382777"
+      ]
+    },
+    {
+      "original": "Located just through a cargo container near the Mining Area Clinic.",
+      "translated": "Находится внутри грузового контейнера рядом с Клиникой горнодобывающего района.",
+      "ids": [
+        "1387230"
+      ]
+    },
+    {
+      "original": "Located near the central platform with an Aurylene above it. Found by the lake.",
+      "translated": "Находится возле центральной платформы с аурилен над ней. Рядом с озером.",
+      "ids": [
+        "1382729"
+      ]
+    },
+    {
+      "original": "Located near the edge of the cliff.",
+      "translated": "Находится у края утёса.",
+      "ids": [
+        "1382695"
+      ]
+    },
+    {
+      "original": "Located on a rock just a few feet from the lake.",
+      "translated": "Находится на камне в нескольких метрах от озера.",
+      "ids": [
+        "1382745"
+      ]
+    },
+    {
+      "original": "Located on an isle. You must use the Lily Pads to get across and reach the Bot.",
+      "translated": "Находится на острове. Используйте кувшинки, чтобы перебраться и добраться до бота.",
+      "ids": [
+        "1382737"
+      ]
+    },
+    {
+      "original": "Located on the floating platform.",
+      "translated": "Находится на плавучей платформе.",
+      "ids": [
+        "1382758"
+      ]
+    },
+    {
+      "original": "Located on the metal platform near the zipline, which is found on the south side after passing through the conveyor belt.",
+      "translated": "Находится на металлической платформе возле зиплайна на южной стороне после прохождения конвейерной ленты.",
+      "ids": [
+        "1387032"
+      ]
+    },
+    {
+      "original": "Located past the bridge that you can fix during the Elevated Rescue mission at Blightcliff Observation Post.",
+      "translated": "Находится за мостом, который можно починить во время миссии «Спасение на высоте» на Наблюдательном посту Блайтклифф.",
+      "ids": [
+        "1382718"
+      ]
+    },
+    {
+      "original": "Located to the northeast of Gloomvale.",
+      "translated": "Находится к северо-востоку от Мрачной долины.",
+      "ids": [
+        "1382736"
+      ]
+    },
+    {
+      "original": "Located to the northeast of the Ecological Research Station.",
+      "translated": "Находится к северо-востоку от Экологической исследовательской станции.",
+      "ids": [
+        "1382731"
+      ]
+    },
+    {
+      "original": "Located under the cliff just beside the jump pad.",
+      "translated": "Находится под утёсом рядом с прыжковой площадкой.",
+      "ids": [
+        "1382693"
+      ]
+    },
+    {
+      "original": "Located under the stairs in the nearby camp.",
+      "translated": "Находится под лестницей в ближайшем лагере.",
+      "ids": [
+        "1387048"
+      ]
+    },
+    {
+      "original": "Located underneath the wooden ramp. Break the boxes to access the chest.",
+      "translated": "Находится под деревянным пандусом. Разбейте ящики, чтобы добраться до сундука.",
+      "ids": [
+        "1382750"
+      ]
+    },
+    {
+      "original": "Locked Chest. Collect the glowing orbs to unlock it.",
+      "translated": "Запертый сундук. Соберите светящиеся сферы, чтобы открыть.",
+      "ids": [
+        "1382769"
+      ]
+    },
+    {
+      "original": "Locked Chest. Collect thre three glowing orbs in the area to unlock it.",
+      "translated": "Запертый сундук. Соберите три светящиеся сферы в зоне, чтобы открыть.",
+      "ids": [
+        "1382752"
+      ]
+    },
+    {
+      "original": "Locked Chest. Open it by collecting the floating orbs in the area.",
+      "translated": "Запертый сундук. Откройте его, собрав летающие сферы в зоне.",
+      "ids": [
+        "1382741"
+      ]
+    },
+    {
+      "original": "Make your way through a path hidden beneath shallow water. Scan the area to find the Aurylene.",
+      "translated": "Пройдите по тропе, скрытой под мелководьем. Просканируйте область, чтобы найти аурилен.",
+      "ids": [
+        "1382698"
+      ]
+    },
+    {
+      "original": "Mining Area Clinic. Go through the breakable floor then use the auto jet vents to climb towards the Aurylene.",
+      "translated": "Клиника горнодобывающего района. Пройдите через разрушаемый пол, затем используйте воздушные вентиляции, чтобы подняться к аурилену.",
+      "ids": [
+        "1381664"
+      ]
+    },
+    {
+      "original": "Moves in the air near the bamboo forest.",
+      "translated": "Перемещается в воздухе возле бамбукового леса.",
+      "ids": [
+        "1382691"
+      ]
+    },
+    {
+      "original": "Moving around at the gazebo to the northwest of the Maintenance Zone. Appears when scanned.",
+      "translated": "Перемещается у беседки к северо-западу от Зоны обслуживания. Появляется при сканировании.",
+      "ids": [
+        "1385264"
+      ]
+    },
+    {
+      "original": "Moving around in the air at a temple to the west of the Core AIC Area, at Chenshan Way.",
+      "translated": "Перемещается в воздухе у храма к западу от Центральной зоны AIC, на пути Чэньшань.",
+      "ids": [
+        "1385220"
+      ]
+    },
+    {
+      "original": "Moving around in the air at the central pond of the Residential Area.",
+      "translated": "Перемещается в воздухе у центрального пруда Жилого района.",
+      "ids": [
+        "1385230"
+      ]
+    },
+    {
+      "original": "Moving around in the air at the northern part of Citizen Square.",
+      "translated": "Перемещается в воздухе в северной части Гражданской площади.",
+      "ids": [
+        "1385243"
+      ]
+    },
+    {
+      "original": "Moving around in the air at the Outskirt Barrens.",
+      "translated": "Перемещается в воздухе на Окраинных пустошах.",
+      "ids": [
+        "1385267"
+      ]
+    },
+    {
+      "original": "Moving around in the air in a place with yellow umbrellas, to the southwest of the Residential Area. This place is close to Fangxing Avenue.",
+      "translated": "Перемещается в воздухе в месте с жёлтыми зонтиками к юго-западу от Жилого района. Это место рядом с проспектом Фансин.",
+      "ids": [
+        "1385234"
+      ]
+    },
+    {
+      "original": "Moving around in the air inside the building, at the southwest part of Citizen Square. Appears when scanned.",
+      "translated": "Перемещается в воздухе внутри здания в юго-западной части Гражданской площади. Появляется при сканировании.",
+      "ids": [
+        "1385242"
+      ]
+    },
+    {
+      "original": "Moving around in the air on the rooftops, on the west side of Citizen Square. Climb up the nearby rope and go further up the stairs to get it.",
+      "translated": "Перемещается в воздухе на крышах на западной стороне Гражданской площади. Поднимитесь по ближайшей верёвке и далее по лестнице, чтобы получить.",
+      "ids": [
+        "1385238"
+      ]
+    },
+    {
+      "original": "Moving around in the air on the third floor of the Institute of Materials Science. You can enter by progressing through the main story.",
+      "translated": "Перемещается в воздухе на третьем этаже Института материаловедения. Можно войти, продвигаясь по основному сюжету.",
+      "ids": [
+        "1385253",
+        "1385254"
+      ]
+    },
+    {
+      "original": "Moving around in the air southwest of the AIC Area.",
+      "translated": "Перемещается в воздухе к юго-западу от зоны AIC.",
+      "ids": [
+        "1385221"
+      ]
+    },
+    {
+      "original": "Moving around in the air, above the river to the east of Hulu Cave.",
+      "translated": "Перемещается в воздухе над рекой к востоку от пещеры Хулу.",
+      "ids": [
+        "1385271"
+      ]
+    },
+    {
+      "original": "Moving around in the air, around the grassy grounds of Tianshi Bureau Academy.",
+      "translated": "Перемещается в воздухе вокруг травянистой территории Академии Бюро Тяньши.",
+      "ids": [
+        "1385251"
+      ]
+    },
+    {
+      "original": "Moving around in the air, at the Maintenance Zone, near the path intersection.",
+      "translated": "Перемещается в воздухе в Зоне обслуживания, рядом с перекрёстком тропинок.",
+      "ids": [
+        "1385265"
+      ]
+    },
+    {
+      "original": "Moving around in the air, on the eastern side of Bureau of Swordmancers.",
+      "translated": "Перемещается в воздухе на восточной стороне Бюро мечников.",
+      "ids": [
+        "1385225"
+      ]
+    },
+    {
+      "original": "Moving around in the air, on the southwest side of Xiranflow Channel.",
+      "translated": "Перемещается в воздухе на юго-западной стороне канала Сираньфлоу.",
+      "ids": [
+        "1385247"
+      ]
+    },
+    {
+      "original": "Moving around in the air, south of the Institute of Materials Science. In an area with a pond, a tree in the center, and a staircase.",
+      "translated": "Перемещается в воздухе к югу от Института материаловедения. В зоне с прудом, деревом в центре и лестницей.",
+      "ids": [
+        "1385257"
+      ]
+    },
+    {
+      "original": "Moving around on the bridge at Fangxing Avenue.",
+      "translated": "Перемещается на мосту на проспекте Фансин.",
+      "ids": [
+        "1385235"
+      ]
+    },
+    {
+      "original": "Moving around on the roof, at the north part of the Monitoring Center. Found very close to the TP Point.",
+      "translated": "Перемещается на крыше в северной части Центра мониторинга. Находится очень близко к точке телепортации.",
+      "ids": [
+        "1385260"
+      ]
+    },
+    {
+      "original": "Moving around on the scaffolding on the first floor of the Field Logistics Depot.",
+      "translated": "Перемещается на лесах на первом этаже Полевого логистического склада.",
+      "ids": [
+        "1385272"
+      ]
+    },
+    {
+      "original": "Moving around the stone statue, in the central park at Citizen Square. Appears when scanned.",
+      "translated": "Перемещается вокруг каменной статуи в центральном парке на Гражданской площади. Появляется при сканировании.",
+      "ids": [
+        "1385240"
+      ]
+    },
+    {
+      "original": "Moving around the tree at the northwest part of Citizen Square.",
+      "translated": "Перемещается вокруг дерева в северо-западной части Гражданской площади.",
+      "ids": [
+        "1385237"
+      ]
+    },
+    {
+      "original": "Moving around under the building on the east side of the Residential Area.",
+      "translated": "Перемещается под зданием на восточной стороне Жилого района.",
+      "ids": [
+        "1385231"
+      ]
+    },
+    {
+      "original": "Moving around under the giant bell at Tianshi Bureau Academy. Scan to reveal.",
+      "translated": "Перемещается под гигантским колоколом в Академии Бюро Тяньши. Просканируйте для обнаружения.",
+      "ids": [
+        "1385250"
+      ]
+    },
+    {
+      "original": "Moving around under the giant bell, east of Citizen Square. Scan to reveal.",
+      "translated": "Перемещается под гигантским колоколом к востоку от Гражданской площади. Просканируйте для обнаружения.",
+      "ids": [
+        "1385246"
+      ]
+    },
+    {
+      "original": "Moving around under the giant bell, northeast of the Residential Area. Scan to reveal.",
+      "translated": "Перемещается под гигантским колоколом к северо-востоку от Жилого района. Просканируйте для обнаружения.",
+      "ids": [
+        "1385233"
+      ]
+    },
+    {
+      "original": "Near a group of dancing people, near the center of Citizen Square.",
+      "translated": "Рядом с группой танцующих людей в центре Гражданской площади.",
+      "ids": [
+        "1385239"
+      ]
+    },
+    {
+      "original": "Near dense mining spots, south of Staff Lounge.",
+      "translated": "Рядом с плотными местами добычи к югу от Комнаты отдыха персонала.",
+      "ids": [
+        "1381219"
+      ]
+    },
+    {
+      "original": "Near the North side of Old Mines, next to a Protocol Datalogger.",
+      "translated": "Рядом с северной стороной Старых шахт, возле регистратора протоколов.",
+      "ids": [
+        "1386822"
+      ]
+    },
+    {
+      "original": "Near the Repair Robot at the Transfer Area.",
+      "translated": "Рядом с ремонтным роботом в Зоне перехода.",
+      "ids": [
+        "1385067"
+      ]
+    },
+    {
+      "original": "Near the row of trees along the red path on the eastern side of Citizen Square.",
+      "translated": "Рядом с рядом деревьев вдоль красной дорожки на восточной стороне Гражданской площади.",
+      "ids": [
+        "1385244"
+      ]
+    },
+    {
+      "original": "Near the trailer west of Mining Area Clinic.",
+      "translated": "Рядом с прицепом к западу от Клиники горнодобывающего района.",
+      "ids": [
+        "1387245"
+      ]
+    },
+    {
+      "original": "Nearby the Core AIC Area, just southeast of it.",
+      "translated": "Рядом с Центральной зоной AIC, к юго-востоку от неё.",
+      "ids": [
+        "1381462"
+      ]
+    },
+    {
+      "original": "Next to some Ferrium Ore mining spots in the northwest part of Old Mines.",
+      "translated": "Рядом с местами добычи феррумной руды в северо-западной части Старых шахт.",
+      "ids": [
+        "1382464"
+      ]
+    },
+    {
+      "original": "Next to the building west of Mining Camp.",
+      "translated": "Рядом со зданием к западу от Шахтёрского лагеря.",
+      "ids": [
+        "1387232"
+      ]
+    },
+    {
+      "original": "Next to the Quarry Entrance TP Point inside the shed.",
+      "translated": "Рядом с точкой телепортации Входа в карьер внутри сарая.",
+      "ids": [
+        "1385056"
+      ]
+    },
+    {
+      "original": "Next to the Repair Robot in Refuse Stockpile.",
+      "translated": "Рядом с ремонтным роботом на Складе отходов.",
+      "ids": [
+        "1385061"
+      ]
+    },
+    {
+      "original": "Norhwest of the Infra-station, along the cliff.",
+      "translated": "К северо-западу от Инфра-станции, вдоль утёса.",
+      "ids": [
+        "1381487"
+      ]
+    },
+    {
+      "original": "North East of the PAC.",
+      "translated": "К северо-востоку от PAC.",
+      "ids": [
+        "1374068"
+      ]
+    },
+    {
+      "original": "North of Mountain Passage and Landbreaker Camp, move a crate to be able to reach it.",
+      "translated": "К северу от Горного прохода и Лагеря землепроходцев, передвиньте ящик, чтобы добраться.",
+      "ids": [
+        "1381662"
+      ]
+    },
+    {
+      "original": "North of Old Dorms, accessible from the west side of the Power Plant.",
+      "translated": "К северу от Старых общежитий, доступно с западной стороны Электростанции.",
+      "ids": [
+        "1382579"
+      ]
+    },
+    {
+      "original": "North of Temporary Stockpile guarded by some enemies.",
+      "translated": "К северу от Временного склада, охраняется врагами.",
+      "ids": [
+        "1387247"
+      ]
+    },
+    {
+      "original": "North of the Easy Stash in Transport Nexus, just to the right of the repairable generators. On a bridge connecting two rooftops.",
+      "translated": "К северу от Лёгкого тайника в Транспортном узле, справа от ремонтируемых генераторов. На мосту между двумя крышами.",
+      "ids": [
+        "1381372"
+      ]
+    },
+    {
+      "original": "North of the Mining Area Clinic, on the 2nd floor of the Mining Camp. Can be found behind some breakable crates as you make your way through the quest Shattered Veins.",
+      "translated": "К северу от Клиники горнодобывающего района, на 2 этаже Шахтёрского лагеря. Находится за разрушаемыми ящиками во время квеста «Разбитые жилы».",
+      "ids": [
+        "1381666"
+      ]
+    },
+    {
+      "original": "North of the Mining Area Clinic, on the 3rd floor of the Mining Camp. Arrived at during the quest Shattered Veins.",
+      "translated": "К северу от Клиники горнодобывающего района, на 3 этаже Шахтёрского лагеря. Достигается во время квеста «Разбитые жилы».",
+      "ids": [
+        "1381667"
+      ]
+    },
+    {
+      "original": "North of the Transport Nexus. If you get too close, it will move away, so chase after it to obtain it.",
+      "translated": "К северу от Транспортного узла. При приближении убегает, так что преследуйте его, чтобы получить.",
+      "ids": [
+        "1381504"
+      ]
+    },
+    {
+      "original": "Northeast area of Abandoned Trail, in front of a large tree you pass by as you progress the quest Secure Sanctuary.",
+      "translated": "В северо-восточной части Заброшенной тропы, перед большим деревом, мимо которого проходите во время квеста «Безопасное убежище».",
+      "ids": [
+        "1374092"
+      ]
+    },
+    {
+      "original": "Northeast of Originium Power Plant, and northwest of the entrance to Origin Lodespring.",
+      "translated": "К северо-востоку от Электростанции оригиниума и к северо-западу от входа в Исток жилы.",
+      "ids": [
+        "1382675"
+      ]
+    },
+    {
+      "original": "Northeast side of Cliffside Trail.",
+      "translated": "На северо-восточной стороне Тропы у обрыва.",
+      "ids": [
+        "1386666"
+      ]
+    },
+    {
+      "original": "Northwest of the Bureau of Swordmancers, in front of waterfalls. Moves around in the air when approached.",
+      "translated": "К северо-западу от Бюро мечников, перед водопадами. Перемещается в воздухе при приближении.",
+      "ids": [
+        "1385222"
+      ]
+    },
+    {
+      "original": "Northwest of the Bureau of Swordmancers, over a staircase. Moves when approached.",
+      "translated": "К северо-западу от Бюро мечников, над лестницей. Перемещается при приближении.",
+      "ids": [
+        "1385223"
+      ]
+    },
+    {
+      "original": "Northwest of the PAC. Just beside the Amethyst mining points.",
+      "translated": "К северо-западу от PAC. Рядом с местами добычи аметиста.",
+      "ids": [
+        "1374070"
+      ]
+    },
+    {
+      "original": "Northwest of the TP Point at Aether Test Site. Down the cliff from the road.",
+      "translated": "К северо-западу от точки телепортации на Испытательном полигоне Эфира. Вниз с утёса от дороги.",
+      "ids": [
+        "1382681"
+      ]
+    },
+    {
+      "original": "Northwest part of Quarry Site. Jump down to some metal platforms close to where you first met Penny during the quest Fix the Super Crane.",
+      "translated": "В северо-западной части Карьера. Спрыгните на металлические платформы рядом с местом первой встречи с Пенни во время квеста «Почините супер-кран».",
+      "ids": [
+        "1380442"
+      ]
+    },
+    {
+      "original": "Northwest side of Transfer Area. On top of the scaffolding you reach by going around from the south side of the map.",
+      "translated": "На северо-западной стороне Зоны перехода. На вершине лесов, до которых можно добраться, обойдя с южной стороны карты.",
+      "ids": [
+        "1381222"
+      ]
+    },
+    {
+      "original": "Obtained after clearing the Temporary Energy Alluvium.",
+      "translated": "Получается после очистки временного энергетического аллювия.",
+      "ids": [
+        "1387036",
+        "1387038"
+      ]
+    },
+    {
+      "original": "Obtained after defeating the nearby Axe Beast.",
+      "translated": "Получается после победы над ближайшим Топорным зверем.",
+      "ids": [
+        "1387024",
+        "1387025",
+        "1387026"
+      ]
+    },
+    {
+      "original": "Obtained after defeating the nearby enemies in the area.",
+      "translated": "Получается после победы над ближайшими врагами в этой зоне.",
+      "ids": [
+        "1387045"
+      ]
+    },
+    {
+      "original": "Obtained after the gate opens during the Wulfgard Operator Mission.",
+      "translated": "Получается после открытия ворот во время оперативной миссии Вульфгарда.",
+      "ids": [
+        "1387056",
+        "1387057"
+      ]
+    },
+    {
+      "original": "Obtained after using explosives on the box.",
+      "translated": "Получается после использования взрывчатки на ящике.",
+      "ids": [
+        "1387037"
+      ]
+    },
+    {
+      "original": "Obtained in the same room as Harper during the mission, \"Dusty Old Files\".",
+      "translated": "Получается в той же комнате, что и Харпер, во время миссии «Пыльные старые файлы».",
+      "ids": [
+        "1382716"
+      ]
+    },
+    {
+      "original": "On a destroyed metal platform at the south part of the Power Plant Comm Station.",
+      "translated": "На разрушенной металлической платформе в южной части Станции связи электростанции.",
+      "ids": [
+        "1382678"
+      ]
+    },
+    {
+      "original": "On a higher floor on the northeast side of Mining Camp.",
+      "translated": "На верхнем этаже на северо-восточной стороне Шахтёрского лагеря.",
+      "ids": [
+        "1382446"
+      ]
+    },
+    {
+      "original": "On a higher level at Bridge Approach Camp. Progress through a quest to reach this spot.",
+      "translated": "На верхнем уровне Лагеря подхода к мосту. Продвигайтесь по квесту, чтобы достичь этого места.",
+      "ids": [
+        "1382572"
+      ]
+    },
+    {
+      "original": "On a hill in between Hub Base Power Plant and Construction Site.",
+      "translated": "На холме между Электростанцией базы Хаба и Строительной площадкой.",
+      "ids": [
+        "1374072"
+      ]
+    },
+    {
+      "original": "On a hill just outside the main entrance of Hub Base.",
+      "translated": "На холме у главного входа в базу Хаба.",
+      "ids": [
+        "1380428"
+      ]
+    },
+    {
+      "original": "On a hill next to the northern side of the bridge at Construction Site.",
+      "translated": "На холме рядом с северной стороной моста на Строительной площадке.",
+      "ids": [
+        "1374063"
+      ]
+    },
+    {
+      "original": "On a ledge at the southern tip of The Depression. Destroy the boulders with bombs then platform up the rocky path to get here.",
+      "translated": "На выступе на южной оконечности Впадины. Уничтожьте валуны бомбами, затем поднимитесь по каменной тропе, чтобы добраться сюда.",
+      "ids": [
+        "1381517"
+      ]
+    },
+    {
+      "original": "On a metal platform, southest of the Containment Zone Intersection.",
+      "translated": "На металлической платформе к юго-востоку от Перекрёстка зоны сдерживания.",
+      "ids": [
+        "1382438"
+      ]
+    },
+    {
+      "original": "On a patch of yellow grass in between Valley Transfer and Abandoned Trail.",
+      "translated": "На участке жёлтой травы между Долинным переходом и Заброшенной тропой.",
+      "ids": [
+        "1381466"
+      ]
+    },
+    {
+      "original": "On a shipping container at the southeast part of Deep Management Post. You can get up here by going around to the back and jumping from the containers across the fence.",
+      "translated": "На контейнере в юго-восточной части Поста глубинного управления. Поднимитесь, обойдя сзади и прыгая с контейнеров через забор.",
+      "ids": [
+        "1381218"
+      ]
+    },
+    {
+      "original": "On a structure you can reach by jumping down to it from the north.",
+      "translated": "На конструкции, до которой можно добраться, спрыгнув с севера.",
+      "ids": [
+        "1381502"
+      ]
+    },
+    {
+      "original": "On Bridge Approach, use the zipline near the electric nexus to reach the chest.",
+      "translated": "На Подходе к мосту используйте зиплайн рядом с электрическим узлом, чтобы добраться до сундука.",
+      "ids": [
+        "1381318"
+      ]
+    },
+    {
+      "original": "On high ground that can be reached by a seesaw ramp south of Refuse Stockpile near Listening Post.",
+      "translated": "На возвышенности, до которой можно добраться по качающемуся пандусу к югу от Склада отходов рядом с Постом прослушивания.",
+      "ids": [
+        "1385064"
+      ]
+    },
+    {
+      "original": "On the back of a truck south of Temporary Stockpile.",
+      "translated": "В кузове грузовика к югу от Временного склада.",
+      "ids": [
+        "1387255"
+      ]
+    },
+    {
+      "original": "On the cliff in between Passage Entrance and Abandoned Trail.",
+      "translated": "На утёсе между Входом в проход и Заброшенной тропой.",
+      "ids": [
+        "1374085"
+      ]
+    },
+    {
+      "original": "On the giant lily pads in the pond northwest of Citizen Square.",
+      "translated": "На гигантских кувшинках в пруду к северо-западу от Гражданской площади.",
+      "ids": [
+        "1385236"
+      ]
+    },
+    {
+      "original": "On the large wooden platform, down the cliffside, southwest of Bridge Approach.",
+      "translated": "На большой деревянной платформе внизу обрыва к юго-западу от Подхода к мосту.",
+      "ids": [
+        "1374062"
+      ]
+    },
+    {
+      "original": "On the northeastern islet at Zhailing Islets.",
+      "translated": "На северо-восточном островке на островах Чжайлин.",
+      "ids": [
+        "1386845"
+      ]
+    },
+    {
+      "original": "On the platforms lining the wall outside the building at Mountain Top.",
+      "translated": "На платформах вдоль стены снаружи здания на Вершине горы.",
+      "ids": [
+        "1381135"
+      ]
+    },
+    {
+      "original": "On the roof of a house at the northwest part of the Residential Area.",
+      "translated": "На крыше дома в северо-западной части Жилого района.",
+      "ids": [
+        "1385228"
+      ]
+    },
+    {
+      "original": "On the roof of the house on the north side of the waterway. You can get here by progressing through the main story.",
+      "translated": "На крыше дома на северной стороне водного пути. Можно попасть, продвигаясь по основному сюжету.",
+      "ids": [
+        "1385219"
+      ]
+    },
+    {
+      "original": "On the roof. Catch the speed boost on the roof of the Bureau of Swordmancers building and jump onto this roof.",
+      "translated": "На крыше. Подхватите ускорение на крыше здания Бюро мечников и прыгните на эту крышу.",
+      "ids": [
+        "1385224"
+      ]
+    },
+    {
+      "original": "On the tip of the cliff on the eastern side of Mountaintop, which leads to Mountain Side Trail.",
+      "translated": "На кончике утёса на восточной стороне Вершины горы, ведущего к Боковой горной тропе.",
+      "ids": [
+        "1381138"
+      ]
+    },
+    {
+      "original": "On the trunk of a bent tree within the grounds of Originium Science Park.",
+      "translated": "На стволе согнутого дерева на территории Научного парка оригиниума.",
+      "ids": [
+        "1381458"
+      ]
+    },
+    {
+      "original": "On the upper platforms north of Mining Camp.",
+      "translated": "На верхних платформах к северу от Шахтёрского лагеря.",
+      "ids": [
+        "1387239"
+      ]
+    },
+    {
+      "original": "On the west side of Old Dorms, in Abandoned Cave No. 3. Inside a pipe after destroying the wall with a bomb.",
+      "translated": "На западной стороне Старых общежитий, в Заброшенной пещере №3. Внутри трубы после уничтожения стены бомбой.",
+      "ids": [
+        "1382671"
+      ]
+    },
+    {
+      "original": "On the western cliff edge of Mountain Top. Chase it down the cliff until it rests on the building at Woodland Fringes.",
+      "translated": "На западном краю утёса Вершины горы. Преследуйте его вниз с утёса, пока он не остановится на здании на Лесной опушке.",
+      "ids": [
+        "1380439"
+      ]
+    },
+    {
+      "original": "On the wooden dock of the lake. It will be surrounded by tattered wooden boxes that can be destroyed.",
+      "translated": "На деревянном причале озера. Будет окружён потрёпанными деревянными ящиками, которые можно разрушить.",
+      "ids": [
+        "1382738"
+      ]
+    },
+    {
+      "original": "On top of a building at Transport Nexus.",
+      "translated": "На вершине здания в Транспортном узле.",
+      "ids": [
+        "1386673"
+      ]
+    },
+    {
+      "original": "On top of a building northeast of The Depression.",
+      "translated": "На вершине здания к северо-востоку от Впадины.",
+      "ids": [
+        "1386671"
+      ]
+    },
+    {
+      "original": "On top of a post in front of the building at Mountain Top.",
+      "translated": "На вершине столба перед зданием на Вершине горы.",
+      "ids": [
+        "1381136"
+      ]
+    },
+    {
+      "original": "On top of a roof at the center of Power Plant Comm Station.",
+      "translated": "На крыше в центре Станции связи электростанции.",
+      "ids": [
+        "1382676"
+      ]
+    },
+    {
+      "original": "On top of metal platforms at the Old Water Plant.",
+      "translated": "На металлических платформах на Старой водоочистной станции.",
+      "ids": [
+        "1374075"
+      ]
+    },
+    {
+      "original": "On top of some metal crates in the Stockpile Area, use the singular moveable crate after unlocking the metal fence to climb up to this chest.",
+      "translated": "На металлических ящиках в Зоне склада, используйте передвижной ящик после открытия металлического забора, чтобы забраться к этому сундуку.",
+      "ids": [
+        "1381328"
+      ]
+    },
+    {
+      "original": "On top of stacked rocks on the western side of Stockpile Area.",
+      "translated": "На сложенных камнях на западной стороне Зоны склада.",
+      "ids": [
+        "1381223"
+      ]
+    },
+    {
+      "original": "On top of the antenna/radar, south of Xiranflow Channel. Jump off at the third floor of the building to get it.",
+      "translated": "На вершине антенны/радара к югу от канала Сираньфлоу. Спрыгните с третьего этажа здания, чтобы получить.",
+      "ids": [
+        "1385248"
+      ]
+    },
+    {
+      "original": "On top of the cliff at Arsenal.",
+      "translated": "На вершине утёса у Арсенала.",
+      "ids": [
+        "1374088"
+      ]
+    },
+    {
+      "original": "On top of the platforms at Logistics Platform.",
+      "translated": "На вершине платформ на Логистической платформе.",
+      "ids": [
+        "1381140"
+      ]
+    },
+    {
+      "original": "Outside the Aether Test Site, east from the entrance.",
+      "translated": "Снаружи Испытательного полигона Эфира, к востоку от входа.",
+      "ids": [
+        "1382679"
+      ]
+    },
+    {
+      "original": "Outside the building on the 2nd floor of Mining Area Clinic.",
+      "translated": "Снаружи здания на 2 этаже Клиники горнодобывающего района.",
+      "ids": [
+        "1387237"
+      ]
+    },
+    {
+      "original": "Outside the eastern building at Mountaintop. It is on the platforms on the side of the building, near explosive crates.",
+      "translated": "Снаружи восточного здания на Вершине горы. На платформах сбоку здания, рядом со взрывчатыми ящиками.",
+      "ids": [
+        "1381137"
+      ]
+    },
+    {
+      "original": "Over the awning of a house near the northwest part of the Residential Area.",
+      "translated": "Над навесом дома возле северо-западной части Жилого района.",
+      "ids": [
+        "1385229"
+      ]
+    },
+    {
+      "original": "Past the elevator in Deep Management Post Rescue, instead of head right towards block A, continue to the dark corner.",
+      "translated": "За лифтом в «Спасении на Посту глубинного управления» вместо поворота направо к блоку A продолжайте в тёмный угол.",
+      "ids": [
+        "1381526"
+      ]
+    },
+    {
+      "original": "Progress through the main quest to completely repair the Hub and Old Factory to make this chest appear.",
+      "translated": "Продвигайтесь по основному квесту, чтобы полностью отремонтировать Хаб и Старую фабрику и заставить этот сундук появиться.",
+      "ids": [
+        "1381640"
+      ]
+    },
+    {
+      "original": "Raise the forklift and destroy the wall with a bomb.",
+      "translated": "Поднимите погрузчик и уничтожьте стену бомбой.",
+      "ids": [
+        "1381220"
+      ]
+    },
+    {
+      "original": "Reach the chest by climbing up from the conveyor belt box.",
+      "translated": "Доберитесь до сундука, забравшись с ящика конвейерной ленты.",
+      "ids": [
+        "1387040"
+      ]
+    },
+    {
+      "original": "Repair the bridge during the mission \"Elevated Rescue\" to reach Blightcliff Observation Post.",
+      "translated": "Почините мост во время миссии «Спасение на высоте», чтобы добраться до Наблюдательного поста Блайтклифф.",
+      "ids": [
+        "1387258",
+        "1387259",
+        "1387260"
+      ]
+    },
+    {
+      "original": "Repair the bridge through the mission \"Elevated Rescue\" then throw explosives at the core to clear the erosion in the area south of Temporary Stockpile then jump on the container using the air vent device.",
+      "translated": "Почините мост в миссии «Спасение на высоте», затем бросьте взрывчатку в ядро, чтобы очистить эрозию в зоне к югу от Временного склада, и прыгните на контейнер с помощью воздушного вентиля.",
+      "ids": [
+        "1387256"
+      ]
+    },
+    {
+      "original": "Repair the bridge through the mission \"Elevated Rescue\" then throw explosives at the core to clear the erosion in the area south of Temporary Stockpile.",
+      "translated": "Почините мост в миссии «Спасение на высоте», затем бросьте взрывчатку в ядро, чтобы очистить эрозию в зоне к югу от Временного склада.",
+      "ids": [
+        "1387251",
+        "1387253"
+      ]
+    },
+    {
+      "original": "Ride the lotus and wait for it to reach the small island. The Aurylene will be located above it.",
+      "translated": "Прокатитесь на лотосе и дождитесь, пока он достигнет маленького острова. Аурилен будет над ним.",
+      "ids": [
+        "1382696"
+      ]
+    },
+    {
+      "original": "Right at the entrance to Originium Science Park, just south of the Landbreaker Camp. It is high up on some railings.",
+      "translated": "Прямо у входа в Научный парк оригиниума, к югу от Лагеря землепроходцев. Высоко на перилах.",
+      "ids": [
+        "1382447"
+      ]
+    },
+    {
+      "original": "Right in the middle of Temporary Stockpile reachable by jumping on a nearby green box.",
+      "translated": "Прямо в центре Временного склада, доступен прыжком на ближайший зелёный ящик.",
+      "ids": [
+        "1387249"
+      ]
+    },
+    {
+      "original": "Scan the area and use the lily pads to get to the Aurylene.",
+      "translated": "Просканируйте область и используйте кувшинки, чтобы добраться до аурилена.",
+      "ids": [
+        "1382699"
+      ]
+    },
+    {
+      "original": "Scan the invisible Aurylene near the southern part of Arsenal.",
+      "translated": "Просканируйте невидимый аурилен возле южной части Арсенала.",
+      "ids": [
+        "1374089"
+      ]
+    },
+    {
+      "original": "Slightly Northwest of Originium Power Plant, progress through Scaldings of Utjug and will be past some steam vents.",
+      "translated": "Немного к северо-западу от Электростанции оригиниума, продвигайтесь через «Ожоги Утьюга» и будет за паровыми вентиляциями.",
+      "ids": [
+        "1382574"
+      ]
+    },
+    {
+      "original": "Solve the frog puzzle to get the chest.",
+      "translated": "Решите головоломку с лягушками, чтобы получить сундук.",
+      "ids": [
+        "1382756",
+        "1382766"
+      ]
+    },
+    {
+      "original": "Solve the frog puzzle to get this chest.",
+      "translated": "Решите головоломку с лягушками, чтобы получить этот сундук.",
+      "ids": [
+        "1382762"
+      ]
+    },
+    {
+      "original": "Solve the frog puzzle to unlock this chest.",
+      "translated": "Решите головоломку с лягушками, чтобы открыть этот сундук.",
+      "ids": [
+        "1382761"
+      ]
+    },
+    {
+      "original": "Solve the pressure plate puzzle to get the chest.",
+      "translated": "Решите головоломку с нажимными плитами, чтобы получить сундук.",
+      "ids": [
+        "1382772"
+      ]
+    },
+    {
+      "original": "South of Bridge Approach, along the path southward.",
+      "translated": "К югу от Подхода к мосту, вдоль южной тропы.",
+      "ids": [
+        "1381461"
+      ]
+    },
+    {
+      "original": "South of Quarry entrance beyond an electric fence, use nearby floating crate to reach the top of the box.",
+      "translated": "К югу от входа в Карьер за электрическим забором, используйте ближайший плавающий ящик, чтобы добраться до вершины ящика.",
+      "ids": [
+        "1385052"
+      ]
+    },
+    {
+      "original": "South of Quarry Site. Make your way through the Fix the Super Crane quest use a Bounce Device to jump onto the southern ledge. Keep on platforming upward until you can reach the Aurylene.",
+      "translated": "К югу от Карьера. Продвигайтесь через квест «Почините супер-кран», используйте трамплин, чтобы прыгнуть на южный выступ. Продолжайте подниматься, пока не достигнете аурилена.",
+      "ids": [
+        "1380443"
+      ]
+    },
+    {
+      "original": "South of Stockpile Area. Just past the metal gate that opens after completing the crate puzzle during the quest Quarry Rescue.",
+      "translated": "К югу от Зоны склада. Сразу за металлическими воротами, которые открываются после решения головоломки с ящиками в квесте «Спасение на карьере».",
+      "ids": [
+        "1380441"
+      ]
+    },
+    {
+      "original": "South of Temporary Stockpile. Inside a shipping container sitting on the edge of a cliff, overlooking the Blightcliff Observation Post.",
+      "translated": "К югу от Временного склада. Внутри контейнера на краю утёса с видом на Наблюдательный пост Блайтклифф.",
+      "ids": [
+        "1382453"
+      ]
+    },
+    {
+      "original": "South of the Mining Area Clinic",
+      "translated": "К югу от Клиники горнодобывающего района.",
+      "ids": [
+        "1381663"
+      ]
+    },
+    {
+      "original": "South of the PAC.",
+      "translated": "К югу от PAC.",
+      "ids": [
+        "1374069"
+      ]
+    },
+    {
+      "original": "South of the Research Center, near a pointy cliff overlooking the Infra Station.",
+      "translated": "К югу от Исследовательского центра, рядом с острым утёсом с видом на Инфра-станцию.",
+      "ids": [
+        "1381488"
+      ]
+    },
+    {
+      "original": "South of the Research Center, outside the walls of the Science Park.",
+      "translated": "К югу от Исследовательского центра, за стенами Научного парка.",
+      "ids": [
+        "1386665"
+      ]
+    },
+    {
+      "original": "South of the Southern Meadows TP Point.",
+      "translated": "К югу от точки телепортации Южных лугов.",
+      "ids": [
+        "1380438"
+      ]
+    },
+    {
+      "original": "South of the Southern Meadows Waypoint, beside the logistics robot found inside a cave behind a breakable wall. Can be found during the quest \"Morale Booster\".",
+      "translated": "К югу от точки Южных лугов, рядом с логистическим роботом в пещере за разрушаемой стеной. Можно найти во время квеста «Поднятие боевого духа».",
+      "ids": [
+        "1381536"
+      ]
+    },
+    {
+      "original": "South of the Tianshi Bureau Academy. It moves counterclockwise when you approach it, so approach it from the opposite direction to take it.",
+      "translated": "К югу от Академии Бюро Тяньши. Двигается против часовой стрелки при приближении, поэтому подойдите с противоположной стороны, чтобы взять.",
+      "ids": [
+        "1385258"
+      ]
+    },
+    {
+      "original": "Southeast of Route 5, at the southeast side of The Depression.",
+      "translated": "К юго-востоку от Маршрута 5, на юго-восточной стороне Впадины.",
+      "ids": [
+        "1381486"
+      ]
+    },
+    {
+      "original": "Southeast of Temporary Stockpile, next to the bridge going down to Blightcliff Observation Post. It will run away if you get too close, so chase it to obtain it.",
+      "translated": "К юго-востоку от Временного склада, рядом с мостом к Наблюдательному посту Блайтклифф. Убежит при приближении, так что преследуйте его.",
+      "ids": [
+        "1382451"
+      ]
+    },
+    {
+      "original": "Southeast of Temporary Stockpile, on top of shipping containers. Destroy blight core with a bomb to reveal Aurylene.",
+      "translated": "К юго-востоку от Временного склада, на контейнерах. Уничтожьте ядро порчи бомбой, чтобы раскрыть аурилен.",
+      "ids": [
+        "1382449"
+      ]
+    },
+    {
+      "original": "Southeast of Temporary Stockpile, on top of shipping containers. Destroy blight core with a bomb to reveal Aurylene. You can ge tup here by playing through a side quest in this area.",
+      "translated": "К юго-востоку от Временного склада, на контейнерах. Уничтожьте ядро порчи бомбой, чтобы раскрыть аурилен. Поднимитесь сюда, выполняя побочный квест в этой зоне.",
+      "ids": [
+        "1382450"
+      ]
+    },
+    {
+      "original": "Southeast of the Ecological Research Station, close to the water.",
+      "translated": "К юго-востоку от Экологической исследовательской станции, близко к воде.",
+      "ids": [
+        "1386840"
+      ]
+    },
+    {
+      "original": "Southeast of the Old Mines Waypoint.",
+      "translated": "К юго-востоку от точки Старых шахт.",
+      "ids": [
+        "1381670"
+      ]
+    },
+    {
+      "original": "Southeast of the Originium Powerplant, and just north of the mining site, on top of a stone platform.",
+      "translated": "К юго-востоку от Электростанции оригиниума, к северу от места добычи, на каменной платформе.",
+      "ids": [
+        "1382577"
+      ]
+    },
+    {
+      "original": "Southeast part of Valley Transfer. Inside a room at the top of some stairs found close to where you save Shawna during Through the Haze.",
+      "translated": "В юго-восточной части Долинного перехода. Внутри комнаты наверху лестницы рядом с местом спасения Шоны во время «Сквозь туман».",
+      "ids": [
+        "1374080"
+      ]
+    },
+    {
+      "original": "Southern part of Abandoned Trail. During Secure Sanctuary, just past the first bridge when looking for an alternate route as you progress the quest.",
+      "translated": "В южной части Заброшенной тропы. Во время «Безопасное убежище», сразу за первым мостом при поиске альтернативного маршрута.",
+      "ids": [
+        "1374076"
+      ]
+    },
+    {
+      "original": "Southern part of Valley Transfer. Beside the third small Denstack in the quest Through the Haze.",
+      "translated": "В южной части Долинного перехода. Рядом с третьим малым Денстеком в квесте «Сквозь туман».",
+      "ids": [
+        "1374081"
+      ]
+    },
+    {
+      "original": "Southwest of Bonekrusher Warcamp, nearby the main road heading down to Aether Test Site.",
+      "translated": "К юго-западу от Военного лагеря Костедробителей, рядом с главной дорогой к Испытательному полигону Эфира.",
+      "ids": [
+        "1382576"
+      ]
+    },
+    {
+      "original": "Southwest part of the Originium Power Plant, close to Plateau Trunkway.",
+      "translated": "В юго-западной части Электростанции оригиниума, рядом с Магистралью плато.",
+      "ids": [
+        "1382673"
+      ]
+    },
+    {
+      "original": "Surrounded by a herd of animals. Appears when scanned.",
+      "translated": "Окружён стадом животных. Появляется при сканировании.",
+      "ids": [
+        "1385268"
+      ]
+    },
+    {
+      "original": "Suspended in the air, on the southwest side of Citizen Square.",
+      "translated": "Висит в воздухе на юго-западной стороне Гражданской площади.",
+      "ids": [
+        "1385241"
+      ]
+    },
+    {
+      "original": "Take the forklift and then break the wall with a bomb at Quarry Site to find the chest.",
+      "translated": "Возьмите погрузчик, затем разбейте стену бомбой на Карьере, чтобы найти сундук.",
+      "ids": [
+        "1385069"
+      ]
+    },
+    {
+      "original": "The locked chest can be unlocked after interacting with the three Sealing Aurylenes in the area.",
+      "translated": "Запертый сундук можно открыть после взаимодействия с тремя запечатывающими аурилен в этой зоне.",
+      "ids": [
+        "1387046"
+      ]
+    },
+    {
+      "original": "There is an Aurylene that flies around this area in a set path. Simply find a spot where you can easily grab it as it flies by, ideally by the rocky hill nearby.",
+      "translated": "Здесь летает аурилен по заданному пути. Просто найдите место, где его легко поймать на лету, желательно у каменистого холма поблизости.",
+      "ids": [
+        "1380414"
+      ]
+    },
+    {
+      "original": "There is an Aurylene that moves around this patch of bushes on the east side of the Research Center. Wait for it at a convenient spot to obtain it.",
+      "translated": "Здесь аурилен перемещается по кустам на восточной стороне Исследовательского центра. Подождите его в удобном месте, чтобы получить.",
+      "ids": [
+        "1381377"
+      ]
+    },
+    {
+      "original": "There is an Aurylene that moves, floating around the water, in the cave that leads to the exit to Origin Lodespring. Wait for the Aurylene to come on land, where you can grab it.",
+      "translated": "Здесь аурилен плавает по воде в пещере, ведущей к выходу в Исток жилы. Подождите, пока аурилен выйдет на сушу, где его можно взять.",
+      "ids": [
+        "1381515"
+      ]
+    },
+    {
+      "original": "There is an invisible Aurylene at the northwest spot of the Research Center. Scan your surroundings to reveal it.",
+      "translated": "В северо-западной точке Исследовательского центра есть невидимый аурилен. Просканируйте окрестности, чтобы обнаружить его.",
+      "ids": [
+        "1381373"
+      ]
+    },
+    {
+      "original": "There is an invisible Aurylene at this spot, on the grassy area outside the Research Center. Scan your surroundings to reveal it.",
+      "translated": "В этом месте на травянистой зоне за Исследовательским центром есть невидимый аурилен. Просканируйте окрестности, чтобы обнаружить его.",
+      "ids": [
+        "1381514"
+      ]
+    },
+    {
+      "original": "This Aurylene is flying up and down the ascender at the northeastern cliffside of Mountain Top.",
+      "translated": "Этот аурилен летает вверх-вниз по подъёмнику на северо-восточном утёсе Вершины горы.",
+      "ids": [
+        "1381139"
+      ]
+    },
+    {
+      "original": "This is a moving Aurylene that leads you southwest, in front of a pickup truck and a locked chest.",
+      "translated": "Это движущийся аурилен, который ведёт вас на юго-запад, перед пикапом и запертым сундуком.",
+      "ids": [
+        "1380420"
+      ]
+    },
+    {
+      "original": "This moving Aurylene can be chased southward into the valley.",
+      "translated": "Этого движущегося аурилен можно преследовать на юг в долину.",
+      "ids": [
+        "1380424"
+      ]
+    },
+    {
+      "original": "Through a narrow path behind the building southeast of Mining Camp.",
+      "translated": "Через узкий проход за зданием к юго-востоку от Шахтёрского лагеря.",
+      "ids": [
+        "1387244"
+      ]
+    },
+    {
+      "original": "Through a wall on the cliffside at Refuse Stockpile that can be opened by breaking it with a bomb.",
+      "translated": "Через стену на утёсе на Складе отходов, которую можно открыть, взорвав бомбой.",
+      "ids": [
+        "1385063"
+      ]
+    },
+    {
+      "original": "To the east side of Plateau Trunkway, very close to the TP Point.",
+      "translated": "На восточной стороне Магистрали плато, очень близко к точке телепортации.",
+      "ids": [
+        "1386834"
+      ]
+    },
+    {
+      "original": "To the left of the Haze wall you encounter as you progress \"Through the Haze\"",
+      "translated": "Слева от стены тумана, которую встречаете, продвигаясь в «Сквозь туман».",
+      "ids": [
+        "1381310"
+      ]
+    },
+    {
+      "original": "To the west of the Power Plant Comm Station.",
+      "translated": "К западу от Станции связи электростанции.",
+      "ids": [
+        "1386835"
+      ]
+    },
+    {
+      "original": "Under a shipping container at Temporary Stockpile. The device directly behind the container lifts it up.",
+      "translated": "Под контейнером на Временном складе. Устройство прямо за контейнером поднимает его.",
+      "ids": [
+        "1382442"
+      ]
+    },
+    {
+      "original": "Under some platforms up the stairs north of Mining Camp.",
+      "translated": "Под платформами наверху лестницы к северу от Шахтёрского лагеря.",
+      "ids": [
+        "1387240"
+      ]
+    },
+    {
+      "original": "Under the platform of the upper level, southwest of Mines Cable Car Station.",
+      "translated": "Под платформой верхнего уровня к юго-западу от Станции канатной дороги шахт.",
+      "ids": [
+        "1382431"
+      ]
+    },
+    {
+      "original": "Underground at Plateau Trunkway, just southwest of the TP Point. Can be reached past the boulder, which you can destroy with a bomb from the Bonekrusher Warcamp.",
+      "translated": "Под землёй на Магистрали плато, к юго-западу от точки телепортации. Достижимо за валуном, который можно взорвать бомбой из Военного лагеря Костедробителей.",
+      "ids": [
+        "1386825"
+      ]
+    },
+    {
+      "original": "Underground, under Mountain Top.",
+      "translated": "Под землёй, под Вершиной горы.",
+      "ids": [
+        "1374066"
+      ]
+    },
+    {
+      "original": "Underneath some suspended crates, south of Meteorological Station.",
+      "translated": "Под подвешенными ящиками к югу от Метеостанции.",
+      "ids": [
+        "1381675"
+      ]
+    },
+    {
+      "original": "Unlocked by defeating enemies in the area.",
+      "translated": "Открывается после победы над врагами в этой зоне.",
+      "ids": [
+        "1382746"
+      ]
+    },
+    {
+      "original": "Unlocked by defeating the special enemy.",
+      "translated": "Открывается после победы над особым врагом.",
+      "ids": [
+        "1382774"
+      ]
+    },
+    {
+      "original": "Up on the 2nd floor of the Mining Area Clinic, on top of a vent.",
+      "translated": "На 2 этаже Клиники горнодобывающего района, на вентиляции.",
+      "ids": [
+        "1381665"
+      ]
+    },
+    {
+      "original": "Up on the cliff at Rockhill Passage. This area is unlocked after story progress.",
+      "translated": "На утёсе в Проходе Рокхилл. Эта зона открывается после продвижения по сюжету.",
+      "ids": [
+        "1381463"
+      ]
+    },
+    {
+      "original": "Up the stairs of the Meteorological Station.",
+      "translated": "Наверху лестницы Метеостанции.",
+      "ids": [
+        "1382440"
+      ]
+    },
+    {
+      "original": "Use an explosive to reach the metal platform with the chest at the end.",
+      "translated": "Используйте взрывчатку, чтобы добраться до металлической платформы с сундуком в конце.",
+      "ids": [
+        "1387035"
+      ]
+    },
+    {
+      "original": "Use bombs to get inside the building at Kohl Plant.",
+      "translated": "Используйте бомбы, чтобы попасть внутрь здания на заводе Коль.",
+      "ids": [
+        "1386689"
+      ]
+    },
+    {
+      "original": "Use explosive on the wall to reach the chest.",
+      "translated": "Используйте взрывчатку на стене, чтобы добраться до сундука.",
+      "ids": [
+        "1387043"
+      ]
+    },
+    {
+      "original": "Use the air launcher located near the previous basic chest to reach this upper level.",
+      "translated": "Используйте воздушную пусковую установку рядом с предыдущим базовым сундуком, чтобы добраться до этого верхнего уровня.",
+      "ids": [
+        "1387044"
+      ]
+    },
+    {
+      "original": "Use the Bounce Device to jump into the air and grab the floating Aurylene.",
+      "translated": "Используйте трамплин, чтобы прыгнуть в воздух и схватить летающий аурилен.",
+      "ids": [
+        "1380423"
+      ]
+    },
+    {
+      "original": "Use the cliffside to reach the spot with the Aurylene then jump down to the area with the chest at the Quarry Site.",
+      "translated": "Используйте утёс, чтобы добраться до места с аурилен, затем спрыгните в зону с сундуком на Карьере.",
+      "ids": [
+        "1385068"
+      ]
+    },
+    {
+      "original": "Use the crane southwest of the Quarry Entrance TP Point to reach the chest.",
+      "translated": "Используйте кран к юго-западу от точки телепортации Входа в карьер, чтобы добраться до сундука.",
+      "ids": [
+        "1385057"
+      ]
+    },
+    {
+      "original": "Use the floating crates around at Listening Post to reach the chest on the higher platforms.",
+      "translated": "Используйте плавающие ящики на Посту прослушивания, чтобы добраться до сундука на верхних платформах.",
+      "ids": [
+        "1385065"
+      ]
+    },
+    {
+      "original": "Use the jump pad to get to the chest above the roof.",
+      "translated": "Используйте прыжковую площадку, чтобы добраться до сундука над крышей.",
+      "ids": [
+        "1382744"
+      ]
+    },
+    {
+      "original": "Use the jump pad where the moving Aurylene is to get to the chest.",
+      "translated": "Используйте прыжковую площадку там, где движущийся аурилен, чтобы добраться до сундука.",
+      "ids": [
+        "1382743"
+      ]
+    },
+    {
+      "original": "Use the switch at the rear of the building to power off the fence. Operate the forklift and jump to the box to reach the chest.",
+      "translated": "Используйте переключатель сзади здания, чтобы отключить забор. Управляйте погрузчиком и прыгните на ящик, чтобы добраться до сундука.",
+      "ids": [
+        "1387047"
+      ]
+    },
+    {
+      "original": "West of Abandoned Trail, power the jump pad nearby to get to it.",
+      "translated": "К западу от Заброшенной тропы, активируйте ближайшую прыжковую площадку, чтобы добраться.",
+      "ids": [
+        "1374084"
+      ]
+    },
+    {
+      "original": "West of Landbreaker Camp, area is locked behind breakable walls. Throw explosives to break them.",
+      "translated": "К западу от Лагеря землепроходцев, зона заперта за разрушаемыми стенами. Бросьте взрывчатку, чтобы разбить их.",
+      "ids": [
+        "1381673"
+      ]
+    },
+    {
+      "original": "West of the Core AIC Area, near Bridge Approach.",
+      "translated": "К западу от Центральной зоны AIC, рядом с Подходом к мосту.",
+      "ids": [
+        "1381460"
+      ]
+    },
+    {
+      "original": "West of the Transport Nexus, behind the fence near the Control Center.",
+      "translated": "К западу от Транспортного узла, за забором рядом с Центром управления.",
+      "ids": [
+        "1381489"
+      ]
+    },
+    {
+      "original": "West of the Worker Dorms TP Waypoint.",
+      "translated": "К западу от точки телепортации Рабочих общежитий.",
+      "ids": [
+        "1380433"
+      ]
+    },
+    {
+      "original": "Western side of Arsenal. On top of some stairs and guarded by some enemies. Just south of the Data logger and the Protocol Space: T-Creds.",
+      "translated": "На западной стороне Арсенала. Наверху лестницы и охраняется врагами. К югу от регистратора данных и Протокольного пространства: T-Creds.",
+      "ids": [
+        "1374082"
+      ]
+    },
+    {
+      "original": "Within the high voltage fence puzzle. Use the small boxes to climb over obstacles and then move the big box to the pressure plate to open the fence.",
+      "translated": "В головоломке с высоковольтным забором. Используйте маленькие ящики, чтобы перелезть через препятствия, затем переместите большой ящик на нажимную плиту, чтобы открыть забор.",
+      "ids": [
+        "1381305"
+      ]
+    },
+    {
+      "original": "Within the Stockpile Area, use the double and single moveable crates to climb up to this chest.",
+      "translated": "В Зоне склада используйте двойные и одинарные передвижные ящики, чтобы забраться к этому сундуку.",
+      "ids": [
+        "1381329"
+      ]
+    }
+  ]
+}
