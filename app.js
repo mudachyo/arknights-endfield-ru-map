@@ -145,7 +145,8 @@ const TRANSLATIONS = {
         'Origin Lodespring': 'Первое месторождение',
         'Power Plateau': 'Плато Энергии',
         'Jingyu Valley': 'Долина Цзинъю',
-        'Wuling City': 'Город Улин'
+        'Wuling City': 'Город Улин',
+        'Qingbo Stockade': 'Лагерь Циньбо'
     }
 };
 
