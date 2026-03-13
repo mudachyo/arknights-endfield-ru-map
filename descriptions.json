@@ -4858,6 +4858,412 @@
       "ids": [
         "1381329"
       ]
+    },
+    {
+      "original": "Northeast of Bladewoods, just out in the open.",
+      "translated": "В северо-восточной части Бладевудов, прямо на открытом пространстве.",
+      "ids": [
+        "1412872"
+      ]
+    },
+    {
+      "original": "ther Northwest of Bladewoods, top right edge of the island.",
+      "translated": "В северо-западной части Бладевудов, правый верхний край острова.",
+      "ids": [
+        "1412873"
+      ]
+    },
+    {
+      "original": "Far Southeast of Bladewoods, south most part of the map.",
+      "translated": "В юго-восточной части Бладевудов, самая южная часть карты.",
+      "ids": [
+        "1412874"
+      ]
+    },
+    {
+      "original": "South of Ancestral Spring, from the teleporter jump down to get to it.",
+      "translated": "К югу от Истока предков, прыгните с телепорта, чтобы добраться до него.",
+      "ids": [
+        "1412875"
+      ]
+    },
+    {
+      "original": "Slightly Southwest of Ancestral Spring, simply make your way to it from the path west of the spring.",
+      "translated": "К юго-западу от Истока предков, просто дойдите до него по пути к западу от источника.",
+      "ids": [
+        "1412876"
+      ]
+    },
+    {
+      "original": "Highest point of the Water Feel south of Main fort.",
+      "translated": "Самая высокая точка Водного чувства к югу от Главной крепости.",
+      "ids": [
+        "1412877"
+      ]
+    },
+    {
+      "original": "Northwest of Bladewoods, simply get to the location as it will be out in the open among some cages.",
+      "translated": "К северо-западу от Бладевудов, просто доберитесь до места, так как он будет на открытом пространстве среди клеток.",
+      "ids": [
+        "1412878"
+      ]
+    },
+    {
+      "original": "Southeast of Bladewoods",
+      "translated": "К юго-востоку от Бладевудов.",
+      "ids": [
+        "1412879"
+      ]
+    },
+    {
+      "original": "Inside one of the cages in the Main Fort. Use the scanner to make it visible, then obtain it.",
+      "translated": "Внутри одной из клеток в Главной крепости. Используйте сканер, чтобы сделать её видимой, затем получите её.",
+      "ids": [
+        "1412880"
+      ]
+    },
+    {
+      "original": "Slightly Northwest of Bladewoods, surrounded by active blight and invisible. Use the scanner and spray module to obtain.",
+      "translated": "К северо-западу от Бладевудов, окружённый активной порчей и невидимый. Используйте сканер и спрей-модуль, чтобы получить.",
+      "ids": [
+        "1412881"
+      ]
+    },
+    {
+      "original": "East of Causeway Trail, use the large rotating platform to get to it.",
+      "translated": "К востоку от Тропы дамбы, используйте большую вращающуюся платформу, чтобы добраться до него.",
+      "ids": [
+        "1412958"
+      ]
+    },
+    {
+      "original": "Slightly Northwest of Causeway Trail, Guarded by an enemy.",
+      "translated": "К северо-западу от Тропы дамбы, охраняемый врагом.",
+      "ids": [
+        "1412959"
+      ]
+    },
+    {
+      "original": "On top of the small metal tower, Southeast of Skyhold Ridge.",
+      "translated": "На вершине небольшой металлической башни, к юго-востоку от Гребня Небесного замка.",
+      "ids": [
+        "1412960"
+      ]
+    },
+    {
+      "original": "North of Skyhold Ridge Guarded by an enemy.",
+      "translated": "К северу от Гребня Небесного замка, охраняемый врагом.",
+      "ids": [
+        "1412961"
+      ]
+    },
+    {
+      "original": "East of Causeway Trail, use the large rotating platform to get to it.",
+      "translated": "К востоку от Тропы дамбы, используйте большую вращающуюся платформу, чтобы добраться до него.",
+      "ids": [
+        "1414672"
+      ]
+    },
+    {
+      "original": "Guarded by an enemy slightly Northwest of Bladewoods.",
+      "translated": "Охраняемый врагом к северо-западу от Бладевудов.",
+      "ids": [
+        "1414673"
+      ]
+    },
+    {
+      "original": "Locked Chest, found west of the Main Fort.",
+      "translated": "Запертый сундук, найденный к западу от Главной крепости.",
+      "ids": [
+        "1414674"
+      ]
+    },
+    {
+      "original": "In the underground area southwest of Ancestral Spring.",
+      "translated": "В подземной зоне к юго-западу от Истока предков.",
+      "ids": [
+        "1414675"
+      ]
+    },
+    {
+      "original": "Lower Fort Waterwheel area, just south of the Main Fort. Can be encountered as you make your way up the water wheels using elevators.",
+      "translated": "В области нижней крепости с водяным колесом, прямо к югу от Главной крепости. Можно встретить, когда вы поднимаетесь по водяным колесам, используя лифты.",
+      "ids": [
+        "1414676"
+      ]
+    },
+    {
+      "original": "Follow the butterflies found south of Bladewoods",
+      "translated": "Следуйте за бабочками, найденными к югу от Бладевудов.",
+      "ids": [
+        "1414677"
+      ]
+    },
+    {
+      "original": "Guarded by 2 Elite enemies slightly southwest of Bladewoods.",
+      "translated": "Охраняемый 2 элитными врагами, немного к юго-западу от Бладевудов.",
+      "ids": [
+        "1414678"
+      ]
+    },
+    {
+      "original": "Crisis Chest found northwest of the Bladewoods and close to a Protocol Datalogger. Defeat the enemies in the crisis to get the chest.",
+      "translated": "Кризисный сундук, найденный к северо-западу от Бладевудов и рядом с Протокольным регистратором данных. Победите врагов в кризисе, чтобы получить сундук.",
+      "ids": [
+        "1414679"
+      ]
+    },
+    {
+      "original": "Butterfly Chest found northwest of Bladewoods, follow the butterflies to get the chest.",
+      "translated": "Сундук с бабочками, найденный к северо-западу от Бладевудов, следуйте за бабочками, чтобы получить сундук.",
+      "ids": [
+        "1414680"
+      ]
+    },
+    {
+      "original": "Near the bridge by the border between Qingbo Stockade and Jingyu Valley.",
+      "translated": "Рядом с мостом на границе между Крепостью Цинбо и Долиной Цзинью.",
+      "ids": [
+        "1414681"
+       ]
+    },
+    {
+      "original": "North of Bladewoods, on top of the metal structure.",
+      "translated": "К северу от Бладевудов, на вершине металлической структуры.",
+      "ids": [
+        "1414682"
+      ]
+    },
+    {
+      "original": "Lowest area of the structure Northwest of Bladewoods.",
+      "translated": "Наименьшая область структуры к северо-западу от Бладевудов.",
+      "ids": [
+        "1414683"
+      ]
+    },
+    {
+      "original": "Lower area of the structure Northwest of Bladewoods, before you reach chest 19.",
+      "translated": "Нижняя область структуры к северо-западу от Бладевудов, перед тем, как вы доберётесь до сундука 19.",
+      "ids": [
+        "1414684"
+      ]
+    },
+    {
+      "original": "Southwest of Bladewoods, just on top of the metal structure. Use the rope line to climb to it.",
+      "translated": "К юго-западу от Бладевудов, прямо на вершине металлической структуры. Используйте канат, чтобы подняться к нему.",
+      "ids": [
+        "1414685"
+      ]
+    },
+    {
+      "original": "Butterfly chest Southeast of Bladewoods, follow the butterflies to get the chest.",
+      "translated": "Сундук с бабочками к юго-востоку от Бладевудов, следуйте за бабочками, чтобы получить сундук.",
+      "ids": [
+        "1414686"
+      ]
+    },
+    {
+      "original": "Crisis Chest, defeat the enemies in the crisis to get the chest. Found slightly northeast of Bladewoods.",
+      "translated": "Кризисный сундук, победите врагов в кризисе, чтобы получить сундук. Найден немного к северо-востоку от Бладевудов.",
+      "ids": [
+        "1414687"
+      ]
+    },
+    {
+      "original": "Sealed Chest guarded by some enemies. On top of the metal platform roofing southeast of Main Fort. Use the water wheel elevator to navigate towards it.",
+      "translated": "Запертый сундук, охраняемый некоторыми врагами. На вершине металлической платформы, покрывающей юго-восток от Главной крепости. Используйте лифт с водяным колесом, чтобы добраться до него.",
+      "ids": [
+        "1414688"
+       ]
+    },
+    {
+      "original": "Slightly southwest part inside the Main fort, jump through a small hall to get to it.",
+      "translated": "Немного к юго-западу внутри Главной крепости, прыгните через небольшой зал, чтобы добраться до него.",
+      "ids": [
+        "1414689"
+       ]
+    },
+    {
+      "original": "From chest 25, use the moving water wheels to make your way to this location. Found South of the Main Fort.",
+      "translated": "Из сундука 25 используйте движущиеся водяные колеса, чтобы добраться до этого места. Найдено к югу от Главной крепости.",
+      "ids": [
+        "1414690"
+       ]
+    },
+    {
+      "original": "Far east of Bladewoods, between Bladewoods and the eastmost TP waypoint.",
+      "translated": "К востоку от Бладевудов, между Бладевудами и самой восточной точкой телепортации.",
+      "ids": [
+        "1414691"
+       ]
+    },
+    {
+      "original": "Southeast of Bladewoods, near  the border of the map and close to a Rakerbeast enemy group.",
+      "translated": "К юго-востоку от Бладевудов, рядом с границей карты и рядом с группой врагов Rakerbeast.",
+      "ids": [
+        "1414692"
+       ]
+    },
+    {
+      "original": "Southeast of Bladewoods there is a pool of Blighted water. Set up a water pump and a water treatment unit to drain and clean the pool. The chest will be at the bottom of the emptied pool.",
+      "translated": "К юго-востоку от Бладевудов есть бассейн с заражённой водой. Установите водяной насос и установку для очистки воды, чтобы осушить и очистить бассейн. Сундук будет на дне опустевшего бассейна.",
+      "ids": [
+        "1414693"
+       ]
+    },
+    {
+      "original": "Frog puzzle chest southeast of Bladewoods; complete the puzzle to reveal the chest.",
+      "translated": "Сундук с головоломкой лягушки к юго-востоку от Бладевудов; решите головоломку, чтобы открыть сундук.",
+      "ids": [
+        "1414694"
+       ]
+    },
+    {
+      "original": "Northwest of Bladewoods, underneath the metal platform.",
+      "translated": "К северо-западу от Бладевудов, под металлической платформой.",
+      "ids": [
+        "1414695"
+       ]
+    },
+    {
+      "original": "Slightly west of Causeway Trail, near the rope you use to climb to the rotating platform coming from the TP Waypoint. Jump up the barrels to get to the chest.",
+      "translated": "Немного к западу от Тропы дамбы, рядом с канатом, который вы используете, чтобы подняться на вращающуюся платформу от точки телепортации. Прыгайте по бочкам, чтобы добраться до сундука.",
+      "ids": [
+        "1414696"
+       ]
+    },
+    {
+      "original": "Just south of Skyhold Ridge, guarded by a few enemies.",
+      "translated": "Прямо к югу от Гребня Небесного замка, охраняемый несколькими врагами.",
+      "ids": [
+        "1414697"
+       ]
+    },
+    {
+      "original": "Southwest of Skyhold ridge, use the moving water wheel as a platform to get to the chest.",
+      "translated": "К юго-западу от Гребня Небесного замка, используйте движущееся водяное колесо в качестве платформы, чтобы добраться до сундука.",
+      "ids": [
+        "1414698"
+       ]
+    },
+    {
+      "original": "In the underground area of the Main Fort.",
+      "translated": "В подземной области Главной крепости.",
+      "ids": [
+        "1414699"
+       ]
+    },
+    {
+      "original": "Inside the Main Fort, easily visible.",
+      "translated": "Внутри Главной крепости, легко заметен.",
+      "ids": [
+        "1414700"
+       ]
+    },
+    {
+      "original": "Circling on top of the metal scaffolding south of Skyhold Ridge.",
+      "translated": "Кружится на вершине металлических лесов к югу от Гребня Небесного замка.",
+      "ids": [
+        "1414701"
+       ]
+    },
+    {
+      "original": "It can be found circling the roof of this metal structure, northwest of Bladewoods.",
+      "translated": "Можно найти, кружась по крыше этой металлической конструкции, северо-западнее Бладевудов.",
+      "ids": [
+        "1414702"
+       ]
+    },
+    {
+      "original": "Found in the lower ground area southeast of Ancestral Spring. Use the spray drone on the water wheel to bring up the platform and time your jumps on the lily pads to obtain it.",
+      "translated": "Найдён в нижней части земли к юго-востоку от Истока предков. Используйте спрей-дрон на водяное колесо, чтобы поднять платформу, и вовремя прыгайте по кувшинкам, чтобы получить его.",
+      "ids": [
+        "1414703"
+       ]
+    },
+    {
+      "original": "Inside the center area of the Main Fort, behind some boxes.",
+      "translated": "Внутри Главной крепости, за некоторыми ящиками.",
+      "ids": [
+        "1414704"
+       ]
+    },
+    {
+      "original": "Found northwest of Bladewoods, it will run away, so you have to chase it.",
+      "translated": "Найдён к северо-западу от Бладевудов, он будет убегать, поэтому вам нужно его догнать.",
+      "ids": [
+        "1414705"
+       ]
+    },
+    {
+      "original": "North of Bladewoods, on top of the metal bridge, it will move away, so you have to chase it.",
+      "translated": "Найдён к северу от Бладевудов, на вершине металлического моста, он будет двигаться прочь, поэтому вам нужно его преследовать.",
+      "ids": [
+        "1414706"
+       ]
+    },
+    {
+      "original": "Southeast of Bladewoods, accessible through the rope line. Be careful of active blight.",
+      "translated": "К юго-востоку от Бладевудов, доступно через канат. Будьте осторожны с активной порчей.",
+      "ids": [
+        "1414707"
+       ]
+    },
+    {
+      "original": "Circling this metal structure southwest of Bladewoods, simply wait for it to come to you.",
+      "translated": "Кружится по этой металлической конструкции к юго-западу от Бладевудов, просто подождите, пока он не подойдёт к вам.",
+      "ids": [
+        "1414708"
+       ]
+    },
+    {
+      "original": "On top of some metal platforms inside the main fort, do a little parkour to get there, and make sure to activate the rope nearby once you arrive at the location.",
+      "translated": "На вершине некоторых металлических платформ внутри Главной крепости, сделайте немного паркура, чтобы добраться туда, и убедитесь, что активируете канат рядом, как только вы прибудете на место.",
+      "ids": [
+        "1414709"
+       ]
+    },
+    {
+      "original": "Slightly Southeast of the Main Fort. Use the water wheel elevator to get to the area. This one will move around, so you have to chase it.",
+      "translated": "Немного к юго-востоку от Главной крепости. Используйте лифт с водяным колесом, чтобы добраться до этой зоны. Этот будет перемещаться, поэтому вам нужно его преследовать.",
+      "ids": [
+        "1414710"
+       ]
+    },
+    {
+      "original": "Use the big water wheel and some parkour to get to this location southwest of the Main fort. You can make your way starting from chest 25, and this aurylene will be the direct opposite location of chest 26..",
+      "translated": "Используйте большое водяное колесо и немного паркура, чтобы добраться до этого места к юго-западу от Главной крепости. Вы можете начать с сундука 25, и этот аурилен будет прямо напротив сундука 26.",
+      "ids": [
+        "1414711"
+      ]
+    },
+    {
+      "original": "Southeast of Main Fort, use the water wheels to get to it.",
+      "translated": "К юго-востоку от Главной крепости, используйте водяные колеса, чтобы добраться до него.",
+      "ids": [
+        "1414712"
+      ]
+    },
+    {
+      "original": "Contains templates for Type 50 Yinglung Heavy Armor and Frontier Fiber Gloves. Found nearby a Delta Bot in the Main Fort.",
+      "translated": "Содержит шаблоны для тяжелой брони Type 50 Yinglung и перчаток из фронтовой纤维. Найдено рядом с Delta Bot в Главной крепости.",
+      "ids": [
+        "1414713"
+       ]
+    },
+    {
+      "original": "Contains templates for Bonekrusha and Frontiers Protection Suit. Found on top of a watchtower, just west from a Cuprium Ore Mining Spot.",
+      "translated": "Содержит шаблоны для костяной дробилки и защитного костюма фронтовика. Найдено на вершине часовой башни, прямо западнее от места добычи руды Cuprium.",
+      "ids": [
+        "1414714"
+       ]
+    },
+    {
+      "original": "Contains templates for MI Security T1 Set and Frontiers Accessories. Found south of Bladewoods, just nearby the area corrupted by Blight Obstruction.",
+      "translated": "Содержит шаблоны для набора MI Security T1 и аксессуаров фронтовика. Найдено к югу от Бладевудов, прямо рядом с зоной, заражённой порчей.",
+      "ids": [
+        "1414715"
+       ]
     }
   ]
 }
