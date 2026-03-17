@@ -1,6 +1,6 @@
 {
 	"toolKey": "endfield_key",
-	"headingText": "Location of acquisition",
+	"headingText": "How to Get",
 	"tileLayerMode": false,
 	"isCheckMode": true,
 	"maxZoom": 5,
@@ -23070,8 +23070,8 @@
 				"description": "Lower Fort Waterwheel area, just south of the Main Fort. Can be encountered as you make your way up the water wheels using elevators.",
 				"url": "",
 				"area": "Wuling:Qingbo Stockade",
-				"pinIcon": "https://img.game8.co/4393299/e6048f1a45da219bacfd413c7d38d3d2.png/show",
-				"coordinate": "109.84,153.23",
+				"pinIcon": "https://img.game8.co/4393301/281a63c802f8631200334b8d0bb2080e.png/show",
+				"coordinate": "109.84,149.47",
 				"classification": "Chest",
 				"popupImage": "https://img.game8.co/4440281/877a1775b9b009bf4e4cb1d98d8f3cc1.png/show",
 				"movieUrl": null,
