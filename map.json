@@ -52,6 +52,10 @@
 		{
 			"title": "Wuling:Qingbo Stockade",
 			"url": "https://assets.game8.jp/uploads/iMicOUYyCXurtabHgbw2G7aGRoKglB.jpg"
+		},
+		{
+			"title": "Wuling:Marker Stone",
+			"url": "https://assets.game8.jp/uploads/NsRc8QPkxC2poZLrAVIa0UEGdsOVP2.jpg"
 		}
 	],
 	"coordinateArraySchema": {
@@ -25270,6 +25274,24 @@
 				"coordinate": "139.49,90.95",
 				"classification": "Chest",
 				"popupImage": "https://img.game8.co/4456381/78d584f6693b27aa6e4f018c75ec435a.png/show",
+				"movieUrl": null,
+				"thumbnail": null,
+				"youtubeId": "",
+				"groupPinIcon": "",
+				"region": "",
+				"timerMinutes": "",
+				"timerCron": ""
+			},
+			{
+				"id": "1440431",
+				"title": "Chest",
+				"description": "In the Marker Stone Interior Middle Floor, Secondary Section. Beside the Xiranite Pylon used to power the dichromolite. Accessible during the quest \"Phantom Wisps.\"",
+				"url": "",
+				"area": "Wuling:Marker Stone",
+				"pinIcon": "https://img.game8.co/4393301/281a63c802f8631200334b8d0bb2080e.png/show",
+				"coordinate": "84.99,231.87",
+				"classification": "Chest",
+				"popupImage": "https://img.game8.co/4471598/184a689a01de0e8ac7d1b393b9f2e9db.png/show",
 				"movieUrl": null,
 				"thumbnail": null,
 				"youtubeId": "",
