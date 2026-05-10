@@ -6,6 +6,8 @@
 import re
 import json
 import hashlib
+import time
+from html import unescape
 from pathlib import Path
 
 try:
@@ -24,6 +26,43 @@ HEADERS = {
     "Cache-Control": "no-cache",
     "Pragma": "no-cache",
 }
+
+
+def extract_map_props(html):
+    """Извлечь JSON-объект data-react-props из HTML страницы."""
+    tag_match = re.search(
+        r"<div\b[^>]*\bid=['\"]react-new_map_tool-wrapper['\"][^>]*>",
+        html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+
+    candidates = []
+
+    if tag_match:
+        tag = tag_match.group(0)
+        attr_match = re.search(
+            r"\bdata-react-props=(['\"])(.*?)\1",
+            tag,
+            flags=re.DOTALL,
+        )
+        if attr_match:
+            candidates.append(attr_match.group(2))
+
+    for attr_match in re.finditer(
+        r"\bdata-react-props=(['\"])(.*?)\1",
+        html,
+        flags=re.DOTALL,
+    ):
+        candidates.append(attr_match.group(2))
+
+    for props_str in candidates:
+        props_str = unescape(props_str)
+        try:
+            return json.loads(props_str)
+        except json.JSONDecodeError:
+            continue
+
+    return None
 
 
 def create_session():
@@ -45,38 +84,34 @@ def create_session():
 def get_map_json_url(session):
     """Получить URL JSON файла карты со страницы Game8"""
     page_url = "https://game8.co/games/Arknights-Endfield/archives/533176"
-    
-    print(f"Загрузка страницы: {page_url}")
-    response = session.get(page_url, headers=HEADERS, timeout=30)
-    response.raise_for_status()
-    
-    html = response.text
-    
-    # Ищем div с react-new_map_tool-wrapper и извлекаем data-react-props
-    pattern = r"<div[^>]*id=['\"]react-new_map_tool-wrapper['\"][^>]*data-react-props='([^']+)'"
-    match = re.search(pattern, html)
-    
-    if not match:
-        # Альтернативный поиск
-        pattern = r'data-react-props=[\'"](\{[^"]*toolStructuralMappingId[^"]*\})[\'"]'
-        match = re.search(pattern, html)
-    
-    if not match:
-        raise ValueError("Не удалось найти data-react-props на странице")
-    
-    props_str = match.group(1)
-    # Декодируем HTML entities
-    props_str = props_str.replace('&quot;', '"').replace('&#39;', "'")
-    
-    props = json.loads(props_str)
-    
-    # Извлекаем ID и updatedAt
-    mapping_id = props.get("toolStructuralMappingId")
-    tool_mapping = props.get("toolStructuralMapping", {})
-    updated_at = tool_mapping.get("updatedAt")
-    
-    if not mapping_id:
-        raise ValueError("Не удалось извлечь toolStructuralMappingId")
+
+    last_error = None
+
+    for attempt in range(1, 4):
+        print(f"Загрузка страницы: {page_url} (попытка {attempt}/3)")
+        response = session.get(page_url, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+
+        html = response.text
+        props = extract_map_props(html)
+
+        if props:
+            mapping_id = props.get("toolStructuralMappingId")
+            tool_mapping = props.get("toolStructuralMapping", {})
+            updated_at = tool_mapping.get("updatedAt")
+
+            if mapping_id:
+                break
+
+            last_error = ValueError("Не удалось извлечь toolStructuralMappingId")
+        else:
+            last_error = ValueError("Не удалось найти data-react-props на странице")
+
+        if attempt < 3:
+            print("↻ Не удалось разобрать страницу, повторяю запрос...")
+            time.sleep(2)
+    else:
+        raise last_error
     
     # Формируем URL
     json_url = f"https://game8.co/api/tool_structural_mappings/{mapping_id}.json"
