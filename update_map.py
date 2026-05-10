@@ -14,8 +14,12 @@ try:
     import cloudscraper
     USE_CLOUDSCRAPER = True
 except ImportError:
-    import requests
     USE_CLOUDSCRAPER = False
+
+try:
+    import requests
+except ImportError:
+    requests = None
 
 
 # Заголовки для имитации браузера
@@ -65,9 +69,25 @@ def extract_map_props(html):
     return None
 
 
-def create_session():
+def looks_like_challenge_page(html):
+    """Определить, что вместо статьи вернулась защитная страница."""
+    lowered = html.lower()
+    return any(
+        keyword in lowered
+        for keyword in (
+            "just a moment",
+            "attention required",
+            "cloudflare",
+            "captcha",
+            "access denied",
+            "verify you are human",
+        )
+    )
+
+
+def create_session(prefer_cloudscraper=True):
     """Создать сессию с обходом Cloudflare"""
-    if USE_CLOUDSCRAPER:
+    if prefer_cloudscraper and USE_CLOUDSCRAPER:
         print("Используем cloudscraper для обхода защиты")
         return cloudscraper.create_scraper(
             browser={
@@ -76,53 +96,79 @@ def create_session():
                 'desktop': True
             }
         )
-    else:
+    if requests is not None:
         print("cloudscraper не установлен, используем requests")
         return requests.Session()
 
+    if USE_CLOUDSCRAPER:
+        print("requests не установлен, используем cloudscraper")
+        return cloudscraper.create_scraper(
+            browser={
+                'browser': 'chrome',
+                'platform': 'windows',
+                'desktop': True
+            }
+        )
 
-def get_map_json_url(session):
+    raise ImportError("Не удалось импортировать ни cloudscraper, ни requests")
+
+
+def get_map_json_url():
     """Получить URL JSON файла карты со страницы Game8"""
     page_url = "https://game8.co/games/Arknights-Endfield/archives/533176"
 
     last_error = None
 
-    for attempt in range(1, 4):
-        print(f"Загрузка страницы: {page_url} (попытка {attempt}/3)")
-        response = session.get(page_url, headers=HEADERS, timeout=30)
-        response.raise_for_status()
+    session_modes = []
+    if requests is not None:
+        session_modes.append(False)
+    if USE_CLOUDSCRAPER:
+        session_modes.append(True)
 
-        html = response.text
-        props = extract_map_props(html)
+    for use_cloudscraper in session_modes:
+        session = create_session(prefer_cloudscraper=use_cloudscraper)
+        session_name = "cloudscraper" if use_cloudscraper else "requests"
 
-        if props:
-            mapping_id = props.get("toolStructuralMappingId")
-            tool_mapping = props.get("toolStructuralMapping", {})
-            updated_at = tool_mapping.get("updatedAt")
+        for attempt in range(1, 4):
+            print(f"Загрузка страницы: {page_url} ({session_name}, попытка {attempt}/3)")
 
-            if mapping_id:
+            response = session.get(page_url, headers=HEADERS, timeout=30)
+            response.raise_for_status()
+
+            html = response.text
+
+            if looks_like_challenge_page(html):
+                last_error = ValueError(f"Сайт вернул защитную страницу при загрузке через {session_name}")
+                print(f"↻ Похоже, сайт вернул защитную страницу через {session_name}, переключаюсь дальше...")
                 break
 
-            last_error = ValueError("Не удалось извлечь toolStructuralMappingId")
-        else:
-            last_error = ValueError("Не удалось найти data-react-props на странице")
+            props = extract_map_props(html)
 
-        if attempt < 3:
-            print("↻ Не удалось разобрать страницу, повторяю запрос...")
-            time.sleep(2)
-    else:
-        raise last_error
+            if props:
+                mapping_id = props.get("toolStructuralMappingId")
+                tool_mapping = props.get("toolStructuralMapping", {})
+                updated_at = tool_mapping.get("updatedAt")
+
+                if mapping_id:
+                    json_url = f"https://game8.co/api/tool_structural_mappings/{mapping_id}.json"
+                    if updated_at:
+                        json_url += f"?updatedAt={updated_at}"
+
+                    print(f"Mapping ID: {mapping_id}")
+                    print(f"Updated At: {updated_at}")
+                    print(f"JSON URL: {json_url}")
+
+                    return json_url, session
+
+                last_error = ValueError("Не удалось извлечь toolStructuralMappingId")
+            else:
+                last_error = ValueError("Не удалось найти data-react-props на странице")
+
+            if attempt < 3:
+                print("↻ Не удалось разобрать страницу, повторяю запрос...")
+                time.sleep(2)
     
-    # Формируем URL
-    json_url = f"https://game8.co/api/tool_structural_mappings/{mapping_id}.json"
-    if updated_at:
-        json_url += f"?updatedAt={updated_at}"
-    
-    print(f"Mapping ID: {mapping_id}")
-    print(f"Updated At: {updated_at}")
-    print(f"JSON URL: {json_url}")
-    
-    return json_url
+    raise last_error
 
 
 def download_map_data(session, url):
@@ -161,10 +207,8 @@ def main():
     map_file = Path("map.json")
     
     # Создаём сессию с обходом защиты
-    session = create_session()
-    
     # Получаем URL JSON
-    json_url = get_map_json_url(session)
+    json_url, session = get_map_json_url()
     
     # Скачиваем новые данные
     new_data = download_map_data(session, json_url)

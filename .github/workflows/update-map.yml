@@ -23,7 +23,7 @@ jobs:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: pip install cloudscraper
+        run: pip install requests cloudscraper
       
       - name: Run update script
         run: python update_map.py
